@@ -171,13 +171,13 @@ Returns a grounded answer with full document citation.
 If you use this code or dataset, please cite:
 
 ```bibtex
-@article{yourname2025railwayrag,
-  title     = {Retrieval-Augmented Generation for Railway Technical Knowledge:
-               A Comparative Evaluation of Retrieval Strategies and Hallucination Reduction},
-  author    = {Your Name},
-  journal   = {Under Review},
-  year      = {2025},
-  doi       = {10.5281/zenodo.XXXXXXX}
+@software{molhi2026railwayrag,
+  author    = {Majed Molhi},
+  title     = {RailRAG: RAG Benchmark for Railway Technical Documents},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.19047213},
+  url       = {https://doi.org/10.5281/zenodo.19047213}
 }
 ```
 
