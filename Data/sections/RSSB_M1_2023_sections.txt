@@ -1,0 +1,358 @@
+SECTION 1 — Definitions
+
+Signal protection
+
+This means placing or keeping signals at danger, and closing routes or keeping routes closed.
+
+Train Accident
+
+For the purposes of this module, the term train accident includes:
+• a derailment
+• a collision involving trains or rail vehicles
+• a collision with an obstruction
+• a collision with a road vehicle
+• a collision with a person
+• a fire on a train which might put other trains passing the location in danger
+• a fire on a train which might mean that passengers are evacuated onto running lines
+• an accidental train division which has caused another line to be obstructed.
+
+
+SECTION 2 — What to do after a train accident
+
+The people responsible: driver, guard, signaller
+
+2.1 Driver's actions
+
+[driver]
+
+You must immediately switch on the hazard warning indication where provided.
+
+If you cannot do this, you must display a red light forward.
+
+You must tell the signaller about the accident, and whether the electric traction current needs to be switched off, in the quickest way possible.
+
+You must then check:
+• if any other lines are obstructed (if in doubt, treat them as obstructed), and decide the quickest way to stop any approaching trains
+• the exact location of your train.
+
+When the signaller tells you that signal protection has been provided, you must place a track-circuit operating clip on:
+• every other line that is obstructed, and
+• the line on which your train is standing if the whole train has been derailed.
+
+You must carry out emergency protection if:
+• the signaller cannot provide signal protection, or
+• you have not been able to contact the signaller.
+
+If you need help in carrying out emergency protection, you must reach a clear understanding with the guard or any other competent person as to which lines that person will protect.
+
+If you are carrying out emergency protection alone, you must first protect other lines, then protect the line on which your train had been travelling, if necessary. You must decide which direction to protect first.
+
+2.2 Guard's actions
+
+[guard]
+
+You must check:
+• if any other lines are obstructed (if in doubt, treat them as obstructed), and decide the quickest way to stop any approaching trains
+• place a track-circuit operating clip on any lines that are obstructed.
+
+You must then contact the driver.
+
+You must agree with the driver whether you need to:
+• help with carrying out emergency protection, or
+• stay with the train.
+
+You must carry out the instructions shown for the driver in this module if you:
+• cannot contact the driver, or
+• find that the driver is unavailable.
+
+If the driver needs help in carrying out emergency protection, you must:
+• provide the help personally, or
+• arrange for any other competent person to help.
+
+If you provide the help yourself, you must reach a clear understanding with the driver as to which lines you will protect.
+
+2.3 Signaller's actions
+
+[signaller]
+
+If you are alerted to a train accident, you must:
+• immediately protect each obstructed line or arrange for this to be done
+• take any other action needed to prevent trains approaching the accident as shown in the appropriate Train Signalling Regulations
+• make an emergency broadcast to trains in the area concerned, or arrange for this to be done
+• if possible, tell the person involved that you have provided protection
+• arrange for the emergency services to be called if they are needed.
+
+
+SECTION 3 — Emergency protection
+
+The person responsible: driver
+
+3.1 Providing emergency protection
+
+[driver]
+
+You must:
+• place a track-circuit operating clip on every line that is obstructed
+• show a hand danger signal to any train that is approaching the obstruction
+• protect with detonators as described in sections 3.2 to 3.8.
+
+If the whole train is derailed, you must also place a track-circuit operating clip on the line on which your train was travelling before you carry out emergency protection on other affected lines. You must also carry out emergency protection on the line on which your train was travelling if emergency special working or temporary block working is in operation.
+
+When you have completed emergency protection, you must:
+• continue as far as necessary, if you still need to contact the signaller, or
+• return to your train.
+
+3.2 Protecting a double-track line
+
+[driver]
+
+You must place three detonators 20 metres (approximately 20 yards) apart on the other obstructed line 2 kilometres (1¼ miles) from the obstruction.
+
+3.3 Protecting a multi-track line
+
+[driver]
+
+You must place three detonators 20 metres (approximately 20 yards) apart on every other line that is obstructed, 2 kilometres (1¼ miles) from the obstruction.
+
+3.4 If a train approaches
+
+[driver]
+
+If a train approaches before you reach the full protection distance of 2 kilometres (1¼ miles), you must place three detonators immediately and show a hand danger signal to the approaching train.
+
+3.5 Reaching a telephone or signal box
+
+[driver]
+
+If you have not been able to contact the signaller and you reach a telephone linked to a signal box, or reach a signal box, within the full protection distance, you must:
+• first place three detonators on the line at the telephone or at the signal box
+• speak to the signaller.
+
+You do not need to continue to the full protection distance if the signaller confirms that signal protection is being provided.
+
+3.6 Reaching a tunnel entrance
+
+[driver]
+
+If you reach a tunnel entrance before reaching the full protection distance, you must place three detonators at the tunnel entrance.
+
+If the full protection distance is inside the tunnel, you must continue through the tunnel to the far end and place three detonators there.
+
+3.7 Reaching a diverging junction
+
+[driver]
+
+If you reach a diverging junction before reaching the full protection distance, you must:
+• place three detonators before you reach the junction, and then
+• decide the order in which you protect each line.
+
+3.8 Protecting your own line
+
+[driver]
+
+If emergency special working or temporary block working is in operation, after you have protected any other lines, you must then protect the line on which your train is standing.
+
+SECTION 4 — Fire on a train
+
+The people responsible: driver, guard
+
+4.1 Stopping the train
+
+[driver, guard]
+
+You must try to put out any fire on the train. However, if it will not be possible to put the fire out within a few seconds, you must make sure the train is stopped immediately.
+
+Where possible you must not stop the train or allow it to remain:
+• in a tunnel
+• on a viaduct, or
+• at any other unsuitable place.
+
+[guard]
+
+If you stop the train, you must immediately:
+• tell the driver the reason
+• if it is necessary, tell the driver to arrange for the emergency services to attend.
+
+4.2 Safety of passengers
+
+[guard (or driver of a DO train)]
+
+You must:
+• tell passengers to move, if possible, to vehicles which are not affected by the fire
+• if passengers have to leave the train, carry out an evacuation.
+
+4.3 Separating burning vehicles
+
+[driver]
+
+If there is a risk of the fire spreading you must, if it can be done, separate the burning vehicles from the rest of the train.
+
+4.4 If the train cannot proceed
+
+[driver]
+
+If the fire is out but the train cannot proceed, you must:
+• tell the signaller
+• carry out any necessary protection.
+
+[guard (or driver of a DO train)]
+
+If any passengers are left on the train and they are safe, you must if it is necessary, carry out a controlled evacuation when this can be done.
+
+If any passengers have left the train, you must make sure they are in a safe position and not at risk from electrified lines or trains continuing to run on any other lines.
+
+You must make sure they stay in a safe position until arrangements can be made to escort them from the site.
+
+4.5 If the train can proceed
+
+[driver]
+
+If the fire is out and the train can proceed safely, you must tell the signaller as soon as possible.
+
+SECTION 5 — Accidental train division
+
+The people responsible: driver, guard, signaller
+
+5.1 Passenger train - safety of passengers
+
+[guard (or driver of a DO train)]
+
+You must:
+• find out whether anybody might have fallen from the train
+• secure gangway end doors, if you can do this
+• make sure passengers are in a safe position on the train.
+
+5.2 Securing the divided train
+
+a) Driver's actions
+
+[driver]
+
+You must make sure both portions of the train are secure and all the vehicles are accounted for.
+
+You must tell the guard (if provided) about the situation.
+
+You must then check the couplings where the train has divided to see if:
+• they might have damaged the track or lineside equipment (if so, tell the signaller)
+• there is any damage to them which prevents recoupling the portions.
+
+b) Guard's actions
+
+[guard]
+
+If you are travelling in the rear portion, you must secure it if possible.
+
+You must then find out from the driver what action is to be taken with the train.
+
+5.3 If the two portions can be recoupled
+
+[driver]
+
+If the two portions can be recoupled, you must get the personal authority of the signaller for the movement.
+
+When the two portions have been recoupled, you must tell the signaller the train is again complete, stopping specially if necessary.
+
+On a train on which ERTMS is in operation, you must get the signaller's authority to proceed.
+
+5.4 If the two portions cannot be recoupled
+
+[driver]
+
+You must make sure that:
+• a red light is displayed at the rear of the divided portion of your train which is being left behind
+• a white light is displayed at the front of the divided portion of your train which is being left behind.
+
+You must then tell the signaller:
+• that the rear portion is to be left in the section
+• the exact location of the rear portion.
+
+If you have not been able to tell the signaller, you must not go beyond the next stop signal or block marker until you have told the signaller.
+
+You must not leave a single-line section until you have told the signaller.
+
+You must put a tail lamp on the rear of the front portion if it is on a track circuit block or ERTMS line. If you are not on a track circuit block or ERTMS line, you must only do this when the front portion reaches:
+• the next signal box, or
+• a track circuit block or ERTMS line.
+
+5.5 Dealing with an assisting train
+
+[signaller]
+
+When an assisting train is ready to enter the section to remove the rear portion of a divided train, you must tell the driver:
+• the exact location of the divided portion
+• the colour of the light that is displayed on the divided portion
+• if necessary, to pass at danger the signal protecting the obstructed line or pass an end of authority (EoA) without a movement authority (MA).
+
+[driver]
+
+When your train is to enter the section as an assisting train to remove the rear portion of a divided train, the signaller will tell you:
+• the exact location of the divided portion
+• the colour of the light that is displayed on the divided portion
+• if necessary, to pass at danger the signal protecting the obstructed line or to pass an end of authority (EoA) without a movement authority (MA).
+
+You must:
+• proceed at caution
+• not exceed a speed of 25 mph (40 km/h).
+
+SECTION 6 — Evacuating a train
+
+
+The people responsible: driver, guard, signaller
+
+6.1 Preconditions
+
+[driver, guard]
+
+You must carry out an evacuation of a train only if it is absolutely necessary.
+
+6.2 Guard's immediate actions
+
+[guard]
+
+You must tell the driver that an evacuation is necessary.
+
+6.3 Controlled evacuation
+
+[driver]
+
+You must tell the signaller that the train is to be evacuated and ask the signaller to provide signal protection on all lines that may be affected. If necessary, you must also ask for the electric traction current to be switched off.
+
+When the signaller tells you all signal protection has been completed, you must tell the guard.
+
+6.4 Emergency evacuation
+
+[driver]
+
+You must tell the signaller that an emergency evacuation is taking place or is necessary and ask the signaller to provide immediate signal protection on all lines that may be affected. If necessary, you must also ask for the electric traction current to be switched off.
+
+If you cannot contact the signaller, or the signaller cannot provide signal protection, you must carry out emergency protection.
+
+6.5 Passenger safety
+
+[guard (or driver of a DO train)]
+
+You must decide the best way to evacuate the train safely, taking into account:
+• how the passengers will be moved from the site
+• the need for passengers to cross the least number of lines, if possible, to reach a safe position.
+
+You must warn passengers to stay in a safe position until they can be escorted from the line.
+
+6.6 Uncontrolled evacuation
+
+[driver]
+
+You must tell the signaller that an uncontrolled evacuation is taking place and ask the signaller to provide immediate signal protection on all lines that may be affected. If necessary, you must also ask for the electric traction current to be switched off.
+
+If you cannot contact the signaller, or the signaller cannot provide signal protection, you must carry out emergency protection.
+
+[driver, guard]
+
+You must try and prevent passengers making an uncontrolled evacuation and warn passengers, who have evacuated, about any risks.
+
+6.7 Signaller's actions
+
+[signaller]
+
+When told about the evacuation of a train, you must:
+• block all lines that may be affected
+• tell the driver when you have provided protection.

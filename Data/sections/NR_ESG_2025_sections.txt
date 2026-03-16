@@ -1,0 +1,221 @@
+Railway Infrastructure Safety & Access Processes
+The Safety & Access Processes define options for safety and access to the railway infrastructure. Table 1 outlines the key requirements, including when to notify NR and who authorises, manages, and confirms safe access.
+NR acknowledges that the Emergency Services might have policies complementing this guidance, sometimes adding additional safety measures to further protect their staff. However, these policies should not allow access to railway infrastructure during incidents without following one of the below Safety & Access Processes.
+Table 1 – Railway Infrastructure Safety & Access Processes
+Co-ordinated Safety / Access with or without a RIO 
+
+Emergency Service's Control should inform NR Route Control immediately.
+NR Route Control will then review any request, the rationale, and consider initial risk mitigation, e.g., trains stopped, cautioned, traction power off (where required).
+
+Responding personnel should NOT enter onto the railway infrastructure until trains have been stopped, traction power is off (where required), and access has been authorised by the RIO or Route Control.
+With a RIO
+A RIO is deployed with an ETA and, on arrival, will assume command responsibility from Route Control for on-site safety management and access authorisation.
+Without a RIO
+Considered where a RIO is unavailable or there is insufficient time for a RIO to attend.
+NR Route Control will manage safety mitigation relating to train movements, traction power off (where required) and access.
+The NR Route Control will provide a reference number when access is authorised.
+EXTREME CIRCUMSTANCES Safety/Access 
+Considered where there is insufficient time to inform NR Route Control due to:
+
+an immediate risk of harm to an individual (in order to preserve of life), and/or
+an immediate risk to the safe movement of trains.
+
+A dynamic risk assessment should be undertaken by Emergency Service's responders / Emergency Service's Control, whilst considering any organisational policies.
+Where the Emergency Service's organisational policies and dynamic risk assessment allow, the Emergency Service's responders can then access the railway infrastructure, considering that TRAINS ARE RUNNING and TRACTION POWER IS ON until NR Route Control, or the RIO advise otherwise.
+Emergency Service's Control should inform NR Route Control immediately, allowing NR to consider risk mitigation and the deployment of a RIO.
+INCIDENT RESPONSE
+Following the resolution of any incident, Emergency Service's Control should confirm personnel and equipment are clear of the railway infrastructure, and inform NR Route Control to allow the line to be re-opened.
+
+SAFETY FIRST
+Think SAFETY FIRST: The highest priority is the safety of responders, staff and the public whenever dealing with an incident on the railway infrastructure. The JESIP Joint Decision Model should be used as a framework for making dynamic decisions during incidents, such as when considering the different Safety & Access Processes.
+Consider that TRAINS ARE RUNNING and TRACTION POWER IS ON until advised otherwise by the NR Route Control or RIO. Upon arrival of Emergency Service's Responders, the Emergency Service's Control should re-confirm the status of train running and traction power, as conditions might have changed. Unless EXTREME CIRCUMSTANCES apply, responders should NOT enter railway infrastructure until authorised and confirmed by NR Route Control or the RIO that trains have stopped, and traction power has been switched off (where required).
+The Emergency Service's Control should contact the NR Route Control immediately during incidents on or near NR infrastructure that might affect railway operations or safety.
+
+Network Rail Response
+When informed, or aware of an incident the NR Route Control will:
+
+contact and advise the Emergency Service's Control of all incidents requiring their attendance.
+provide information such as incident type, hazards, location, and the RVP/access (M/ETHANE).
+inform the British Transport Police of all incidents involving the Emergency Services.
+review any reports, requests and rationale, and consider initial risk mitigation, liaising with the signaller and Electrical Control to stop or caution trains, and to switch off traction power (where required).
+dispatch a Rail Incident Officer (RIO) to the incident with an ETA. The RIO will be in orange high visibility clothing.
+
+Once on-site the NR RIO will assume command responsibility (from NR Route Control) for on-site safety management and authorisation of access to the railway infrastructure for all Emergency Services personnel. The RIO will work utilising JESIP principles.
+
+Personal Protective Equipment
+Emergency Services personnel should wear appropriate Personal Protective Equipment (PPE) on NR's railway infrastructure. This includes high visibility vest, boots and a hard hat (Emergency Service's helmets / hats are acceptable).
+If full PPE is not available, this should be considered as part of a risk assessment in consultation and between the Emergency Service's Control, responding personnel and NR Route Control or RIO, to allow a decision/agreement to be made. The decision can consider which actions to take such as obtaining PPE, sending additional staff with PPE, or responding personnel going onto the railway infrastructure without full PPE whilst considering potential risk mitigation.
+
+On-Site Incident Management Roles
+
+A Mobile Operations Manager (MOM) might undertake the role of the Rail Incident Officer (RIO), acting as NR's on-site commander, liaising with Emergency Services. The MOM / RIO can assist with incident safety (e.g., train movements and traction power), and access to the railway infrastructure.
+At NR managed stations, a Station Incident Officer (SIO) might undertake the role of NR's on-site station commander. The SIO cannot provide train movement / traction power safety management, or access to the railway infrastructure, so a RIO might also be required.
+At stations managed by Train Operating Companies (TOC), a TOC staff member might perform a similar role to a SIO. They cannot provide train movement / traction power safety management, or access to the railway infrastructure, so a RIO might also be required.
+
+
+Track Layout
+If going trackside under the EXTREME CIRCUMSTANCES process, the cess is normally the safest place to be. Stay out of the four-foot, six-foot and ten-foot areas as much as possible. If you have to walk on the railway, walk on ballast, and never on rails, sleepers or cable troughing.
+Note that the four-foot, six-foot and ten-foot are NOT measurements in feet, and there will NOT be safe space in these areas when accessing the railway infrastructure under EXTREME CIRCUMSTANCES. Other risks such as slips, trips and falls should always be considered.
+
+Train Speeds, Noise and Air Movement
+It can be difficult to hear an approaching train, especially when focusing on an incident or with other noise such as airwave radios. Once heard, you might not have time to move out of its path. Table 2 shows the time someone might have to move clear of the line before a train reaches them. Table 2 calculations are based on the assumption that the train is noticed when it is 50 metres away.
+Table 2 – The time taken for trains to travel 50 metres at different speeds.
+Speed / Distance / Time
+50mph / 50m / 2.2 seconds
+70mph / 50m / 1.6 seconds
+100mph / 50m / 1.1 seconds
+125mph / 50m / 0.9 seconds
+140mph / 50m / 0.8 seconds
+186mph / 50m / 0.6 seconds
+An airwave radio can be a significant distraction when focusing on safe access and incident management on the railway. It might prevent personnel from hearing warning sounds, trains approaching, or prevent colleagues from communicating immediate safety warnings. Consider disconnecting and removing any airwave radio earpiece.
+A passing train can create significant air turbulence, which can pull you toward the train if you are standing nearby. During any dynamic risk assessment, it is important to remember that estimating the speed of an approaching train is extremely difficult. As outlined in Table 2, there might not be enough time to move out of the train's path and clear the area to avoid being affected by the air turbulence.
+Note that even if trains are being cautioned and are travelling at a reduced speed, it might not be possible to stop where the track is seen to be clear by the driver, and then someone moves onto the track/into the path of the train with insufficient time for the driver to stop. Responders should not access the railway infrastructure whilst trains are running at caution, unless the responders need to access due to EXTREME CIRCUMSTANCES that apply to the incident, and the risks posed should be considered.
+
+The Impact and Potential Risks from an Emergency Switch Off
+An Emergency Switch Off (ESO) of traction power switches off power to the third rail or OLE. Non-essential ESO's can cause significant unnecessary disruption to passengers and the railway network. After an ESO, successful power off might need confirming, and dangerous residual voltage might remain in OLE. Therefore, after an ESO, third rail / OLE are safe to approach but DO NOT TOUCH unless told otherwise by NR Route Control or the RIO.
+Once an electrical Emergency Switch Off has taken place, this can impact the railway, services and passengers in several ways, so this needs to be considered when risk assessing and making any decision to request an Emergency Switch Off (and different options may or may not be available within electrical policy and standards):
+
+Electrically powered train services will gradually slow down and come to stop. This could be in-between stations, which is then referred to as a stranded train.
+Services might immediately lose onboard facilities such as lights, air conditioning, heating and toilets, or have these for a limited time on a reserve battery. Confirming reserve battery timescales could be critical.
+Some trains lack basic facilities such as toilets, which can quickly lead to passenger distress and discomfort.
+People onboard services might not have planned for an extended journey with reduced facilities and might not have access to immediate provisions needed for their welfare, such as medication, food/water, warm clothing, or other items which could cause individuals significant risks to go without.
+Passengers might force doors open and disembark onto the railway, putting them at risk from moving trains or electric shock, which can lead to life changing injuries or a fatal injury (electrocution).
+To complete a planned evacuation of services is a lengthy process which requires numerous members of staff to do safely. This could require a significant amount of support from the Emergency Services to undertake multiple evacuations if trains become stranded for an extensive period of time.
+With trains stopped, there is likely to be a significant buildup of crowding at stations across the network, with some passengers likely to be frustrated, and with the potential for public order incidents.
+It is often seen, and is likely, that a significant number of passengers might miss hospital appointments, connecting services, flights or other bookings which can increase tensions and a sense of urgency and concern amongst passengers. This can lead to passengers considering an uncontrolled self-evacuation, putting their lives at risk on an operational railway.
+The financial impact from cancelled trains and delays can be extensive.
+
+
+Diesel and Multi-Mode Services
+Even when power is discharged to the OLE or third rail, diesel or battery-powered services can still be running. There are also multi-mode services that can run on electricity, diesel or battery. Increasing numbers of trains can now run on batteries for short distances. Thinking about this is important as they are a lot quieter than diesel engines. Unless EXTREME CIRCUMSTANCES apply, it is essential to confirm with NR Route Control that all train movements have stopped, and that authorisation is given by the Route Control or RIO before accessing the track.
+
+Typical Overhead Line Equipment (OLE) Construction
+The Overhead Line Equipment (OLE), shown in the diagram below, supplies electricity at 25,000 volts AC. High-voltage electricity can arc from the contact or catenary wire under certain conditions. When working on NR railway infrastructure, stay at least 2.75 metres from OLE when traction power is on. After power is switched off, successful power off might need confirming, and residual voltage may remain. It is safe to approach but DO NOT TOUCH unless advised otherwise by NR Route Control or the RIO.
+
+Typical Direct Current (DC) Third Rail/Conductor Rail Design
+The third rail (conductor rail), which is slightly raised beside the running lines, is shown in the pictures below. It typically supplies 750 volts DC on NR's railway infrastructure. After traction power is switched off, confirmation may be needed. It is safe to approach but DO NOT TOUCH unless advised otherwise by NR Route Control or the RIO.
+It is also worth noting that where lines are shared with London Underground there may also be a fourth rail, which is also on insulators and also carries electricity.
+
+The Effect of Touching OLE / Third Rail
+Electricity seeks the easiest path to the ground from wherever it starts. The human body is around 60% water, so people are potentially very good conductors. If anyone comes into contact with electrified OLE, or third rail:
+
+the heat passing through the human body causes severe damage to internal organs.
+tissue burns beneath the skin cause scarring and black marks on the surface.
+the muscles in the heart fail – stopping the flow of blood and oxygen.
+lungs and respiratory system are paralysed.
+the body's nervous system – which relies on tiny electrical impulses to function – is disrupted, causing paralysis and affects a person's ability to think, respond and remember.
+
+
+Recovery of a Person
+If a person is in contact with the third rail or OLE, it is critical to:
+
+confirm with NR Route Control / RIO that trains are stopped.
+confirm with NR Route Control / RIO that the traction power is off.
+understand that after power being switched off, a safety message might be given by the NR Route Control / RIO of "safe to approach but don't touch" (the third rail or OLE).
+take direction from NR Route Control / RIO regarding when recovery or assistance can safely be provided.
+(If Emergency Service's policy allows) consider using dry, non-conductive equipment to break a person's contact with third rail / OLE, when power is on or not confirmed as safe to touch by NR Route Control / RIO.
+understand that a declaration from NR of "Power Off" doesn't guarantee safety (see below).
+
+After NR confirm traction 'Power Off', the traction power might still be on if there is a misunderstanding in communication, if the incorrect location is received or if there was a fault when turning off the power remotely. NR would usually 'test before touch' on site to confirm traction power is off. There could also be induced voltage from another electrical source, or dangerous residual voltage in the case of OLE. Clear communication, and on-site awareness of the risks to allow effective recovery at the earliest opportunity is vital.
+
+Terms and Definitions
+Ballast — Crushed stones or other materials placed beneath and around sleepers to provide stability, drainage, and support for railway tracks.
+Cable troughing — Protective channels or enclosures that house and shield electrical and communication cables along railway tracks.
+Caution - Trains cautioned / to run at caution — An instruction for train drivers to proceed at a reduced speed, being prepared to stop short of any obstruction or hazard, although stopping is not guaranteed. It is still not safe to access the railway infrastructure.
+Cess — The area immediately beside the railway track, often used as a safe standing space for railway workers.
+Controlled train evacuation — The evacuation of passengers from a train by responding staff after the signaller has confirmed that all lines have been protected.
+Co-operating authorised responder personnel — This accounts for the rare circumstances where Network Rail might request or permit assistance at a scene of an incident by a rail operator other than Network Rail e.g. Train / Freight Operating Company, London Underground or Glasgow Subway staff.
+DC Conductor Rail / Third Rail — A rail which supplies electricity to electrically powered trains. The Conductor Rail is located at ground level alongside the track.
+Electrified Line — A railway line that is powered by electricity, either through Overhead Line Equipment (OLE) or a third rail system. Non-electric diesel or battery-powered trains also run on the network and can continue to run even when the traction power is switched off.
+Emergency train evacuation — The evacuation of passengers from a train when protection has not been given.
+Emergency Switch Off of traction power — Switch off of the traction power (Overhead Line Equipment / third rail). After an ESO, successful power off might need confirming, and dangerous residual voltage might remain in OLE. Therefore, after an ESO, third rail / OLE are safe to approach but DO NOT TOUCH unless told otherwise by NR Route Control or the RIO.
+Fastening / clip — A component used to secure rails to sleepers and maintain track stability.
+Four-foot — The space between the two running rails of a railway track.
+Live — A term indicating that electrical equipment or tracks are energised and potentially dangerous.
+Mobile Operations Manager (MOM) — A MOM is responsible for responding to incidents, ensuring railway safety, co-ordinating with emergency services, and minimising service disruption. A MOM, if holding the required competencies, can undertake the role of the RIO (on-site commander in a formal command structure).
+Overhead Line Equipment (OLE) — Wires and associated equipment suspended over or adjacent to the railway line for supplying power to electrically powered trains.
+Permissible speed — The maximum permitted speed for the section of railway line.
+Place of safety — A location that is determined as safe from the movement of a train, and safe from electrical power.
+Rail Incident Commander (RIC) — Network Rail Strategic Commander: might be at either a Route, Regional, national, or department/function level depending on the incident.
+Rail Incident Officer (RIO) — Network Rail 'on-site' Commander at the scene of the incident on the Railway Infrastructure.
+Route Control — The operational centre responsible for managing train movements, incidents, and disruptions across a specific railway route, or part of a route.
+Route Control Manager (RCM) / Network Delivery Manager (NDM) — The Network Rail manager 'off-site' based in the Route Control(s). Might be involved as a Tactical Commander for incidents impacting on the railway.
+Running rail — The rails on which train wheels travel, forming part of the track infrastructure.
+Six-foot — The space between two adjacent tracks on a railway.
+Sleeper — The rectangular supports under the rails that help distribute weight and maintain track alignment.
+Station Incident Officer (SIO) — Network Rail or relevant Train Operating Company 'on-site' Commander at the scene of an incident on a Station.
+Ten-foot — The potentially wider space between two pairs of tracks on a railway, typically used for access or maintenance.
+Traction power supply isolated and earthed — Electrical power is off and earthing devices have been applied, removing any potentially dangerous residual voltage.
+Trains stopped — Trains have been told to stop. Responders should check their surroundings as trains could still be running or slowing down.
+Trapped/Stranded Train — A trapped/stranded train is one that has stopped between stations and is unable to proceed due to an obstruction, power failure, or other operational issue/incident.
+Uncontrolled train evacuation — The self-evacuation of passengers from a train, which is not initiated by the driver, guard, or any staff in attendance.
+
+Emergency Services Control Action Card
+Think SAFETY FIRST: TRAINS ARE RUNNING and TRACTION POWER IS ON until Network Rail (NR) Route Control, or the Rail Incident Officer (RIO) advise otherwise: Unless EXTREME CIRCUMSTANCES apply, advise responding staff they should NOT enter onto the railway infrastructure until authorised and confirmed by Network Rail Route Control or the RIO that trains have stopped, and power is off (where required).
+Risk Considerations (This Is Not Exhaustive)
+
+Train Movements: Trains may approach unexpectedly, posing a risk of collision or injury.
+Traction Power: Third rail / Overhead Line Equipment (OLE) can cause severe electric shock or burns.
+Slip, Trip, and Fall Hazards: Steep drops, wet uneven surfaces, ballast and obstacles can lead to accidents.
+Noise and Vibration: High noise levels and vibrations can impair communication and cause disorientation.
+Loose or Falling Objects: Equipment or debris may dislodge and fall, posing a hazard to personnel.
+
+Emergency Service's Control considerations / actions:
+If a RIO is not on-site with first responders, Emergency Service's Control should inform NR Route Control of the incident immediately. Use railway terminology to request appropriate action and provide the rationale.
+NR will consider, confirm and liaise with the signaller and the Electrical Control to stop / caution trains and to request traction power off (where required).
+NR should update the Emergency Service's Control with the outcome, and any later changes to this.
+Inform responders that the Accessing the Railway Infrastructure Responder Action Card is on the JESIP app.
+Obtain M/ETHANE report from first responder on scene, which includes exact location. A postcode may be insufficient, use what3words or railway structure references where possible / necessary with NR Route Control.
+Provide the M/ETHANE report to NR. If access is required, confirm rationale for needing access.
+Inform the British Transport Police Control for awareness and additional support where required.
+Consider / confirm whether responding personnel have necessary PPE (high visibility vest or similar, boots, hard hat). If personnel notify that they do not have necessary PPE, consider and decide in consultation with personnel and NR Route Control whether additional personnel with PPE will attend, whether PPE can be sought, or whether personnel can go onto the railway infrastructure without full PPE.
+Safety mitigation for the incident (potentially separate to the authority to access the railway) confirmed with NR Route Control or RIO, that trains are stopped or cautioned, and that traction power is off (where required).
+Confirmation of RIO eta from NR Route Control.
+Access process - Consider with Emergency Services personnel and NR Route Control where possible, whether to wait for a RIO (considering their ETA), or whether Safety & Access without a RIO, or EXTREME CIRCUMSTANCES (see Table 1) are necessary. Follow the decided process, communicating with NR Route Control as detailed.
+Continue updating NR Route Control until the incident is concluded, confirming that all responders and equipment have safely exited the railway infrastructure as soon as possible.
+Following the resolution of any incident, Emergency Service's Control must confirm personnel and equipment are clear of the railway infrastructure, and update NR Route Control to allow the line to be re-opened.
+Additional actions by the NR Route Control:
+✓ To contact and advise Emergency Service's Control of all incidents requiring their attendance, providing an incident summary such as M/ETHANE.
+✓ Inform the British Transport Police of all incidents involving Emergency Services.
+Once on-site the NR RIO will assume command responsibility (from Route Control) for on-site railway safety management and authorisation of access to the railway infrastructure for all Emergency Service personnel. The RIO will work utilising JESIP principles.
+Terminology that is important to use and understand
+Caution - Trains cautioned / to run at caution — An instruction for train drivers to proceed at a reduced speed, being prepared to stop short of any obstruction or hazard, although stopping is not guaranteed. It is still not safe to access the railway infrastructure.
+Trains Stopped — Trains have been told to stop. Responders should check their surroundings as trains could still be running or slowing down.
+Emergency Switch Off (ESO) of traction power — Switch off of the traction power (Overhead Line Equipment / third rail). After an ESO, successful power off might need confirming, and dangerous residual voltage might remain in OLE. Therefore, after an ESO, third rail / OLE are safe to approach but DO NOT TOUCH unless told otherwise by NR Route Control or the RIO.
+Traction power supply isolated and earthed — Electrical power is off and earthing devices have been applied, removing any potentially dangerous residual voltage.
+
+Emergency Services Responder Action Card
+Think SAFETY FIRST: Until advised otherwise by Network Rail (NR) Route Control or Rail Incident Officer (RIO):
+
+TRAINS ARE RUNNING and TRACTION POWER IS ON.
+DO NOT ENTER onto the railway infrastructure unless in EXTREME CIRCUMSTANCES (see Table 1 below).
+DO NOT APPROACH OR TOUCH third rail or Overhead Line Equipment (OLE). Treat it as live.
+
+Table 1 - Railway Infrastructure Safety & Access Processes
+Co-ordinated Safety / Access with or without a RIO
+
+Emergency Responder: Request your Control to contact Network Rail (NR) Route Control immediately for any incident on, near, affecting or likely to affect the railway. Pass M/ETHANE details.
+NR Route Control: Will review any request, the rationale, and consider initial risk mitigation, e.g., trains stopped, cautioned, traction power off (where required).
+
+Responding personnel should NOT enter onto the railway infrastructure until trains have been stopped, traction power is off (where required), and access has been authorised by the RIO or Route Control.
+With a RIO
+A RIO is deployed with an ETA and, on arrival, will assume command responsibility from Route Control for on-site safety management and access authorisation.
+Without a RIO
+Considered where a RIO is unavailable or there is insufficient time for a RIO to attend.
+NR Route Control will manage safety mitigation relating to train movements, traction power off (where required) and access.
+The NR Route Control will provide a reference number when access is authorised.
+EXTREME CIRCUMSTANCES Safety/Access
+Considered where there is insufficient time to inform NR Route Control due to:
+
+an immediate risk of harm to an individual (in order to preserve of life), and/or
+an immediate risk to the safe movement of trains.
+
+A dynamic risk assessment should be undertaken by Emergency Service's responders / Emergency Service's Control, whilst considering any organisational policies.
+Where the Emergency Service's organisational policies and dynamic risk assessment allow, the Emergency Service's responders can then access the railway infrastructure, considering that TRAINS ARE RUNNING and TRACTION POWER IS ON until NR Route Control, or the RIO advise otherwise.
+Emergency Service's Control should inform NR Route Control immediately, allowing NR to consider risk mitigation and the deployment of a RIO.
+Following the resolution of any incident, confirm with your control when personnel and equipment are clear of the railway infrastructure, and request your Control update NR Route Control to allow the line to be re-opened.
+Terminology / Definitions
+Caution - Trains cautioned / to run at caution — An instruction for train drivers to proceed at a reduced speed, being prepared to stop short of any obstruction or hazard, although stopping is not guaranteed. It is still not safe to access the railway infrastructure.
+Trains Stopped — Trains have been told to stop. Responders should check their surroundings as trains could still be running or slowing down.
+Emergency Switch Off (ESO) of traction power — Switch off of the traction power (Overhead Line Equipment / third rail). After an ESO, successful power off might need confirming, and dangerous residual voltage might remain in OLE. Therefore, after an ESO, third rail / OLE are safe to approach but DO NOT TOUCH unless told otherwise by NR Route Control or the RIO.
+Traction power supply isolated and earthed — Electrical power is off and earthing devices have been applied, removing any potentially dangerous residual voltage.

@@ -1,0 +1,351 @@
+EFFECTIVE DATE: July 6, 1998.
+
+49 CFR Parts 223 and 239
+Authority: 49 U.S.C. 20102–20103, 20105–20114, 20133, 20701, 21301–21302, and 21304; Sec. 215, Pub. L. No. 103–440, 108 Stat. 4623–4624 (49 U.S.C. 20133); and 49 CFR 1.49(c), (g), (m).
+
+223.5 Definitions.
+As used in this part—
+Administrator means the Administrator of the Federal Railroad Administration or the Administrator's delegate.
+Caboose means a car in a freight train intended to provide transportation for crewmembers.
+Certified glazing means a glazing material that has been certified by the manufacturer as having met the testing requirements set forth in Appendix A of this part and that has been installed in such a manner that it will perform its intended function.
+Designated service means exclusive operation of a locomotive under the following conditions:
+(1) The locomotive is not used as an independent unit or the controlling unit is a consist of locomotives except when moving for the purpose of servicing or repair within a single yard area;
+(2) The locomotive is not occupied by operating or deadhead crews outside a single yard area; and
+(3) The locomotive is stenciled "Designated Service—DO NOT OCCUPY".
+Emergency responder means a member of a police or fire department, or other organization involved with public safety charged with providing or coordinating emergency services, who responds to a passenger train emergency.
+Emergency window means that segment of a side facing glazing location which has been designed to permit rapid and easy removal during a crisis situation.
+End facing glazing location means any location where a line perpendicular to the plane of the glazing material makes a horizontal angle of 50 degrees or less with the centerline of the locomotive, caboose or passenger car. Any location which, due to curvature of the glazing material, can meet the criteria for either a front facing location or a side facing location shall be considered a front facing location.
+FRA means the Federal Railroad Administration.
+Locomotive means a self-propelled unit of equipment designed primarily for moving other equipment. It does not include self-propelled passenger cars.
+Locomotive cab means that portion of the superstructure designed to be occupied by the crew while operating the locomotive.
+Passenger car means a unit of rail rolling equipment intended to provide transportation for members of the general public and includes self-propelled cars designed to carry baggage, mail, express or passengers. This term includes a passenger coach, cab car, and an MU locomotive. This term does not include a private car.
+Passenger train service means the transportation of persons (other than employees, contractors, or persons riding equipment to observe or monitor railroad operations) in intercity passenger service or commuter or other short-haul passenger service in a metropolitan or suburban area.
+Person means:
+(1) Any form of non-highway ground transportation that runs on rails or electromagnetic guideways, including—
+(i) Commuter or other short-haul rail passenger service in a metropolitan or suburban area and commuter railroad service that was operated by the Consolidated Rail Corporation on January 1, 1979, and
+(ii) High speed ground transportation systems that connect metropolitan areas, without regard to whether those systems use new technologies not associated with traditional railroads, but does not include rapid transit operations in an urban area that are not connected to the general railroad system of transportation and
+(2) A person that provides railroad transportation, whether directly or by contracting out operation of the railroad to another person.
+Railroad means:
+(1) Any form of non-highway ground transportation that runs on rails or electromagnetic guideways, including
+(i) Commuter or other short-haul rail passenger service in a metropolitan or suburban area and commuter railroad service that was operated by the Consolidated Rail Corporation on January 1, 1979, and
+(ii) High speed ground transportation systems that connect metropolitan areas, without regard to whether those systems use new technologies not associated with traditional railroads, but does not include rapid transit operations in an urban area that are not connected to the general railroad system of transportation and
+(2) A person that provides railroad transportation, whether directly or by contracting out operation of the railroad to another person.
+Rebuilt locomotive, caboose or passenger car means a locomotive, caboose or passenger car that has undergone overhaul which has been identified by the railroad as a capital expense under Surface Transportation Board accounting standards.
+Side facing glazing location means any location where a line perpendicular to the plane of the glazing material makes an angle of more than 50 degrees with the centerline of the locomotive, caboose or passenger car.
+Windshield means the combination of individual units of glazing material of the locomotive, passenger car, or caboose that are positioned in an end facing glazing location.
+Yard is a system of auxiliary tracks used exclusively for the classification of passenger or freight cars according to commodity or destination; assembling of cars for train movement; storage of cars; or repair of equipment.
+Yard caboose means a caboose that is used exclusively in a single yard area.
+Yard locomotive means a locomotive that is operated only to perform switching functions within a single yard area.
+
+223.9 Requirements for new or rebuilt equipment.
+(d) Marking. Each railroad providing passenger train service shall ensure that for each passenger car, except for self-propelled cars designed to carry baggage, mail, or express:
+(1) Each emergency window is conspicuously and legibly marked with luminescent material on the inside of each car to facilitate passenger egress. Each such railroad shall post clear and legible operating instructions at or near each such exit.
+(2) Each window intended for emergency access by emergency responders for extrication of passengers is marked with a retroreflective, unique, and easily recognizable symbol or other clear marking. Each such railroad shall post clear and understandable window-access instructions either at each such window or at each end of the car.
+
+Appendix B to Part 223—Schedule of Civil Penalties
+Section / Violation / Willful violation
+223.9 New or rebuilt Equipment:
+(a) Locomotives: $2,500 / $5,000
+(b) Cabooses: $2,500 / $5,000
+(c) Passenger cars: $2,500 / $5,000
+(d)(1), (d)(2):
+(i) Window not marked or instructions not posted: $2,500 / $5,000
+(ii) Window improperly marked or instructions improperly posted: $1,000 / $2,000
+223.11(c) Existing locomotives: $2,500 / $5,000
+(d) Repair of window: $1,000 / $2,000
+223.13(c) Existing cabooses: $2,500 / $5,000
+(d) Repair of window: $1,000 / $2,000
+223.15(c) Existing passenger cars: $2,500 / $5,000
+(d) Repair of window: $1,000 / $2,000
+223.17 Identification of units: $1,000 / $1,500
+
+Part 239—PASSENGER TRAIN EMERGENCY PREPAREDNESS
+Subpart A—General
+239.1 Purpose and scope.
+(a) The purpose of this part is to reduce the magnitude and severity of casualties in railroad operations by ensuring that railroads involved in passenger train operations can effectively and efficiently manage passenger train emergencies.
+(b) This part prescribes minimum Federal safety standards for the preparation, adoption, and implementation of emergency preparedness plans by railroads connected with the operation of passenger trains, and requires each affected railroad to instruct its employees on the provisions of its plan. This part does not restrict railroads from adopting and enforcing additional or more stringent requirements not inconsistent with this part.
+
+239.3 Application.
+(a) Except as provided in paragraph (b) of this section, this part applies to all:
+(1) Railroads that operate intercity or commuter passenger train service on standard gage track which is part of the general railroad system of transportation;
+(2) Railroads that provide commuter or other short-haul rail passenger train service in a metropolitan or suburban area (as described by 49 U.S.C. 20102(1)), including public authorities operating passenger train service; and
+(3) Passenger or freight railroads hosting the operation of passenger train service described in paragraph (a)(1) or (a)(2) of this section.
+(b) This part does not apply to:
+(1) Rapid transit operations in an urban area that are not connected with the general railroad system of transportation;
+(2) Operation of private cars, including business/office cars and circus trains; or
+(3) Tourist, scenic, historic, or excursion operations, whether on or off the general railroad system.
+
+239.5 Preemptive effect.
+Under 49 U.S.C. 20106 (formerly section 205 of the Federal Railroad Safety Act of 1970 (45 U.S.C. 434)), issuance of this part preempts any State law, rule, regulation, order, or standard covering the same subject matter, except a provision necessary to eliminate or reduce an essentially local safety hazard, that is not incompatible with Federal law or regulation and does not unreasonably burden interstate commerce.
+
+239.7 Definitions.
+As used in this part—
+Adjacent rail modes of transportation means other railroads, trolleys, light rail, heavy transit, and other vehicles operating on rails or electromagnetic guideways which are expressly identified in a railroad's emergency preparedness plan.
+Administrator means the Administrator of the Federal Railroad Administration or the Administrator's delegate.
+Control center means a central location on a railroad with responsibility for directing the safe movement of trains.
+Crewmember means a person, other than a passenger, who is assigned to perform either:
+(1) On-board functions connected with the movement of the train (i.e., an employee of a railroad, or of a contractor to a railroad, who is assigned to perform service subject to the Federal hours of service laws during a tour of duty) or
+(2) On-board functions in a sleeping car or coach assigned to intercity service, other than food, beverage, or security service.
+Division headquarters means the location designated by the railroad where a high-level operating manager (e.g., a superintendent, division manager, or equivalent), who has jurisdiction over a portion of the railroad, has an office.
+Emergency or emergency situation means an unexpected event related to the operation of passenger train service involving a significant threat to the safety or health of one or more persons requiring immediate action, including:
+(1) A derailment;
+(2) A fatality at a grade crossing;
+(3) A passenger or employee fatality, or a serious illness or injury to one or more passengers or crewmembers requiring admission to a hospital;
+(4) An evacuation of a passenger train; and
+(5) A security situation (e.g., a bomb threat).
+Emergency preparedness plan means one or more documents focusing on preparedness and response in dealing with a passenger train emergency.
+Emergency responder means a member of a police or fire department, or other organization involved with public safety charged with providing or coordinating emergency services, who responds to a passenger train emergency.
+Emergency window means that segment of a side facing glazing location which has been designed to permit rapid and easy removal in an emergency situation.
+FRA means the Federal Railroad Administration.
+Joint operations means rail operations conducted by more than one railroad on the same track, except as necessary for the purpose of interchange, regardless of whether such operations are the result of:
+(1) Contractual arrangements between the railroads;
+(2) Order of a governmental agency or a court of law; or
+(3) Any other legally binding directive.
+Passenger train service means the transportation of persons (other than employees, contractors, or persons riding equipment to observe or monitor railroad operations) by railroad in intercity passenger service or commuter or other short-haul passenger service in a metropolitan or suburban area.
+Person includes all categories of entities covered under 1 U.S.C. 1, including, but not limited to, a railroad; any manager, supervisor, official, or other employee or agent of a railroad; any owner, manufacturer, lessor, or lessee of railroad equipment, track, or facilities; any passenger; any trespasser or nontrespasser; any independent contractor providing goods or services to a railroad; any volunteer providing goods or services to a railroad; and any employee of such owner, manufacturer, lessor, lessee, or independent contractor.
+Private car means a rail passenger car used to transport non-revenue passengers on an occasional contractual basis, and includes business or office cars and circus trains.
+Qualified means a status attained by an employee who has successfully completed any required training for, has demonstrated proficiency in, and has been authorized by the employer to perform the duties of a particular position or function involving emergency preparedness.
+Railroad means:
+(1) Any form of non-highway ground transportation that runs on rails or electromagnetic guideways, including—
+(i) Commuter or other short-haul rail passenger service in a metropolitan or suburban area and commuter railroad service that was operated by the Consolidated Rail Corporation on January 1, 1979, and
+(ii) High speed ground transportation systems that connect metropolitan areas, without regard to whether those systems use new technologies not associated with traditional railroads, but does not include rapid transit operations in an urban area that are not connected to the general railroad system of transportation and
+(2) A person that provides railroad transportation, whether directly or by contracting out operation of the railroad to another person.
+Railroad officer means any supervisory employee of a railroad.
+System headquarters means the location designated by the railroad as the general office for the railroad system.
+
+239.9 Responsibility for compliance.
+Although the requirements of this part are stated in terms of the duty of a railroad, when any person, including a contractor to a railroad, performs any function required by this part, that person (whether or not a railroad) shall perform that function in accordance with this part.
+
+239.11 Penalties.
+Any person who violates any requirement of this part or causes the violation of any such requirement is subject to a civil penalty of at least $500 and not more than $11,000 per violation, except that: Penalties may be assessed against individuals only for willful violations, and, where a grossly negligent violation or a pattern of repeated violations has created an imminent hazard of death or injury to persons, or has caused death or injury, a penalty not to exceed $22,000 per violation may be assessed. Each day a violation continues shall constitute a separate offense. Any person who knowingly and willfully falsifies a record or report required by this part may be subject to criminal penalties under 49 U.S.C. 21311 (formerly codified in 45 U.S.C. 438(e)). Appendix A contains a schedule of civil penalty amounts used in connection with this part.
+
+239.13 Waivers.
+(a) Any person subject to a requirement of this part may petition the Administrator for a waiver of compliance with such requirement. The filing of such a petition does not affect that person's responsibility for compliance with that requirement while the petition is being considered.
+(b) Each petition for waiver must be filed in the manner and contain the information required by part 211 of this chapter.
+(c) If the Administrator finds that a waiver of compliance is in the public interest and is consistent with railroad safety, the Administrator may grant the waiver subject to any conditions the Administrator deems necessary.
+
+239.15 Information collection.
+(a) The information collection requirements of this part have been reviewed by the Office of Management and Budget pursuant to the Paperwork Reduction Act of 1995 (44 U.S.C. 3507(d) et seq.), and have been assigned OMB control number 2130–0545.
+(b) The information collection requirements are found in the following sections: §§ 239.101, 239.103, 239.105, 239.107, 239.201, 239.203, 239.301, and 239.303.
+
+Subpart B—Specific Requirements
+239.101 Emergency preparedness plan.
+(a) Each railroad to which this part applies shall adopt and comply with a written emergency preparedness plan approved by FRA under the procedures of § 239.201. The plan shall include the following elements and procedures for implementing each plan element.
+(1) Communication. (i) Initial and on-board notification. An on-board crewmember shall quickly and accurately assess the passenger train emergency situation and then notify the control center as soon as practicable by the quickest available means. As appropriate, an on-board crewmember shall inform the passengers about the nature of the emergency and indicate what corrective countermeasures are in progress.
+(ii) Notifications by control center. The control center shall promptly notify outside emergency responders, adjacent rail modes of transportation, and appropriate railroad officials that a passenger train emergency has occurred. Each railroad shall designate an employee responsible for maintaining current emergency telephone numbers for use in making such notifications.
+(2) Employee training and qualification. (i) On-board personnel. The railroad's emergency preparedness plan shall address individual employee responsibilities and provide for initial training, as well as periodic training at least once every two calendar years thereafter, on the applicable plan provisions. As a minimum, the initial and periodic training shall include:
+(A) Rail equipment familiarization;
+(B) Situational awareness;
+(C) Passenger evacuation;
+(D) Coordination of functions; and
+(E) "Hands-on" instruction concerning the location, function, and operation of on-board emergency equipment.
+(ii) Control center personnel. The railroad's emergency preparedness plan shall require initial training of responsible control center personnel, as well as periodic training at least once every two calendar years thereafter, on appropriate courses of action for each potential emergency situation. As a minimum, the initial and periodic training shall include:
+(A) Dispatch territory familiarization; and
+(B) Protocols governing internal communications between appropriate control center personnel whenever an imminent potential emergency situation exists.
+(iii) Initial training schedule for current employees. The railroad's emergency preparedness plan shall provide for the completion of initial training of all on-board and control center employees who are employed by the railroad on the date that the plan is conditionally approved under § 239.201(b)(1), in accordance with the following schedule:
+(A) For each railroad that provides commuter or other short-haul passenger train service and whose operations include less than 150 route miles and less than 200 million passenger miles annually, not more than one year after January 29, 1999, or not more than 90 days after commencing passenger operations, whichever is later.
+(B) For each railroad that provides commuter or other short-haul passenger train service and whose operations include at least 150 route miles or at least 200 million passenger miles annually, not more than two years after January 29, 1999, or not more than 180 days after commencing passenger operations, whichever is later.
+(C) For each railroad that provides intercity passenger train service, regardless of the number of route miles or passenger miles, not more than two years after January 29, 1999, or not more than 180 days after commencing passenger operations, whichever is later.
+(D) For each freight railroad that hosts passenger train service, regardless of the number of route miles or passenger miles of that service, not more than one year after January 29, 1999, or not more than 90 days after the hosting begins, whichever is later.
+(iv) Initial training schedule for new employees. The railroad's emergency preparedness plan shall provide for the completion of initial training of all on-board and control center employees who are hired by the railroad after the date on which the plan is conditionally approved under § 239.201(b)(1). Each employee shall receive initial training within 90 days after the employee's initial date of service.
+(v) Testing of on-board and control center personnel. A railroad shall have procedures for testing a person being evaluated for qualification under the emergency preparedness plan. The types of testing selected by the railroad shall be:
+(A) Designed to accurately measure an individual employee's knowledge of his or her responsibilities under the plan;
+(B) Objective in nature;
+(C) Administered in written form; and
+(D) Conducted without reference by the person being tested to open reference books or other materials, except to the degree the person is being tested on his or her ability to use such reference books or materials.
+(vi) On-board staffing. (A) Except as provided in paragraph (a)(2)(vi)(B), all crewmembers on board a passenger train shall be qualified to perform the functions for which they are responsible under the provisions of the applicable emergency preparedness plan.
+(B) A freight train crew relieving an expired passenger train crew en route is not required to be qualified under the emergency preparedness plan, provided that at least one member of the expired passenger train crew remains on board and is available to perform excess service under the Federal hours of service laws in the event of an emergency.
+(3) Joint operations. (i) Each railroad hosting passenger train service shall address its specific responsibilities consistent with this part.
+(ii) In order to achieve an optimum level of emergency preparedness, each railroad hosting passenger train service shall communicate with each railroad that provides or operates such service and coordinate applicable portions of the emergency preparedness plan. All of the railroads involved in hosting, providing, and operating a passenger train service operation shall jointly adopt one emergency preparedness plan that addresses each entity's specific responsibilities consistent with this part. Nothing in this paragraph shall restrict the ability of the railroads to provide for an appropriate assignment of responsibility for compliance with this part among those railroads through a joint operating agreement or other binding contract. However, the assignor shall not be relieved of responsibility for compliance with this part.
+(4) Special circumstances. (i) Tunnels. When applicable, the railroad's emergency preparedness plan shall reflect readiness procedures designed to ensure passenger safety in an emergency situation occurring in a tunnel of 1,000 feet or more in length. The railroad's emergency preparedness plan shall address, as a minimum, availability of emergency lighting, access to emergency evacuation exits, benchwall readiness, ladders for detraining, effective radio or other communication between on-board crewmembers and the control center, and options for assistance from other trains.
+(ii) Other operating considerations. When applicable, the railroad's emergency preparedness plan shall address passenger train emergency procedures involving operations on elevated structures, including drawbridges, and in electrified territory.
+(iii) Parallel operations. When applicable, the railroad's emergency preparedness plan shall require reasonable and prudent action to coordinate emergency efforts where adjacent rail modes of transportation run parallel to either the passenger railroad or the railroad hosting passenger operations.
+(5) Liaison with emergency responders. Each railroad to which this part applies shall establish and maintain a working relationship with the on-line emergency responders by, as a minimum:
+(i) Developing and making available a training program for all on-line emergency responders who could reasonably be expected to respond during an emergency situation. The training program shall include an emphasis on access to railroad equipment, location of railroad facilities, and communications interface, and provide information to emergency responders who may not have the opportunity to participate in an emergency simulation. Each affected railroad shall either offer the training directly or provide the program information and materials to state training institutes, firefighter organizations, or police academies;
+(ii) Inviting emergency responders to participate in emergency simulations; and
+(iii) Distributing applicable portions of its current emergency preparedness plan at least once every three years, or whenever the railroad materially changes its plan in a manner that could reasonably be expected to affect the railroad's interface with the on-line emergency responders, whichever occurs earlier, including documentation concerning the railroad's equipment and the physical characteristics of its line, necessary maps, and the position titles and telephone numbers of relevant railroad officers to contact.
+(6) On-board emergency equipment. (i) General. Each railroad's emergency preparedness plan shall state the types of emergency equipment to be kept on board and indicate their location(s) on each passenger car that is in service. Effective May 4, 1999, or not more than 120 days after commencing passenger operations, whichever is later, this equipment shall include, at a minimum:
+(A) One fire extinguisher per passenger car;
+(B) One pry bar per passenger car; and
+(C) One flashlight per on-board crewmember.
+(ii) Effective May 4, 1999, or not more than 120 days after commencing passenger operations, whichever is later, each railroad that provides intercity passenger train service shall also equip each passenger train that is in service with at least one first-aid kit accessible to crewmembers that contains, at a minimum:
+(A) Two small gauze pads (at least 4x4 inches);
+(B) Two large gauze pads (at least 8x10 inches);
+(C) Two adhesive bandages;
+(D) Two triangular bandages;
+(E) One package of gauge roller bandage that is at least two inches wide;
+(F) Wound cleaning agent, such as sealed moistened towelettes;
+(G) One pair of scissors;
+(H) One set of tweezers;
+(I) One roll of adhesive tape;
+(J) Two pairs of latex gloves; and
+(K) One resuscitation mask.
+(iii) On-board emergency lighting. Consistent with the requirements of part 238 of this chapter, auxiliary portable lighting (e.g., a handheld flashlight) must be accessible and provide, at a minimum:
+(A) Brilliant illumination during the first 15 minutes after the onset of an emergency situation; and
+(B) Continuous or intermittent illumination during the next 60 minutes after the onset of an emergency situation.
+(iv) Maintenance. Each railroad's emergency preparedness plan shall provide for scheduled maintenance and replacement of first-aid kits, on-board emergency equipment, and on-board emergency lighting.
+(7) Passenger safety information. (i) General. Each railroad's emergency preparedness plan shall provide for passenger awareness of emergency procedures, to enable passengers to respond properly during an emergency.
+(ii) Passenger awareness program activities. Each railroad shall conspicuously and legibly post emergency instructions inside all passenger cars (e.g., on car bulkhead signs, seatback decals, or seat cards) and shall utilize one or more additional methods to provide safety awareness information including, but not limited to, one of the following:
+(A) On-board announcements;
+(B) Laminated wallet cards;
+(C) Ticket envelopes;
+(D) Timetables;
+(E) Station signs or video monitors;
+(F) Public service announcements; or
+(G) Seat drops.
+(b) [Reserved]
+
+239.103 Passenger train emergency simulations.
+(a) General. Each railroad operating passenger train service shall conduct full-scale emergency simulations, in order to determine its capability to execute the emergency preparedness plan under the variety of scenarios that could reasonably be expected to occur on its operation, and ensure coordination with all emergency responders who voluntarily agree to participate in the emergency simulations.
+(b) Frequency of the emergency simulations. Except as provided in paragraph (c) of this section:
+(1) Each railroad that provides commuter or other short-haul passenger train service and whose operations include less than 150 route miles and less than 200 million passenger miles annually, shall conduct a minimum of one full-scale emergency simulation during every two calendar years.
+(2) Each railroad that provides commuter or other short-haul passenger train service and whose operations include at least 150 route miles or at least 200 million passenger miles annually, shall conduct a minimum of one full-scale emergency simulation during each calendar year.
+(3) Each railroad that provides intercity passenger train service, shall conduct a minimum of one full-scale emergency simulation during each calendar year, regardless of the number of route miles or passenger miles.
+(c) Actual emergency situations. Neither a tabletop exercise nor the activation of its emergency preparedness plan during an actual emergency situation may be credited toward the minimum number of full-scale emergency simulations required under paragraph (b) of this section. However, a railroad that has activated its emergency preparedness plan in response to a major emergency may elect to postpone a scheduled full-scale simulation for up to 180 calendar days beyond the applicable calendar year completion date in order to evaluate the effectiveness of its plan during that major emergency and, as appropriate, modify the rescheduled simulation.
+(d) Definition. As used in this section, major emergency means an unexpected event related to the operation of passenger train service that results in serious injury or death to one or more persons and property damage greater than the current reporting threshold of part 225 of this chapter to railroad on-track equipment, signals, tracks, track structures, or roadbeds, including labor costs and the costs for acquiring new equipment and material.
+
+239.105 Debriefing and critique.
+(a) General. Except as provided in paragraph (b) of this section, each railroad operating passenger train service shall conduct a debriefing and critique session after each passenger train emergency situation or full-scale simulation to determine the effectiveness of its emergency preparedness plan, and shall improve or amend its plan, or both, as appropriate, in accordance with the information developed. The debriefing and critique session shall be conducted within 60 days of the date of the passenger train emergency situation or full-scale simulation.
+(b) Exceptions. (1) No debriefing and critique session shall be required in the case of an emergency situation involving only a collision between passenger railroad rolling stock and: a pedestrian; a trespasser; or a motor vehicle or other highway conveyance at a highway-rail grade crossing, provided that the collision does not result in: a passenger or employee fatality, or an injury to one or more crewmembers or passengers requiring admission to a hospital; or the evacuation of a passenger train.
+(2) For purposes of this section, highway-rail grade crossing means a location where a public highway, road, street, or private roadway, including associated sidewalks and pathways, crosses one or more railroad tracks at grade, and trespasser means a person who is on that part of railroad property used in railroad operation and whose presence is prohibited, forbidden, or unlawful.
+(c) Purpose of debriefing and critique. The debriefing and critique session shall be designed to determine, at a minimum:
+(1) Whether the on-board communications equipment functioned properly;
+(2) How much time elapsed between the occurrence of the emergency situation or full-scale simulation and notification to the emergency responders involved;
+(3) Whether the control center promptly initiated the required notifications;
+(4) How quickly and effectively the emergency responders responded after notification; and
+(5) How efficiently the passengers exited from the car through the emergency exits.
+(d) Records. (1) Each railroad shall maintain records of its debriefing and critique sessions at its system headquarters and applicable division headquarters for two calendar years after the end of the calendar year to which they relate, including the following information:
+(i) Date and location of the passenger train emergency situation or full-scale simulation;
+(ii) Date and location of the debriefing and critique session; and
+(iii) Names of all participants in the debriefing and critique session.
+(2) These records shall be made available to representatives of FRA and States participating under part 212 of this chapter for inspection and copying during normal business hours.
+
+239.107 Emergency exits.
+For additional requirements related to emergency window exits, see part 223 of this chapter.
+(a) Marking. Each railroad operating passenger train service shall determine for each passenger car that is in service, except for self-propelled cars designed to carry baggage, mail, or express:
+(1) That all door exits intended for emergency egress are either lighted or conspicuously and legibly marked with luminescent material on the inside of the car and that clear and understandable instructions are posted at or near such exits.
+(2) That all door exits intended for emergency access by emergency responders for extrication of passengers are marked with retroreflective material and that clear and understandable instructions are posted at each such door.
+(b) Inspection, maintenance, and repair. Consistent with the requirements of part 223 of this chapter, each railroad operating passenger train service shall:
+(1) Provide for scheduled inspection, maintenance, and repair of emergency window and door exits;
+(2) Test a representative sample of emergency window exits on its cars at least once every 180 days to verify that they are operating properly; and
+(3) Repair each inoperative emergency window and door exit on a car before returning the car to service.
+(c) Records. Each railroad operating passenger service shall maintain records of its inspection, maintenance, and repair of emergency window and door exits at its system headquarters and applicable division headquarters for two calendar years after the end of the calendar year to which they relate. These records shall be made available to representatives of FRA and States participating under part 212 of this chapter for inspection and copying during normal business hours.
+(d) Electronic recordkeeping. Each railroad to which this part applies is authorized to retain by electronic recordkeeping the information prescribed in paragraph (b) of this section, provided that all of the following conditions are met:
+(1) The railroad adequately limits and controls accessibility to such information retained in its database system and identifies those individuals who have such access;
+(2) The railroad has a terminal at the system headquarters and at each division headquarters;
+(3) Each such terminal has a desk-top computer (i.e., monitor, central processing unit, and keyboard) and either a facsimile machine or a printer connected to the computer to retrieve and produce information in a usable format for immediate review by representatives of FRA and States participating under part 212 of this chapter;
+(4) The railroad has a designated representative who is authorized to authenticate retrieved information from the electronic system as true and accurate copies of the electronically kept records; and
+(5) The railroad provides representatives of FRA and States participating under part 212 of this chapter with immediate access to these records for inspection and copying during normal business hours and provides printouts of such records upon request.
+
+Subpart C—Review, Approval, and Retention of Emergency Preparedness Plans
+239.201 Emergency preparedness plan; filing and approval.
+(a) Filing. Each passenger railroad to which this part applies and all railroads hosting its passenger train service (if applicable) shall jointly adopt a single emergency preparedness plan for that service and the passenger railroad shall file one copy of that plan with the Associate Administrator for Safety, Federal Railroad Administration, Mail Stop 25, 400 Seventh Street, S.W., Washington, D.C. 20590, not more than 180 days after May 4, 1998, or not less than 45 days prior to commencing passenger operations, whichever is later. The emergency preparedness plan shall include the name, title, address, and telephone number of the primary person on each affected railroad to be contacted with regard to review of the plan, and shall include a summary of each railroad's analysis supporting each plan element and describing how every condition on the railroad's property that is likely to affect emergency response is addressed in the plan. Each subsequent amendment to a railroad's emergency preparedness plan shall be filed with FRA by the passenger railroad not less than 60 days prior to the proposed effective date.
+(b) Approval. (1) Preliminary review.
+(i) Within 90 days of receipt of each proposed emergency preparedness plan, and within 45 days of receipt of each plan for passenger operations to be commenced after the initial deadline for plan submissions, FRA will conduct a preliminary review of the proposed plan to determine if the elements prescribed in § 239.101 are sufficiently addressed and discussed in the railroad's plan submission. FRA will then notify the primary contact person of each affected railroad in writing of the results of the review, whether the proposed plan has been conditionally approved by FRA, and if not conditionally approved, the specific points in which the plan is deficient.
+(ii) If a proposed emergency preparedness plan is not conditionally approved by FRA, the affected railroad or railroads shall amend the proposed plan to correct all deficiencies identified by FRA (and provide FRA with a corrected copy) not later than 30 days following receipt of FRA's written notice that the proposed plan was not conditionally approved.
+(2) Final review.
+(i) Within 18 months of receipt of each proposed plan, and within 180 days of receipt of each proposed plan for passenger operations to be commenced after the initial deadline for plan submissions, FRA will conduct a comprehensive review of the conditionally approved plan to evaluate implementation of the elements included. This review will include ongoing dialogues with rail management and labor representatives, and field analysis and verification. FRA will then notify the primary contact person of each affected railroad in writing of the results of the review, whether the conditionally approved plan has been finally approved by FRA, and if not approved, the specific points in which the plan is deficient.
+(ii) If an emergency preparedness plan of a railroad or railroads is not finally approved by FRA, the affected railroad or railroads shall amend the plan to correct all deficiencies (and provide FRA with a corrected copy) not later than 30 days following receipt of FRA's written notice that the plan was not finally approved.
+(3) Review of amendments.
+(i) FRA will review each proposed plan amendment within 45 days of receipt. FRA will then notify the primary contact person of each affected railroad of the results of the review, whether the proposed amendment has been approved by FRA, and if not approved, the specific points in which the proposed amendment is deficient.
+(ii) If the amendment is not approved, the railroad shall correct any deficiencies identified by FRA and file the corrected amendment prior to implementing the amendment.
+(4) Reopened review. Following initial approval of a plan, or amendment, FRA may reopen consideration of the plan, or amendment, for cause stated.
+
+239.203 Retention of emergency preparedness plan.
+Each passenger railroad to which this part applies, and all railroads hosting its passenger train service (if applicable), shall each retain one copy of the emergency preparedness plan required by § 239.201 and one copy of each subsequent amendment to that plan at the system and division headquarters of each, and shall make such records available to representatives of FRA and States participating under part 212 of this chapter for inspection and copying during normal business hours.
+
+Subpart D—Operational (Efficiency) Tests; Inspection of Records and Recordkeeping
+§ 239.301 Operational (efficiency) tests.
+(a) Each railroad to which this part applies shall periodically conduct operational (efficiency) tests of its on-board and control center employees to determine the extent of compliance with its emergency preparedness plan.
+(b) Each railroad to which this part applies shall maintain a written record of the date, time, place, and result of each operational (efficiency) test that was performed in accordance with paragraph (a) of this section. Each record shall also specify the name of the railroad officer who administered the test, the name of each employee tested, and sufficient information to identify the relevant facts relied on for evaluation purposes.
+(c) Each record required by paragraph (a) of this section shall be retained at the system headquarters of the railroad and at the division headquarters for the division where the test was conducted for one calendar year after the end of the calendar year to which the test relates. Each such record shall be made available to representatives of FRA and States participating under part 212 of this chapter for inspection and copying during normal business hours.
+
+239.303 Electronic recordkeeping.
+Each railroad to which this part applies is authorized to retain by electronic recordkeeping the information prescribed in § 239.301, provided that all of the following conditions are met:
+(a) The railroad adequately limits and controls accessibility to such information retained in its database system and identifies those individuals who have such access;
+(b) The railroad has a terminal at the system headquarters and at each division headquarters;
+(c) Each such terminal has a desk-top computer (i.e., monitor, central processing unit, and keyboard) and either a facsimile machine or a printer connected to the computer to retrieve and produce information in a usable format for immediate review by representatives of FRA and States participating under part 212 of this chapter;
+(d) The railroad has a designated representative who is authorized to authenticate retrieved information from the electronic system as true and accurate copies of the electronically kept records; and
+(e) The railroad provides representatives of FRA and States participating under part 212 of this chapter with immediate access to these records for inspection and copying during normal business hours and provides printouts of such records upon request.
+
+Appendix A to Part 239—Schedule of Civil Penalties
+Section / Violation / Willful violation
+Subpart B—Specific Requirements:
+239.101(a) Failure of a railroad to adopt a written emergency preparedness plan: $7,500 / $11,000
+(a)(1) Failure of the plan to provide for:
+(i) Initial or on-board notifications by an on-board crewmember: $2,500 / $5,000
+(ii) Notification of outside emergency responders by control center: $2,500 / $5,000
+(a)(2) Failure of the plan to provide for:
+(i) Initial or periodic training of on-board personnel: $2,500 / $5,000
+(ii) Initial or periodic training of control center personnel: $2,500 / $5,000
+(iii) Completion of initial training of all on-board and control center personnel by the specified date: $2,500 / $5,000
+(iv) Completion of initial training of all newly hired on-board and control center personnel by the specified date: $2,500 / $5,000
+(v) Adequate procedures to evaluate and test on-board and control center personnel for qualification under the emergency preparedness plan: $2,500 / $5,000
+(vi) Adequate on-board staffing: $2,500 / $5,000
+(a)(3) Failure of a host railroad involved in joint operations to coordinate applicable portions of the emergency preparedness plan with the railroad or railroads providing or operating a passenger train service operation: $3,000 / $6,000
+(a)(4) Failure of the plan to address:
+(i) Readiness procedures for emergencies in tunnels: $2,500 / $5,000
+(ii) Readiness procedures for emergencies on an elevated structure or in electrified territory: $2,500 / $5,000
+(iii) Coordination efforts involving adjacent rail modes of transportation: $2,500 / $5,000
+(a)(5) Failure of the plan to address relationships with on-line emergency responders by providing for:
+(i) The development and availability of training programs: $3,000 / $6,000
+(ii) Invitations to emergency responders to participate in emergency simulations: $3,000 / $6,000
+(iii) Distribution of applicable portions of the current emergency preparedness plan: $3,000 / $6,000
+(a)(6) Failure of the plan to provide for, or the railroad to include on board each train and maintain and replace:
+(i) Emergency equipment: $2,500 / $5,000
+(ii) First-aid kits: $2,500 / $5,000
+(iii) Emergency lighting: $2,500 / $5,000
+(a)(7) Failure of the plan to provide for emergency instructions inside each passenger car or to include additional safety awareness information: $3,500 / $7,000
+239.103 Failure to conduct a required full-scale simulation in accordance with the frequency schedule: $5,000 / $7,500
+239.105 Debriefing and critique:
+(a) Failure to conduct a debriefing and critique session after an emergency or full-scale simulation: $4,000 / $7,500
+(d)(1) Failure to maintain a record: $2,500 / $5,000
+(i) Failure to include date or location of the emergency or simulation: $1,000 / $2,000
+(ii) Failure to include date or location of the debriefing and critique session: $1,000 / $2,000
+(iii) Failure to include names of participants in the debriefing and critique session: $1,000 / $2,000
+(d)(2) Failure to make record available: $1,000 / $2,000
+239.107 Emergency exits:
+(a)(1), (a)(2):
+(i) Door not marked or instructions not posted: $2,500 / $5,000
+(ii) Door improperly marked or instructions improperly posted: $2,500 / $5,000
+(b)(1) Failure to provide for scheduled inspection, maintenance, and repair of emergency windows and doors: $5,000 / $7,500
+(b)(2):
+(i) Failure to test a representative sample of emergency windows: $3,000 / $6,000
+(ii) Emergency windows tested too infrequently: $1,500 / $3,000
+(b)(3) Failure to repair an inoperative emergency window or door exit: $3,500 / $7,000
+(c):
+(i) Failure to maintain a record: $2,500 / $5,000
+(ii) Failure to make record available: $1,000 / $2,000
+(d)(1) Insufficient limits or controls on accessibility to records: $2,500 / $5,000
+(d)(2) Missing terminal: $1,000 / $2,000
+(d)(3) Inability of railroad to produce information in a usable format for immediate review: $1,000 / $2,000
+(d)(4) Failure by railroad to designate an authorized representative: $1,000 / $2,000
+(d)(5) Failure to make record available: $1,000 / $2,000
+Subpart C—Review, Approval, and Retention of Emergency Preparedness Plans:
+239.201 Filing and approval:
+(a):
+(i) Failure of a railroad to file a written emergency preparedness plan: $5,000 / $7,500
+(ii) Failure to designate a primary person to contact for plan review: $1,000 / $2,000
+(iii) Failure of a railroad to file an amendment to its plan: $2,500 / $5,000
+(b)(1), (b)(2):
+(i) Failure of a railroad to correct a plan deficiency: $2,500 / $5,000
+(ii) Failure to provide FRA with a corrected copy of the plan: $1,000 / $2,000
+(b)(3):
+(i) Failure of a railroad to correct an amendment deficiency: $2,500 / $5,000
+(ii) Failure to file a corrected plan amendment with FRA: $1,000 / $1,000
+239.203 Retention of emergency preparedness plan:
+(1) Failure to retain a copy of the plan or an amendment to the plan: $2,500 / $5,000
+(2) Failure to make record available: $1,000 / $2,000
+Subpart D—Operational (efficiency) tests; Inspection of Records and Recordkeeping:
+239.301 Operational (efficiency) tests:
+(a) Testing Program: $5,000 / $7,500
+(b)(1) Failure to maintain a record: $2,500 / $5,000
+(b)(2) Record improperly completed: $1,000 / $1,000
+(c)(1) Failure to retain a copy of the record: $2,500 / $5,000
+(c)(2) Failure to make record available: $1,000 / $2,000
+239.303 Electronic recordkeeping:
+(a) Insufficient limits or controls on accessibility to records: $2,500 / $5,000
+(b) Missing terminal: $1,000 / $2,000
+(c) Inability of railroad to produce information in a usable format for immediate review: $1,000 / $2,000
+(d) Failure by railroad to designate an authorized representative: $1,000 / $2,000
+(e) Failure to make record available: $1,000 / $2,000

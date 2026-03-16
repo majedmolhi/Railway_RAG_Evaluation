@@ -1,0 +1,1289 @@
+Railway Operations and Maintenance
+
+■Railway Systems
+
+A railway is a large system made up of various subsystems with facilities and equipment that generally include: civil structures; rolling stock that run on railway tracks; power equipment that supply and transmit electricity to the rolling stock and other facilities; signaling equipment that ensure safe railway operations; and station facilities like ticketing gates and passenger information equipment.
+
+Highly skilled train drivers, station staff, controllers, and other railway personnel all work together to operate this system; while knowledgeable technical staff carry out maintenance activities to keep these facilities and equipment in optimal working condition. When all these equipment and personnel function collectively, the railway system can start serving as a mass transportation system.
+
+■Railway Operations and Maintenance
+
+In this Handbook, the term "operations" refers to the job of making a railway system function and managing the organization that operates the system (i.e., operating entity); while the term "maintenance" refers to the job of keeping the railway facilities and equipment in optimal working condition. Together, these make up what is called "Operations and Maintenance" (O&M).
+
+Given this definition of O&M, this Handbook features the different elements that need to be considered before establishing business schemes and regulatory systems, developing the railway system, and acquiring O&M readiness, which are integral to reliable and sustainable railway operations.
+
+■Railway Development in Developing Countries
+
+In developing countries, railway development tends to focus on the provision of infrastructure, facilities, and equipment. However, the smooth opening and sustainable O&M of a railway system can be ensured by starting O&M studies at the early stages of railway development. In line with this, it is important to provide O&M-related assistance to developing countries to enable their railway systems to have sustained operations well beyond the initial operational stage.
+
+■Proceeding with O&M Studies
+
+Since important matters related to O&M are decided at the FS stage, it is necessary to carry out O&M studies in a phased manner.
+
+Overview of O&M Studies in JICA Projects
+
+FS Stage:
+- Need for railway development
+- Fare policy
+- Analysis of O&M revenues and expenditures
+- Project effect
+- Financial analysis
+- Demand forecast
+- Route development total costs
+- Route and station Location
+- Construction work plans
+- Personnel planning and organization (overall)
+- Station operation plan (basic concept)
+- Infrastructure (e.g., tracks, guideways, tunnels, stations)
+- Rolling stock
+- Electrical facilities (e.g., power, signaling, communications)
+- Station facilities (e.g., fare collection)
+- Railway system plan (Dimension, structure, layout/configuration)
+- Necessity of regulation development
+- Assessment of project scheme
+- Assessment of basic O&M profitability
+- Identification of entity for asset management
+- Selection of operating entity and project scheme
+- Financing plans
+- Environmental assessment
+
+DD Stage:
+- Station operation plan (work details)
+- Transport plan (whole day)
+- Personnel planning and organization (per department)
+- Rolling stock
+- Infrastructure
+- Electrical facilities
+- Station facilities
+- Railway system technical specifications (Material, structure type, function, performance, maintenance plans)
+- Transport plan (peak times)
+- Civil engineering costs
+- Route plan (plane and longitudinal section)
+- Development of regulatory items
+- Detailed examination of project scheme
+- Formulation of business strategy
+- Detailing of O&M revenue and expenditures
+- Selection of asset management system
+
+GC Stage:
+- Transport plan (confirmation and modification)
+- Station operation plan (confirmation and modification)
+- Preparation of related specifications as basis for the formulation of maintenance plans, standards, and manuals
+- Infrastructure design
+- Detailed design and manufacture of railway facilities and rolling stock
+- Recruitment planning
+- Draft O&M design spec. for tender / equipment procurement
+- Development of regulatory system and operation system
+- Construction of railway system
+
+OM Stage:
+- Compliance with regulatory content
+- Compliance with certification system
+- Train operation
+- Station operation
+- Tracks and infrastructure
+- Rolling stock
+- Electrical facilities (signaling and communications system, power supply system, station facilities)
+- Cross-departmental integration
+- Asset management
+- Recruitment and training
+- Conduct of O&M activities by operating entity
+
+Development of O&M capabilities sequence:
+- Handover Rule Formulation
+- Implementation Planning
+- Training
+- Start of Operations
+- Evaluation and Improvement
+
+Revenues and Expenditures
+
+■Revenue and Expenditure Structure
+
+Analyzing the revenue and expenditure structure is the starting point of evaluating basic profitability; it starts at the FS stage and should be re-examined at every succeeding project stage. It is essential to design a project scheme that includes the projections of revenues and expenditures of the operating entity, which is finalized as part of the business plan at the pre-opening stage.
+
+Fare revenue:
+・ This is estimated based on the demand forecast model.
+・ This can also be calculated by multiplying the projected number of daily passengers by the average fare.
+・ Fares should be properly determined and aligned with passengers' willingness or ability to pay.
+
+Non-fare/commercial business revenue:
+・ In most cases, this is calculated based on a certain rate (e.g., 5%) of the estimated fare revenue. However, the period when development benefits take effect must be carefully simulated.
+・ This can be better estimated when based on the detailed plans for the commercial businesses, which is often difficult at the FS stage.
+・ Case studies provide useful baseline information to avoid the risk of overestimation.
+
+Key Points in Structure Analysis:
+● Understanding demand risks — Demand forecasts tend to be overestimated compared to actual ridership.
+● Demand retention — Demand forecasts, ridership, and fare revenue estimates are better examined using conservative scenarios and setting a demand retention rate or ramp-up factor based on case studies.
+● Balance of revenues and expenditures — Revenues tend to be lower than expenditures in the initial years of operation, generally taking years or even over a decade to achieve an annual surplus (unless the city has already established a sufficient railway network). The balance between revenues and expenditures should be carefully reviewed to avoid having overly optimistic expectations on profits.
+
+Expenditure Structure:
+
+■Labor cost
+・ This can be calculated by either multiplying the unit labor cost by the estimated number of respective manpower or multiplying the average salary by the total number of personnel.
+・ Detailed estimates can be drawn from the salary scale for each job class and the number of personnel in each job class.
+・ If the salary scale of a public institution is not regulated by the government, this can also be estimated based on the actual salaries in a similar organization.
+
+■Energy cost
+・ This primarily includes electricity costs, while fuel and water costs are minimal.
+・ This can be calculated by multiplying the average energy cost by the train kilometers travelled.
+・ Detailed estimates can be made by considering the amount of electricity consumption and the unit price of electricity.
+・ The required amount of energy for traction, stations, and depot are calculated separately.
+・ Detailed designs should calculate energy consumption for train operations.
+
+■Maintenance cost
+・ This includes the facilities and equipment upkeep costs required for day-to-day operations.
+・ Large-scale renewal and replacement costs are added when facilities and equipment reach the end of their respective useful lives.
+・ This is calculated at fixed rates of initial investment costs per subsystem.
+・ Detailed estimates require the maintenance and renewal costs of each item, which can be calculated at the detailed design stage.
+・ Figures are finalized by the contractors and suppliers of the respective subsystems.
+
+■Administration cost
+・ This includes general and administrative expenditures related to the operation of the operating entity.
+
+Basic Profitability Assessment
+
+Basic profitability should be evaluated based on the revenue and expenditure structure established at the FS stage. Project stakeholders should carefully review financial performance, considering the profit and risk characteristics of urban railways. Basic profitability can be better understood in the years after the start of railway operations when the fare revenue begins to exceed the O&M costs.
+
+■Profitability of a single railway line and in the short-term
+
+Railway construction is a capital-intensive venture; and fare revenues are unlikely to recover the capital expenditures. The significance of urban railways lies in its time-saving effect and reduction of social costs by providing a means of mass transportation with an efficient railway network. Since it takes time to increase the ridership by expanding railway networks and improving commuting convenience, railways are unlikely to profit in the short run and if it exists only as a single line.
+
+■Sustainable approach for railway development
+・ The government should be responsible for railway network development, especially since the backbone or trunk line will be a future source of revenue generation and eventually finance subsequent investments in transport network expansion.
+・ As such, urban railway development should start with the lines that show good profitability prospects.
+・ Urban railway construction is mainly financed through public funding. Subsidies for capital and operating expenditures are drawn from the increased central and local government tax revenues from urban railways.
+
+■Risk Characteristics of Urban Railways
+
+Delayed opening risk — Construction delays and cost overruns can make railway system opening fall behind schedule. Example: Ho Chi Minh Line 1
+
+Demand/ridership risk — Actual ridership is far below the demand forecast and takes time to grow. Example: PUTRA LRT
+
+Fare setting risk — Unreasonably low fares are introduced by policymakers and cannot be raised. Example: Manila MRT Line 3
+
+O&M cost risk — O&M costs soar due to sharp hike in wages and material costs. Example: Manila LRT Line 2
+
+Capital shortfall risk — Continuing deficits and lack of funds result in a reduced maintenance budget. Example: Manila LRT Line 2
+
+Government budget risk — Network development fails to progress due to delays or reduction of government budget. Common to developing countries.
+
+Capital shortfall risk cycle: Service degradation → Decrease in ridership and fare revenue → Lack of funds → Maintenance budget reduction → Service degradation
+
+■Farebox Recovery Ratio (FBR)
+
+It is the ratio of fare revenue to O&M costs.
+
+FBR below 1.0 — Fare revenue cannot cover O&M costs; and subsidies are needed for operation, replacement, and reinvestment of the railway system.
+
+FBR exceeds 1.0 — Fare revenue can cover the O&M costs; but subsidies may still be needed for replacement and reinvestment costs.
+
+FBR Examples:
+- Hong Kong MTR: 1.72 (2018)
+- Tokyo Metro: 1.19 (2016)
+- Singapore SMRT: 1.01 (2018)
+- Metro Istanbul: 0.90 (2019)
+- Manila LRT2: 0.81 (2019)
+- Metro Madrid: 0.41 (2007)
+
+Project Scheme Framework
+
+Three (3) parameters can be considered in selecting a project scheme: (1) asset development; (2) demand risk; and (3) operating entity.
+
+① Asset development
+
+Options:
+- Public investment: The public sector makes the entire asset investment.
+- PPP: The public sector invests in a portion of the assets (e.g., civil works), while the private sector invests in the remaining assets (e.g., electro-mechanical (E&M) systems, rolling stock).
+
+Vertical separation — This is a method wherein the public sector develops and owns the infrastructure facilities, while the public sector manages operations. In some cases, the operating entity procures a portion or the entirety of the railway system. This method aims to harness public sector resources in developing the needed infrastructure and tap private sector efficiencies for operations.
+
+② Demand risk
+
+Net cost scheme: The operating entity shoulders the risk. The operation consignment fee is set in advance as the difference between the estimated fare revenue and O&M costs. The profit is generated as a result of increasing fare revenue while reducing O&M costs.
+
+・ Public Service Obligation (PSO) Scheme: This is a variation of the net cost scheme wherein the compensation is determined by the transport costs per passenger. This scheme is used in countries such as Indonesia.
+
+Gross Cost Scheme: The operating entity does not bear the risk. The operation consignment fee is a fixed amount that is set by adding a reasonable profit amount to the operating entity's estimated O&M costs. It incentivizes the operating entity to reduce costs from the original contract through efficient management and increase in operational profit.
+
+・ Availability Payment (AP) Mechanism: This can be a component of the gross cost scheme. The public sector pays a pre-established amount periodically to the operating entity, which may be adjusted depending on the operating entity's O&M performance. Appropriate performance indicators need to be set so that the private concessionaire is incentivized to meet certain standards of service laid out by the public sector.
+
+・ Modified Gross Cost Scheme: This is a variation of the gross cost scheme wherein a revenue-sharing arrangement is established between the partnering public and private entities. The private operating entity obtains partial returns if the actual performance exceeds the pre-defined target values (e.g., ridership, fare revenue). On the other hand, the private partner incurs penalties in case of underperformance.
+
+
+Project Scheme Selection
+
+③ Operating entity
+
+- Public sector: It has the advantage of being institutionally aligned with city and other government planning initiatives and having better access to subsidies that can minimize operating deficits. If a railway project is expected to generate low profits, an operating entity from the public sector is considered ideal.
+- Private sector: It generally has inherent operational and management efficiencies.
+
+- Public operating entities: These include government organizations, public corporations, state-owned enterprises established by law, public joint venture companies, among others.
+- Private operating entities: These can be any allowable type of entity, provided these exist in accordance with corporate laws of respective countries.
+- Semi-public sector entities: These can be public-private joint ventures and other similar public-private entities duly allowed by law.
+
+If the operating entity will come from the public sector, the following factors should be considered:
+- Project implementing entity will transition to the operating entity: Existing resources can be optimized with greater flexibility (e.g., reassigning project personnel to O&M activities).
+- Separate operating entity will be established: It should have the necessary institutional specialization in railway O&M.
+
+- Appointing existing organization: It requires less effort, as there is no need to undergo procedures to establish a new organization and the existing workforce can be utilized.
+- Establishing new organization: A new corporate culture can be fostered without being restrained by former ways.
+
+■Advantages and Disadvantages
+
+・ In determining the financial framework for an urban railway, risk sharing and the scale of financial burden should be confirmed. Additionally, the degree of efficiency that the private sector can achieve should be very carefully considered.
+・ Other factors include: requirements for additional government subsidy to fill the viability gap and attract the private sector; intention to standardize/integrate the different railway systems in the network; and government risks in the event of bankruptcy or other financial inabilities of the private operating entity.
+・ Decision makers should maximize the advantages and minimize the disadvantages of the preferred option by understanding the characteristics of each financial framework.
+
+Summary of Advantages and Disadvantages per Option:
+
+① Asset development:
+Full government funding — Advantages: Easy access to low interest loans offered by international donors; Easy fund management by the public sector; Simple investment structure. Disadvantages: Limits to budgeting and borrowing; Numerous decision-making processes.
+Some private sector funding — Advantages: Potential to accelerate railway network development; Potential to reduce government borrowing; Risk transfer to the private sector. Disadvantages: High initial investment costs; Difficulty in controlling railway network development.
+
+② Demand risk:
+Net cost — Advantages: Independent pursuit of profits by the private sector. Disadvantages: Considerable demand risks; Public sector difficulty in exercising control.
+Gross cost — Advantages: Easier and sustainable revenue generation by private sector enterprises. Disadvantages: Additional contract management and business monitoring capabilities required of the government.
+
+③ Operating entity:
+Operated by a public sector entity — Advantages: Sustainable operations without heavy dependence on profits; Secured service levels regardless of corporate situations. Disadvantages: Business knowledge required of the public sector; Possibility of underperformance due to budget constraints; Possibility of salary and personnel systems to become rigid.
+Operated by a private sector entity — Advantages: Easy implementation of performance-based salary structures and personnel evaluation. Disadvantages: Higher operating costs when profit and taxes are accounted for (if efficiency level is the same in both public and private sectors).
+
+Public or Private Sector O&M:
+・ The policies of the government and implementing entity should be explained at the FS stage. If the preferred option is a public sector O&M, it will be much easier to conclude.
+・ The JICA may instruct consultants to conduct a market sounding exercise with Japanese firms at the FS stage (ideally after the submission of the Interim Report) to gauge the interest of potential O&M service providers.
+・ It may be better to avoid private sector O&M if the city has no past experience in urban railway O&M or prior records of contracting public transport services.
+・ If the policy for private sector O&M cannot be amended and the private sector in developing countries shows interests in providing O&M services, a competitive bidding process should be conducted or stronger partnerships should be established.
+
+Operating Entities of Urban Railways in Different Countries:
+
+MRT Purple Line — BEM — Operation (Private sector) — Private sector enterprise
+Tokyo Subway — Tokyo Metro — Construction & operation — Existing — Joint stock company
+Airport Rail Link (Bangkok) — AERA1 — Operation — New — Private sector enterprise
+Manila MRT Line 3 — DOTr — Operation — Existing — Government organization
+Delhi Metro — DMRC — Construction & operation — New — Public corporation
+Manila LRT Line 1 — LRMC — Operation (Private sector) — Private sector enterprise
+Jakarta MRT — MRTJ — Construction & operation — New — Public corporation
+MRT Blue Line, Bangkok — BEM — Operation (Private sector) — Private sector enterprise
+Manila Subway — (TBD) — Operation (Private sector) — Private sector enterprise (planned)
+Ho Chi Minh Line 1 — HURC1 — Construction & operation — New — Public corporation
+
+Project Scheme Assessment
+
+■Project Scheme Assessment
+
+The analysis of cash flows helps in the determination of the most viable project scheme.
+
+With the key assumption that the O&M performance of the private and public sectors are the same, the analysis compares the life-cycle cost (LCC) or long-term financial burden of the public sector in each financial framework. This is calculated by subtracting the present revenue value from the present expenditure value.
+
+Parameters: These include the assessment period, concession period, corporate tax rate, inflation rate, discount rate, exchange rate, fare price, debt ratio (public/private sector), interest rate (for each financing source), repayment period, and return on equity (ROE).
+
+Results: The financial burden on the public sector is minimal using the public investment scheme. Public sector investment with public operator scheme minimizes financial burden.
+
+Advantage of public sector investment with public operations: In the case of the vertical separation, the private sector contributes part of the initial investment, while additional financial costs are shouldered by the public sector. Also, the private sector requires profits from business activities in the areas of railway operations. Therefore, unless the private sector achieves operational efficiency, Public Sector Investment with Public Operations is considered more advantageous than PPP.
+
+Efficiency improvements by private sector: In order to bridge the gap between public operations and the government's financial burden under PPP arrangements, the private sector has to achieve efficiencies at both the construction and operational stages. However, there is little evidence to quantify the difference and generalize the performance of the public and private sectors.
+
+Given the capital-intensive nature of urban railways with a variety of risks in construction and operations, the high financial costs to the private sector tend to require high returns. For this reason, PPP is generally difficult to pursue in the urban railway sector, particularly without sufficient financial support from the government.
+
+Project Schemes: Examples from Different Countries
+
+Bangkok Purple Line, Thailand — Opened in August 2016 — PPP / Gross Cost Scheme
+・ At the study stages, consultants suggested a public investment/gross cost scheme as a viable scheme.
+・ A Cabinet decision confirmed usage of a PPP/gross costs scheme in consideration of public debt ratio to its Gross Domestic Product (GDP).
+・ Due to delays in the Blue Line extension to connect the new line, demand growth was sluggish immediately after opening resulting in an increase in government fiscal burden.
+
+Metro Manila Subway, Philippines — Scheduled to open in 2026 — Public Sector Investment / Gross Cost Scheme
+・ Embedding AP mechanisms is likely needed to address commercial risks.
+・ Credit enhancement measures can make the project more attractive for private sector investments in O&M.
+・ Under a gross cost scheme, government bears demand and revenue risks during the demand growth period. This includes the risk of delays in station opening.
+
+Ho Chi Minh City Railway Line 1, Vietnam — Opening schedule under discussion — Public Sector Investment/Public Operator Scheme
+・ If financial solvency is a concern for the city, the public operator is exposed to the risk of operating capital shortages. In such case, fare revenues should at least be reserved for use of the operator.
+・ The city intends to increase the productivity of operations by setting performance indicators and linking this to payments. Such was the lesson gained from increasing subsidies to bus operators in the city.
+・ The operating body is closely reviewing business plan figures, paying close attention to demand forecasts and fare determination.
+
+Jakarta MRT, Indonesia — Opened in March 2019 — Public Sector Investment/Public Operator Scheme
+・ Rail line patronage in the opening year was about 80,000 passengers a day, which is significantly lower than the demand forecast of 150,000 daily ridership.
+・ Phase 2 development for the railway is underway. Once the MRT/LRT network is developed, this line is expected to be a significant source of revenues.
+・ An incentive scheme was created where the payments to the operator are done based on the transport cost per passenger.
+
+Project Schemes: Public Operator Scheme
+
+■Vertical Integration
+・ This applies when the public sector entity is responsible for both construction and operations. While generally difficult, the private sector can be amenable to this scheme in some cases.
+・ The government grants rights to the private entity to build and operate the system, including the development of civil structures and procurement of rolling stock and E&M systems. The private entity is also engaged in O&M after commissioning. The business entity covers O&M-related costs through both fare and non-fare revenues.
+
+■Build-Lease-Transfer
+・ The business entity with a build-lease-transfer (BLT) agreement with the government is responsible for construction of civil works, procurement of rolling stock and E&M systems, and leasing of facilities to the government after the railway system is commissioned to operate.
+・ Operations is performed by the government or outsourced to an O&M contractor separate from the BLT partner. Maintenance may likewise be outsourced to private sector.
+・ The government pays lease fees to the business entity during the contract period.
+
+■Jakarta MRT, Indonesia
+・ Mass Rapid Transit Jakarta (MRTJ) is the implementing agency that also operates and maintains the system.
+・ Most of the funding is sourced through JICA Official Development Assistance (ODA) loans with some of the financial requirements coming from Jakarta's state budget.
+・ The Special Capital Region of Jakarta (DKI Jakarta) provides the MRTJ with compensation and subsidies under an O&M contract.
+・ Since the MRTJ owns the entire asset base of the system, the subsidies needed to cover operational deficits and depreciation costs is substantial. This likely requires a review of asset ownership model.
+
+Dealing with risks:
+・ Extension and network development of urban railway may encounter significant delays from struggling to secure government allocations.
+・ Expenditures incurred from asset development is a major factor in cost structures of projects. In the asset ownership framework, the operating entity should refrain from disproportionately large assets.
+・ The operating entity should be allowed to directly receive daily operating income to better manage budgetary risks.
+
+■Manila MRT Line 3, Philippines
+・ The contract is a 25-year BLT contract.
+・ The government pays lease and maintenance fees to the MRTC. The entire asset will be handed over to the government after the 25-year agreement expires.
+・ 30% of MRTC's capital is mainly sourced from its own funds. The rest of its capital, were funded through loans from financial institutions such as the Export-Import Bank of Japan, Czech Export Bank, among others.
+・ The Department of Finance acts as a guarantor of the said loans. Hence, risks for both lenders and borrowers are reduced.
+
+Dealing with risks:
+・ Due to budget risks, challenges were encountered, such as insufficient working capital on the part of the operating entity and delays in the payment of maintenance contracts.
+・ Political interventions in fare setting led to unreasonably low fares that adversely affected the financial performance of the project.
+・ Use of low-interest loans by donor agencies and credit enhancement against government payment risks can be possible countermeasures.
+
+Project Schemes: Public-Private Partnership/Private Operator Scheme
+
+■Vertical Separation: Build-Operate-Transfer (Net Cost Scheme)
+・ The government is responsible for infrastructure development by assigning contractors for the majority of civil works and trackworks. The rolling stock and E&M systems are procured by a business entity with a build-operate-transfer (BOT) contract with the government.
+・ The business entity contracted by the government subsequently operates the facilities for a certain period after the contract period ends, the facilities are then transferred to the government after concession period.
+・ Basically, the government does not recover the infrastructure investments from the fare revenue as the rail system, in effect, is received by the business entity. For this reason, the business entity virtually pays for facility access charges to the government through its own investment after the service commencement.
+
+■PPP/Net Cost Scheme: Bangkok Blue Line, Thailand
+・ The Mass Rapid Transit Authority of Thailand (MRTA) carried out the civil works, tunnelling, trackworks, and station equipment provision.
+・ BOT contract period is 25 years.
+・ With the business entity receiving the fare revenue, it is expected to carry out O&M activities to recover the initial investment and pay the access charge.
+・ The concessionaire pays the MRTA access charge and a share of fare profits and commercial revenues.
+・ Fare level is adjusted based on the Consumer Price Index (CPI) in comparison with the original fare. At the time of opening, the CPI served as a basis for evaluation.
+
+Dealing with risks:
+・ The operator shoulders ridership risks under this scheme.
+・ BMCL had been in a deficit mainly due to demand shortages. The government and private shareholders provided support such as debt deferral in 2008.
+・ In the early years of operations, the financial risks of the business entity were particularly high, up until the difference between the revenues and expenditures balanced out.
+・ Project schemes should be designed based on conservative ridership projections.
+
+■Vertical Separation: Build-Transfer-Operate (Gross Cost Method)
+・ The government was responsible for infrastructure development, including majority of the civil works and trackworks, by assigning contractors. The rolling stock and E&M systems were then procured by a business entity with a build-transfer-operate (BTO) contract with the government.
+・ The government undertook the infrastructure development and directly receives the fare revenue.
+・ The business entity does not bear any of the ridership risks as the entity receives pre-determined service fees with the amount of O&M costs plus an appropriate profit share.
+
+■PPP/Gross Cost Scheme: Bangkok Purple Line, Thailand
+・ The government undertook the civil works, including works for the viaduct, station buildings, depots, and tracks.
+・ The concessionaire selected suppliers, procured the rolling stock and the railway systems. The suppliers were also in charge of the post-opening maintenance services.
+・ The contract period is 30 years, this included the construction and procurement period.
+・ In terms of service fees, a fixed rate of profit was added to the operations and maintenance costs.
+・ All fare revenue proceeds are received by the government, while the business entity operates and maintains the system at a fixed amount.
+・ The concessionaire's initial investment amount and pre-operation costs are refunded by the government in full every month for 10 years of the rail line's opening.
+
+Dealing with risks:
+・ Ridership risk is completely borne by the government.
+・ Due to delays in extending the Blue Line, the demand growth was slow since railway opening. This has led to an increase in financial burden for the government.
+・ After the opening, the government had to shoulder the risks until the difference between the revenue and expenditures are balanced out.
+・ The attempt to reduce the government's initial investment often translates to a significant increase in financial burdens and risks over the project life span.
+・ Project schemes should be designed based on conservative ridership projections.
+
+Project Schemes: Public Sector Investment/Private Sector Operator Scheme
+
+■Public Sector Investment/Net Cost Scheme
+・ The government is responsible for all construction and procurement activities.
+・ The public sector carries out civil works as well as procurement of rolling stock and E&M systems.
+・ The private sector operator carries out the O&M after railway opening and uses fare and non-fare revenues to cover all the related costs of operation and maintenance.
+・ Subsidy provisions for O&M can be considered depending on the balance between revenues and expenditures.
+
+■Melbourne Subway, Australia
+・ The tracks, signaling system, and rolling stock are all procured and owned by the government. On the other hand, the operator is free from any responsibility related to railway development works.
+・ The Metro Trains Melbourne is owned by Hong Kong MTR (60%), John Holland, an Australian private rail operating company (20%) and UGL Rail, an Australian railway equipment supplier and operating service provider (20%).
+・ The railway services opened on November 30, 2009. The contract period is eight years with an option to extend the franchise for another seven years.
+・ Fare revenue from passengers account for only 24% of the entire revenue of the operator, and the remainder is covered by government subsidies.
+
+Dealing with risks:
+・ The operator can bear a certain degree of ridership risks. However, the government should be ready to cover any excessive demand fluctuation risks.
+・ While O&M cost risk is basically borne by the operator, subsidies from the government can cover excessive fluctuations.
+・ In essence, the railway assets necessary for operations are leased from the government. The government on the other hand, bears the risks of asset restoration and rehabilitation.
+
+■Public Sector Investment/Gross Cost Scheme
+・ The government is responsible for construction and procurement activities.
+・ The public sector undertakes the civil works and procurements of the rolling stock and E&M systems.
+・ The private sector operator does not bear any ridership risks as the entity receives pre-determined service fee with the amount of O&M costs plus an appropriate profit.
+・ All fare revenue is received by the government, and the operating entity receives an availability payment (AP) as specified in the O&M contract as it carries out operation and maintenance. The AP amount typically includes a payment reduction penalty that is linked to a set of Key Performance Indicators (KPI).
+・ Part of the initial investment, pre-operating costs, replacement, and reinvestment during the contract period, and other cost items may be included in the AP payment.
+・ The operating entity can share profits with the government for the revenues derived from the commercial businesses and other non-fare revenues.
+
+Dealing with risks:
+・ The government bears all ridership risks.
+・ The burden on the government can increase significantly in case the fare revenues are significantly lower than expected. This may pose a risk of default in settling payments for the operating entity.
+・ In such cases, credit enhancement versus government payment risk may be considered.
+・ The operating entity should be protected from the risks of possible delays in railway opening. Expenditures associated with such delays must be appropriately compensated.
+
+Long-Term Business Strategy
+
+■General
+
+A business strategy is typically developed during the design stage. It is based on both the project scheme identified at the FS stage and the business case prepared during the design stage.
+After the type of operating entity is established at the construction stage, a more detailed business strategy is formulated at the pre-opening stages.
+During the operational stage, the operating entity should review the business strategy from time to time to reflect changes in the socio-economic conditions, trends in the external business environment, and technological innovations, among other factors.
+
+Business Strategy Development Overview:
+
+Immediately after the opening of the first route — Provision of safe and reliable transport services
+
+~5 years post-opening — Ensuring passenger safety and security; Provision of high-quality service; Railway network expansion; Strengthening of operations; Enhancement of railway human resources
+
+~10 years post-opening — Improved convenience and comfort; Intermodal transfer facility development and connectivity improvement; Operational enhancements and business diversification; Strengthening of marketing functions; Responding to environmental challenges
+
+>20 years post-opening — Cooperation with regional and municipal government for railway development along corridors; Technological innovation, research and development; Introduction of new mobility services; Expansion into overseas businesses (e.g., operations)
+
+■Management Plan (Action Plan)
+
+All organizations need a management plan based on its business strategy. New organizations in the urban railway sector requires professional advice from industry experts.
+
+Example of Management Plan and Major Measures (Tokyo Metro, 2021):
+
+Key Management Policies:
+● Providing a Sense of Security
+1. Promote natural disaster mitigation measures
+2. Improve safety of station platforms
+3. Introduce new rolling stock
+4. Enhance security
+5. Enable policies that contribute to improved safety and stability
+6. Improve transport service
+7. Provide barrier-free installations
+8. Improve convenience and comfort
+
+● Achieve Sustainable Growth
+1. Launch initiatives that meet customer needs
+2. Expand non-fare businesses
+3. Implement overseas business development
+4. Create and promote new businesses
+5. Develop and introduce new technology
+
+● Co-creation of Tokyo's Charm and Vitality
+1. Create vitality by collaborating with areas along the railway line
+2. Cooperate in town development
+3. Promote open innovation
+4. Exert efforts to realize new mobility services
+
+Business Operations, Technology, and Safety: Regulatory and Supervisory Systems
+
+■Necessity For Regulations
+
+The railway business is made up of important social infrastructures, since it is public in nature, the ensuring high levels of safety in order to transport involving a large number of passengers is needed. Imposing appropriate regulations are necessary to ensure activities of railway operators does not go against public interest.
+
+■Regulations in Developing Countries
+
+The provisions of the regulations vary depending on the history of the railway development in the country. In some developing countries, the creation of legislation for a regulatory authority may not be sufficiently advanced. It is therefore necessary to create and impose such legislations that are referenced to the regulatory systems that are already set in place in Japan.
+
+■Flow of Regulation Development
+
+FS Stage: recommendation on the necessity of legislation
+A clear understanding of existing regulations in concerned countries would be needed to determine the need to recommend new legislation that support railway operations.
+
+DD Stage: examination and development assistance for regulation contents
+Consideration is given to the specific contents of regulations covering the five (5) items. Development of appropriate regulations for railway operations is a key requirement that should be conducted in the early stages of development works. If the development of appropriate regulations incur delays, compliance assessments of the railway system could not be properly undertaken in the succeeding stages. This consequently results in delays in developing internal regulations within the operating entity and would snowball into delays in the opening of the railway as well.
+
+GC Stage: conformity with regulation contents
+Procedural processes are undertaken to secure permission to implement O&M in accordance with the established laws and certification systems in the country.
+
+GC Stage: development of internal regulations of railway companies
+The internal regulations of railway companies are to be developed in line with established laws and regulations.
+
+■Examination Of Specific Regulations
+
+Major Regulatory Items and Contents in Japan:
+
+Basic matters concerning railway business and operations (Railway Business Act):
+- License required to start a railway business — Authority: Approve — Duty: Submit Business license application
+- Passenger fare and train operation plan — Authority: Authorize Passenger fare limit — Duty: Apply Fare upper limit application; Notify Fare / operation plan
+- Construction of safety management system — Duty: Notify Safety management regulations
+- Accident reporting (Railway Accident Reporting Rules) — Duty: Notify Accident reports
+- Information disclosure related to railway safety — Duty: Publish Safety reports
+- Outsourcing of train operation management — Authority: Authorize Outsourcing of operation
+
+Matters concerning railway technology (Technical Regulatory Standards on Japanese Railways):
+- Design, construction, completion, change of railway installations and rolling stock — Authority: Authorize Construction works authorization — Duty: Apply Railway infrastructure construction plan; Apply Railway infrastructure inspection application; Pass Railway facility inspection; Confirm Rolling stock confirmation
+- Establishment of structural standards for railway infrastructure and rolling stock — Duty: Notify Technical standards relating to rolling stock, electricity, track, civil engineering and train operation
+- Establishment of maintenance standards for railway infrastructure and rolling stock — Technical standards → Performance regulation → Interpretation criteria → Refer
+- Establishment of train operation handling standards
+
+Matters concerning the continued ensuring of safety:
+- Railway Business Audit Rules — Audits to confirm operational status — Authority: Safety / business audit — Audit
+- Act for Establishment of the Japan Transport Safety Board — Accident investigation system — Authority: Investigation of cause of accidents — Investigation and recommendations for measures to be taken
+
+Matters concerning operation and passenger (Railway Operation Act, Railway Transport Regulations):
+- Fares and other conditions of transport — Duty: Publish Carriage terms and conditions
+
+Matters concerning railway staff and passengers (Railway Operation Act):
+- Duties of railway personnel — Duty: Enact Staff service regulations
+
+
+Personnel Planning And Organization
+
+■Basic Concept
+
+An O&M entity is expected to have low profits from its establishment until the retention of passengers after its railway system opening. Since preparations and operations at the onset require a limited number of personnel, the gradual expansion of manpower and the organization as a whole is advisable.
+
+■Points for Consideration
+
+Personnel planning and recruitment:
+
+●FS stage
+Calculations of manpower requirements (based on the total estimated number of necessary personnel using the basic unit per kilometer) and corresponding cost should be included in O&M costs.
+
+●DD stage
+Along with the gradual refinement of the O&M plan, the personnel plan is updated, personnel requirements are detailed, and staff dispatch from related organizations are coordinated. At this point, it is desirable that 80-90% of the necessary details (including the number of personnel based on equipment quantity and specifications) have been organized.
+
+●Post-GC stage
+After hiring management department personnel, the railway O&M department personnel are gradually hired according to the training schedule.
+
+Organizational Structure Development:
+
+●FS stage
+A system for urban railway O&M is proposed at this stage. The organizational structure differs depending on the business scheme and whether or not to outsource this particular function.
+
+●Post-DD stage
+Necessary departments and organizational structures are sequentially established at this stage. The personnel plan and organization structure are also refined in parallel.
+
+Training:
+
+This is carried out to obtain the licenses and qualifications mandated by relevant laws and regulations.
+
+●FS stage — This involves introducing case studies on personnel development from past projects.
+●DD stage — This involves developing necessary timeframes for personnel development.
+●Post-GC stage — This involves formulating detailed methods for personnel development. Coordination is essential to avoid overlaps or shortages in contractor-provided training.
+
+Fundamental departments required for urban railway O&M: General Management, Train Operation, and Maintenance Departments.
+
+Head Office Departments: Corporate planning / General affairs / Personnel / Finance; Non-railway business (e.g., advertising, retail)
+
+Field (Non-head Office) Departments: Station operation; Train operation; Rolling stock; Tracks and infrastructure; Electrical facilities
+
+Operating entity establishment: 2-3 years before handover
+
+
+Railway System and O&M Plan Review
+
+■Basic Concept
+
+Railway system and O&M plans are examined in phases leading up to the construction stage: at the FS stage, the basic plan required for the calculations of the business costs is prepared; at the DD stage, the basic O&M plan required for facility design and specifications are confirmed and tendered; and at the post-GC stage, detailed design and manufacturing activities are performed. Afterwards, the railway system is constructed with the necessary documentation for train and station operations, and facilities are prepared for handover to the operating entity.
+
+■Points for Consideration
+
+Basic policy of route development:
+The first step is to verify the need for railway development by aligning the basic policy with the city's development vision. Based on demand forecasts and service vision, the necessary transport capacity or maximum transport volume after opening all railway systems in the network is calculated to anticipate and plan for the maximum values and specifications of elements that are difficult to expand (e.g., infrastructure, depot) when keeping pace with the required transport capacity in the future.
+
+Railway system/O&M basic plan:
+While train operation experts are formulating a basic plan for train operation, various engineering experts are also formulating a basic plan for facilities and equipment provision and maintenance needed for O&M implementation. These plans serve as the basis of O&M cost calculations.
+
+Railway system design and specification review:
+To concretize the basic plan, further investigation needs to be carried out. This includes the formulation of a full-day transport plan (train operation diagram) and station operation plan, as well as the detailed designs of rolling stock and other important facilities and equipment. The deliverables created at this stage form part of the bidding specifications to be used for procurement.
+
+Additionally, since these facility requirements will be constructed and manufactured based on the maintenance plan (as per bidding specifications) and maintained by the operating entity, parts replacement and supply methods should be given due consideration.
+
+Railway system construction and handover:
+The maintenance service provider is selected through competitive bidding. After which, the detailed design, manufacturing, inspection, and testing stages are carried out. Once the pertinent documents have been prepared, the railway system is handed over to the operating entity.
+
+Development Flow for Railway System and O&M Planning:
+
+FS Planning:
+・ Determination of envisioned ridership
+・ Setting of maximum transport capacity (number of trains running) during peak hours
+・ Identification of measures to stimulate demand
+・ Setting of service policy
+・ Determination of basic concepts (e.g., automation, remote guidance)
+・ Necessity of route development
+・ Route planning
+・ Railway system planning (overview of infrastructure, rolling stock, and electrical facilities)
+・ Station operation plan
+
+DD Formulation of Designs and Specifications:
+・ Creation of train operation diagram (full day)
+・ Formulation of performance specifications for operations-related facilities
+・ Formulation of implementation system for train operation, including OCC
+・ Detailing of station operations and facilities (e.g., ticket gates, ticket vending machines, platform monitoring, information)
+・ Detailing of technical specifications of facilities (e.g., configuration, layout, structure, function, performance)
+・ Determination of maintenance plan implementation system (e.g., maintenance cycle, direct/outsourced)
+・ Detailing of technical specifications of maintenance site and facilities
+
+GC Construct and Handover:
+・ Project research
+・ Identification of local needs
+・ Validity verification of route development
+・ Estimation of ODA loan amount
+・ Preparation of bidding specifications (reflecting client requirements)
+・ Construction of railway system
+・ Preparation for handing over to the operating entity
+・ Detailed design of railway system
+・ Construction of infrastructure
+・ Manufacturing of facilities
+・ Inspection
+・ Testing
+
+Handover of railway system and O&M plan includes:
+- Transport plan
+- Station operation plan
+- Tracks and infrastructure
+- Rolling stock
+- Electrical facilities
+- Station facilities
+- OCC
+- Facility/equipment documentation (Operating manuals, Maintenance manuals, Design, Training plans)
+
+
+EXTRACTED TEXT — PART 3
+
+Train Operation Department
+
+■Basic Concept
+
+Upon receipt of the transport plan (train operation diagram), the Train Operation Department carries out advance preparations before the opening of a railway system. At this stage, there are instances wherein plans may be revised. It is therefore essential for all departments to work together closely as the non-involvement of even just one department can jeopardize the reliability of train operations.
+
+This process is also done to determine failures or defects during post-opening assessments. In such cases, the necessary modifications must be reflected in the revised plans. Thus, it is essential to have a system that continuously implements the Plan-Do-Check-Act (PDCA) cycle involving all concerned departments of the operating entity for reliable train operation.
+
+■Points for Consideration
+
+Transport plan (train operation diagram):
+When opening a railway system, each department's plan is checked for adherence to train operation requirements based on the initial train operation diagram, which is fine tuned as necessary. Afterwards, train operation diagram data are entered into the OCC's train operation management system; and these serve as the basis of trial runs for train operation.
+During the post-opening stage, improvements to train operation diagrams are made after completing a PDCA cycle.
+
+Cooperation with maintenance departments:
+Interdepartmental cooperation during the pre-opening stage is described under "Basic Concept." The same is also necessary during the post-opening stage, as improvements are initiated through the presentation of requirements for the new transport plan to the concerned maintenance departments (e.g., infrastructure, electrical facilities, rolling stock). These departments are responsible for conducting a detailed review of these plans and discussing the necessary measures.
+
+Personnel planning:
+This generally refers to the hiring of personnel needed for the OCC and operation of trains, as well as the preparation of daily duty/shift schedules and work instructions.
+If there is a need for additional personnel due to post-opening changes in the train operation diagram, advance discussions with the human resources department are necessary in anticipation of the preparation period required for hiring.
+
+Training plan:
+This outlines the strategic acquisition of knowledge and skills for train operations. As a standard in many countries, train drivers and OCC personnel cannot engage in this line of work without special qualifications. As such, it is necessary to consider these particular qualifications when developing a training plan.
+
+Regulations and manuals:
+Establishing rules and regulations in relation to train operations, as well as creating manuals on operating and troubleshooting procedures according to the specifications of rolling stock and other equipment, is done during the preparatory stages before the opening of a railway system. It is important that these rules, regulations, and manuals are updated whenever there are any post-opening changes to the railway system or procedures to avoid safety and operations risks.
+
+Overview of Train Operation Department Workflow:
+
+PLAN:
+- [Transport plan] (train operation diagram) — Internal dissemination within the department — Creation of data
+- [Equipment plan] Collaboration with maintenance departments (infrastructure, electrical facilities, rolling stock)
+- Review rules, regulations, and manuals when updating/changing facilities and equipment
+- [Development of train operation-related regulations and manuals] — Dissemination to related parties
+- [Training plan] Collaboration with the human resources department — Daily training by train operation department — Training after hiring
+- [Personnel plan] Collaboration with the human resources department — Create shift schedules — Placement after training
+
+DO:
+- Start of operations according to opening train operation diagram
+- Conduct of trial run by train drivers and OCC personnel
+- Train operation based on rules and regulations, and manuals
+- Train operation based on training
+- Working based on assigned shift schedule
+- Implementation of comprehensive training with participation by all departments (before opening)
+- Announcement to regulatory agencies
+- Press release
+
+CHECK:
+- Improvement of train operation diagram
+- Discuss facilities and equipment improvements with concerned departments
+- Verification of rules and regulations, and manuals
+- Analysis of staff errors
+- Analysis of operational performance
+- Operation performance analysis → Caused by train / Caused by other factors
+
+ACT:
+- Equipment improvement
+- Work plan improvement
+- Improvement through training
+- Improved handling
+- Improvement of train operation
+- Improvement through further training
+- Consider shift schedule improvements
+- Implementation of improvements in collaboration with other departments
+- Return to the process of "creating basic rules" and consider a new plan that reflects any improvement measures
+
+Station Operation Department
+
+■Basic Concept
+
+Station operation services are considered the closest to passengers. These include activities such as ticket selling, security inspections, safety confirmation on platforms, customer information, and lost property handling. Aside from ensuring passenger safety, stations are required to provide comfortable services within the stations. The degree of services provided is measured through quantitative observation such as a set of KPIs related to customer satisfaction.
+
+■Points for Consideration
+
+Station operation plan:
+Related duties include external coordination with regulatory entities (e.g., fares, new service implementation, application, accident reporting) and internal coordination with other departments (e.g., mid-term plan, budget management, establishment of station service implementation system). Other activities that are often included in the station operation plan are the following: accident response; possible introduction of new services; fare revenue management; and other duties performed on the platform.
+
+Regulations and manuals:
+Every task should be appropriately performed based on established regulations and manuals. One of the most important rules in station operations is "Conditions of Carriage," which is a transport contract with the passengers. Internal rules and work manuals required for station operation implementation are confirmed and prepared in line with pertinent laws and in coordination with concerned departments.
+
+Personnel planning:
+The staffing, division of duties, and duty/shift schedules of head office and field department staff (including contracts for outsourced services) based on the personnel plan are reviewed in detail. Any excess or deficiency in personnel deployments should be adjusted before the opening of the railway system. Additionally, appropriate training should be provided to help ensure different station-related activities are carried out efficiently and effectively. If operations are not functioning smoothly within the department, another study should be done separately to review staffing and division of duties.
+
+Station facilities/equipment operation:
+All technical specifications of related facilities and equipment (e.g., ticket gates, platform screen doors (PSD), information devices) are reviewed and improved. These, along with related design documents from the DD stage, serve as the basis of corresponding operating rules and manuals. All assigned personnel should be appropriately trained to operate station facilities and equipment, as well as perform different tasks related to station operations, leading up to the opening of the railway system.
+
+Overview of Station Operation Department Workflow:
+
+PLAN:
+- (Station operation plan) Formulation of fare; Planning of station service
+- (Regulations and manuals) Drafting of Conditions of Carriage; Outlining of equipment specifications
+- (Personnel planning) Planning of personnel per department; Decision on role per section
+- (Station facilities/equipment operation) Equipment specification; Equipment layout
+- Creation of a departmental framework on station service (head/field office)
+- Identification and drafting of required regulations
+- Confirmation of consistency with design documents (drafting of regulations and manuals)
+- Examination of departmental internal division of duties, and operational shifts
+- Study on outsourcing works
+- Creation of instructions and manuals (For contractors)
+- Checking of instruction manuals
+- Confirmation of organization, division of duties and station shifts
+- Contract with outsourced contractor
+
+DO:
+- Dissemination of information within department
+- Implementation of related works
+- Execution of various daily station duties
+- Mid-term plan; Budget control; Goal on service implementation
+- Personnel review; Consultation with HR department; Instruction to outsourced contractor
+- Application / report to regulatory agencies regarding fares, station services, accidents, etc.
+
+CHECK:
+- Check progress status
+- External evaluation, confirmation of external factors
+- Investigation of defects
+- Accident response (including root cause identification)
+
+ACT:
+- Examination of station service in response to requests
+- Drafting of revised regulations and manuals (Technical aspects)
+- Coordination with related departments (Equipment renewal)
+- Consultation with related departments
+- Application to regulatory agencies regarding fares and other matters related to transport operations
+- Return to PLAN and formulate a new plan
+- Customer evaluations, regulatory change, risk management
+
+Tracks and Infrastructure Department
+
+■Basic Concept
+
+Railway structures made of steel and concrete cannot easily be demolished and rebuilt, so timely repairs and reinforcements need to be carried out so that they can maintain their functions. On the other hand, wears, failures, and irregularities on railway tracks directly affect the safety and comfort of passengers; as such, it is very important to regularly inspect the tracks more frequently than civil structures. The tracks should be refurbished after a certain period of time. Nonetheless, it is imperative to have regular maintenance cycles based on inspection results for both railway structures and tracks.
+
+Thorough inspections and confirmations of the different facilities and ancillary equipment should be carried out, especially during handover of the railway system. Design drawings, construction methods, and completion inspection results are important references for conducting proper maintenance.
+
+■Points for Consideration
+
+Plan:
+The following items are related to basic rules and should be considered at the initial project stages: planning of division of duties in each workplace; stipulation of necessary implementation items based on relevant laws and regulations; establishment of methods for construction cost estimation and ordering, procurement of goods, and asset management system to ensure proper procurement and management of resources; and stipulation of items on maintenance operations (e.g., inspections, repair works) to ensure tasks are properly carried out as an organization.
+
+Budgets are formulated according to the mid- and long-term plans for inspections and repairs, which should comply with the required procedures. Training plans are required for standard training across all departments (e.g., accident prevention measures), induction training for new personnel, and upskilling workshops to enhance their expertise. It is also important to secure reliable suppliers and service providers to guarantee reliable maintenance works.
+
+Do:
+At the initial operational stage, training and technical support on facility/equipment handling is provided by the construction contractor and equipment suppliers.
+The necessary maintenance-related measures are implemented based on the inspection data, so it is extremely important to properly and systematically record inspection results. When repair works are required, track components like rails and sleepers are replaced; and track irregularities are also corrected. As for railway structures, the necessary repairs are carried out immediately upon discovery of any signs of deformation, such as water leakage and cracks.
+
+In the event of an accident or natural disaster, recovery is the first priority; as such, construction activities are planned to ensure this. Management of supplies to be used in emergencies (e.g., damaged rails) is likewise an important consideration for immediate recovery. Furthermore, it is necessary to regularly update and relay information on the condition of fixed assets in accordance with any improvement works carried out.
+
+Check:
+Results of inspections and improvement works over the years should be analyzed to improve inspection and construction methods. Emergency management measures are likewise analyzed in the same manner.
+In relation to the organizational structure, regular internal audits by upper management and audits by relevant government agencies are done to ensure that duties are being properly carried out.
+
+Act:
+If repairs are assessed as insufficient for a structure or component to function as per specifications, further improvement works are carried out: appropriate activities (e.g., assessment, work procedures, construction methods, inspection methods) are reviewed; manuals and regulations are revised; and necessary training is provided to thoroughly disseminate information updates and, in the case of accidents, prevent recurrence.
+
+Overview of Tracks and Infrastructure Department Workflow:
+
+Handover — Facility confirmation:
+・ Transfer of equipment documentation (e.g., manuals, drawings)
+・ Status confirmation of equipment
+・ Confirmation of completion inspection results
+・ Procurement of any lacking materials and equipment
+
+Formulation of basic rules:
+Matters related to operation:
+・ Division of duties
+・ Formulation of implementation items based on relevant laws and regulations
+・ Establishment of procurement method (construction estimation and ordering, purchase of goods)
+・ Establishment of asset and inventory management method
+
+Matters to be complied in relation to maintenance works:
+・ Inspection methods
+・ Structural specifications
+・ Maintenance work standards
+・ Safety and health matters
+・ Construction management methods
+
+Creation of Implementation plan:
+・ Mid- to long-term plan (i.e., inspections, repairs)
+・ Inspection plan (e.g., annual, long-term)
+・ Training plan (e.g., new personnel, upskilling)
+・ Budget management — Planned, actual
+・ Human resources management (e.g., work experience, educational background, qualifications)
+・ Procurement supplier selection (e.g., construction companies, manufacturers)
+
+Operation (DO):
+- Support from suppliers/construction contractors — Implementation of training on handling — Technical support
+- Implementation of inspections → Evaluation → Judgment → Management of inspection records
+- Repair → Monitoring
+- Repair of civil structures
+- Correction of track displacement
+- Replacement of track component
+- Accident/disaster occurrence → Emergency response → Recovery
+- Installation management → Inventory control → Fixed asset registration
+- Management of emergency supplies → Procurement of replenishment materials
+
+Evaluation (CHECK):
+- Evaluation of structures — Analysis of condition due to aging — Test result analysis — Monitoring result analysis — Analysis of repair work records — Construction method — Design method
+- Evaluation of organizational structure — Conduct of audit — Identification of problem — Reporting
+
+Development of Improvements and Implementation (ACT):
+- Actions related to facilities — Improvement work — Construction reinforcement — Track renewal
+- Actions related to processes — Review of design and construction methods — Addition of inspection items — Revision of manuals and regulations — Provision of safety training
+
+Rolling Stock Department
+
+■Basic Concept
+
+Rolling stock maintenance can be divided into two (2) broad categories: (1) preventive maintenance, wherein regular inspections are performed according to a schedule; and (2) corrective maintenance, wherein repairs are performed in the event of an accident or failure. To reliably implement these maintenance activities, the following should be formulated: mid- to long-term renewal plans for rolling stock; process plans for inspections; troubleshooting and emergency management plans; and implementation system.
+
+Spare parts, special equipment, and their management are indispensable for maintenance. Furthermore, daily maintenance data are collected and analyzed to detect the early signs of failure, implement the necessary measures, and reflect these in the improvement plan.
+
+Rolling stock inspection system:
+Utilizing the inspection books prepared by suppliers, the following should be prepared: regulations and manuals; inspection plans; revenue line failure response plans; and pre-opening training and other activities in preparation for conducting actual inspections.
+The high quality of rolling stock inspections and troubleshooting activities must be maintained and continuously enhanced by continuously finding improvement points and making corrections even well beyond the railway system opening.
+
+■Points for Consideration
+
+Technical training:
+Rolling stock personnel (e.g., engineers, technicians) must have the necessary knowledge and expertise to carry out their respective duties effectively. This can be achieved by conducting theoretical and practical training using easily understandable training materials.
+
+Parts supply system:
+Lists of parts with the necessary details (e.g., names, model numbers, quantities, replacement cycles) are obtained from the suppliers. Based on the formulated inspection plan, a procurement plan for acquisition of the spare parts necessary for maintenance and contracts with corresponding suppliers should be formalized. The control of goods and appropriate stock of spare parts are maintained based on this plan.
+
+Equipment maintenance system:
+Pertinent equipment documentation is obtained from the manufacturer, and an equipment maintenance plan is developed in line with the inspection plan. Regular inspections are conducted to maintain the integrity of the equipment.
+
+Skills training:
+A human resources management and training plans are formulated for the acquisition of knowledge and skills that are necessary for rolling stock maintenance. The training contents must be developed in accordance with the years of experience and level of skills of each trainee, as well as the necessary licenses for maintenance activities. For safety training, it is important to foster culture and awareness through constant repetition.
+
+Example of Scheduled Rolling Stock Maintenance in Japan:
+
+- General overhaul inspection — Inspection Venue: Workshop — Inspection Cycle: 8 years
+- Critical part overhaul inspection — Inspection Venue: Workshop — Inspection Cycle: 4 years or 600,000 km
+- Inspection of condition and function — Inspection Venue: Depot — Inspection Cycle: 3 months
+- 10-day Inspection — Inspection Venue: Depot — Inspection Cycle: 10 days
+
+Overview of Rolling Stock Department Workflow:
+
+PLAN:
+- Development of inspection systems — Formulation of inspection plans — Construction of a revenue line failure response system
+- Revenue line failure response plan — Inspection plan — Mid- to long-term plan
+- Formulation of inspection methods — Manual development — Maintenance standard value setting — Technical Maintenance of Internal rules
+- Parts procurement contracts with suppliers — Maintenance parts procurement plan
+- Equipment maintenance contracts — Equipment management plan
+- Human resources management plan — Training plan — Budgeting
+- Support from Suppliers: Design documents, Manuals, Handling training, List of maintenance parts, Equipment-related documents
+
+Training/Preparations:
+- Handling training
+- Rolling stock maintenance training
+- Conducting trial inspections: Daily inspection, 10-day inspection, Inspection of condition and function, Periodic inspections
+- Failure on main line, Accident response — Failure response training
+- Inventory of emergency parts and securing of spare parts for equipment
+- Preparations for maintenance parts procurement
+- Handling training — Engineer training ⇒ Human Error prevention/ensuring work safety
+
+DO (Operation):
+Preventive maintenance ⇒ Reliable implementation of regular inspections
+- Workshop inspection — Periodic inspection
+- Depot inspection — Wheel truing — Parts replacement, etc.
+
+Corrective maintenance ⇒ Immediate recovery in the event of a failure
+- Troubleshooting at depot or main line — Spare parts replacement — Temporary treatment
+- Working with the Control Center and HQ
+- Same failure recurrence prevention — Failure countermeasures — Permanent failure countermeasures
+
+Equipment management ⇒ Familiarity with and maintenance of equipment
+- Periodic inspection — Failure response — Direct management and outsourcing — Repair response — Equipment repair — Equipment renewal — Unit replacement — Renewal due to age deterioration
+
+Parts procurement ⇒ Stable parts supply
+- New purchase — Inventory control
+
+CHECK (Evaluation):
+- Data collection from various kinds of inspections, troubleshooting, parts replacement, maintenance records, etc.
+- Analysis of advance signs of failure
+- Identification of events that require countermeasures according to the importance and frequency of the analyzed advance signs of failure
+- Analysis of failure response results
+- Consider the necessity of updating from the results of regular inspections
+- Analysis of impact of parts delivery time on inspection
+- Examination of appropriateness of stock
+- Confirmation and follow-up of knowledge and skills acquisition
+- Confirmation of effects by training assuming abnormalities, failure detection, and recovery training
+
+ACT (Development of Improvements):
+- Consideration of improvement measures based on evaluation and reflection in budget and plans
+
+Electrical Facilities Department
+
+■Basic Concept
+
+The Electrical Facilities Department covers a wide range of subsystems that are broadly divided into three (3) categories: (1) power supply and transmission to the entire railway system; (2) signaling and communications that ensure safe train operations; and (3) station facilities that passengers can use comfortably and safely (e.g., electro-mechanical facilities and automatic fare collection). In line with this, it is ideal to assign experts in the department to the category in line with their field of expertise and workload.
+
+■Points for Consideration
+
+Formulation of regulations:
+There are regulations specifically for the O&M of electrical facilities (e.g., electric power), as well as regulations that apply across different railway O&M fields (e.g., duties to be performed after the last train of the day, maintenance vehicle handling). Manuals define the procedures intended for maintenance works and applications, among others.
+
+Maintenance system:
+It must cover the said three (3) categories and also include the necessary personnel and their designated duties.
+
+OCC organization:
+The OCC typically has different controllers for train operation, station operation, rolling stock, and power. In line with these, the Electrical Facilities Department must establish organizations for the power controller; while establishing organizations for the facilities controller should be done in collaboration with the Infrastructure Department.
+
+Outsourced maintenance items:
+Tapping outsourced technical expertise is typically in response to a need for highly specialized capabilities or cost reduction. This is required in specialized areas, particularly those that require advanced knowledge product handling skills or corresponding licenses/qualifications, such as extra high voltage, radio, PSD, and AFC. Therefore, it is necessary to confirm the existence of relevant licensing systems and qualified subcontractors in the concerned country. On the other hand, activities like inspecting lighting and replacing old equipment are outsourced to external companies. This strategy can lead to possible cost reductions as a result of improved efficiency or reduced labor costs.
+
+Mid- to long-term and annual plan:
+Budgeting plans for facility maintenance, renewal, and procurement must be formulated in accordance with the organization's mid- to long-term and annual plan also business plans, among other relevant plans.
+
+Construction regulations, etc.:
+Some components, such as mechanical or storage battery equipment, require relatively earlier repairs due to faster wear and deterioration, among other factors. Support is provided in creating construction regulations that cover multiple years after the railway system opening.
+
+Licenses/qualifications required: chief electrical engineer, radio use, EV/ES, handling dangerous materials, ordinary driving license, occupational safety and health.
+
+Outsourced items include: O&M of extra high-voltage facilities and radio stations, maintenance of power supervisory control and data acquisition (SCADA), operation management devices and data transmission network devices, specification of cooperating companies to undertake construction works. For many station facilities (e.g., EV/ES, PSD, AFC), outsourcing needs to be considered, so it is particularly necessary to provide support for outsourcing contracts and assume that training for outsourced companies will be needed.
+
+Electrical Facilities Department regulations include:
+- Electrical Facilities Department alone: maintenance of electrical facilities, electrical power operations, radio (wireless) use
+- Cross-departmental: working on tracks, working on trains after operations, handling of maintenance vehicles
+
+Overview of Electrical Facilities Department Workflow:
+
+PLAN:
+- Receipt of documents related to facility maintenance plans
+- Specification of maintenance system
+- Specification of licenses and qualifications
+- Specification of OCC organization (power controller and facilities controller)
+- Specify outsourced maintenance items
+- Formulation of regulations — Create manuals
+- Decision on division of duties, staffing
+- Specification of outsourced services, making TORs
+- Formulation of mid- to long-term and annual plan (e.g., facility maintenance, renewal, procurement of goods)
+- Support for formulation of construction regulations, etc.
+- Support for development of organizations and procedures (e.g., planning, design, estimates, procurement, construction supervision)
+- Planning and management of Electrical Facilities Department O&M matters (e.g., budgeting)
+- Training (e.g., specialized knowledge, OCC controller duties, practical skills, occupational safety and health)
+- Outsourcing of contracts, training for the outsourced service providers
+
+DO:
+- Business execution — Budget and performance management
+- Controller's duties
+- Ordering and supervision
+- Site office/outsources/head office liaison meetings
+- Maintenance/accident/failure response
+- Planning/design/estimates/ordering/construction supervision
+
+CHECK:
+- Annual/semi-annual/monthly reports — Review
+- Performance evaluation and issue identification
+- Audit (official/internal) — Analysis of audit results
+- Evaluation during or after construction
+
+ACT:
+- Evaluate and consider improvement measures
+- Review of specifications/outsourced maintenance services
+- Review of regulations/maintenance methods/organization/personnel plan
+- Strengthening cooperation between related departments and improving work quality
+
+Department for Cross-Departmental Integration
+
+■Basic Concept
+
+The previously mentioned departments for the train operations, station operations, infrastructure, rolling stock, and electrical facilities carry out their respective duties, which include the management of the assets under their jurisdiction. However, passengers see the railway system as a single entity that provides transport services and not as individual departments providing individual services. Therefore, it is ideal to have a special department that is responsible for cross-departmental cooperation by establishing goals and rules that integrate the different O&M departments.
+
+■Points for Consideration
+
+Formulation of common departmental rules:
+Formulating and implementing unified rules that apply to all departments, such as safety management and emergency management, is essential to achieving integration. Basing department regulations on these common rules can help in monitoring and traceability.
+
+Budget management and interdepartmental coordination:
+Budgets required for each department are aggregated to determine the overall budget for the entire organization. This integration is expected to optimize overall management of the organization and railway system.
+
+Cross-departmental integration targets:
+Safety targets are set for accident/disaster prevention, train operation stability, customer service improvement, and asset management quality. In this management process, activities to solve technical and service issues across departments are also conducted. It is necessary for all of the said activities to be carried out using the PDCA cycle in the same way as other departments.
+
+Coordination of maintenance conditions and other related aspects:
+When outsourcing maintenance services, contract terms are negotiated. In case of newly opened railway lines, plans for overall trial runs are created.
+
+Overview of Cross-Departmental Integration Department Workflow:
+
+PLAN:
+- Integration plan
+- Maintenance Conditions with Subcontractors — Follow the conditions stipulated in the contract
+- Integrated targets as a whole system: Safety and disaster prevention; Train operation; Customer satisfaction; Asset management
+- Formulation of budget implementation plan
+- Formulation of common departmental rules — Compliance with regulatory/certification systems (before opening): Safety management/Accident and disaster; Certification Work; Staff Service Duties
+- Customer service target setting: Comfort; Convenience; Customer service stance; Provision of information
+- Accident prevention; Emergency response; Human error prevention — Deploy to all departments
+- Trial run implementation plan → Opening trial run → Opening → Summary of issues after opening → Examination of countermeasures
+
+DO:
+- Compliance with regulatory/certification systems (after opening)
+- Business execution by each department
+- Budget management for the entire railway system
+- Training for abnormalities — Collaborative training between OCC and each department
+- Set transport obstacle reduction targets — Failures caused by the organization
+- Collecting user opinions
+
+CHECK:
+- Aggregation of internal audit results
+- Confirmation of progress of implementation plan
+- Monthly gathering of delay statuses — Evaluation of delay occurrence statuses
+- Monthly gathering of inputs/opinions for quarterly report — Evaluation of user opinions
+
+ACT:
+- Target reset
+- Implementation plan/budget revision
+- Examination of improvement for quick recovery from accidents — Examination of technical issues
+- Examining service issues — Target reset
+
+Departments involved: Train operation, Station operation, Infrastructure, Rolling stock, Electric Facilities
+
+Asset Management
+
+■Basic Concept
+
+In order to effectively utilize railway assets owned by governments and other implementing entities during their useful life and maintain the financial stability of operating entities, it is necessary to support the preparation and implementation of asset management by the said entities through JICA projects.
+
+What is an asset?
+This generally refers to the properties necessary for railway operations, such as stations, tracks, signaling system, and rolling stock.
+
+What is asset management?
+This pertains to the maintenance of the condition of assets at a specified level, consisting of a series of work cycles, such as planning, implementation, evaluation, and improvement.
+
+■Points for Consideration
+
+Examination of asset management policy:
+The process of examining the asset management policy by the implementing entity is supported through JICA projects by presenting references on asset management work and examples. ISO 55000 (ISO55k), the international standard for asset management system, may be applied, as it is used in the railway industry.
+
+Formulation of overall contract details:
+The implementing entity considers the scope of jurisdiction (e.g., scope of assets, form of ownership, business operation) of the operating entity in terms of asset management.
+
+Formulation of specific contract details:
+The implementing entity details contract for asset management. The use of information systems can be considered in areas with concerns of staff turnover, as it is possible for business process flows to be created and a certain business operation level can be secured without depending on personnel. The said systems can be expected to keep the evidence for securing the budget with transparency and objectivity by designing appropriate information management in relation to asset management plans and achievements between operating and implementing entities.
+
+Preparations for asset management operation:
+The implementing entity confirms if the preparation status of the asset management work conducted by the operating entity aligns with the contract details previously agreed upon.
+
+Implementation, evaluation, and improvement of asset management operations:
+The implementing entity confirms if the operation cycle for asset management is appropriately established by the operating entity. By using the assessment viewpoint of ISO55k, a set of confirmation points is established.
+
+Asset management work evaluation and budget allocation:
+The implementing entity regularly receives performance reports from the operating entity based on a pre-established asset management business plan.
+
+Overview of Asset Management Preparations and Operations:
+
+Formulation of overall contract details on asset management:
+・ Operating entity's asset management duties (planning, implementation, evaluation, and improvement)
+・ Subject range (ownership/holding form for each asset category)
+
+Formulation of specific contract details on asset management:
+・ Asset provision period, return conditions
+・ Application of international standards related to asset management
+・ Operating entity's asset management duties and operational levels
+・ Utilization of information system
+
+Preparations for asset management operations:
+・ Confirmation of contract details
+・ Put together the management system
+・ Formulation of management rules, business process flow, and procedures
+・ Preparation of new or existing information systems for supporting the development of business process flow and business operation
+
+Implementation of asset management operations:
+・ Formulation of management plan
+・ Implementation of asset management plan based on management rules, business process flow, and procedures
+
+Evaluation of asset management operations:
+・ Identify improvements in asset management operations
+・ Performance report, planning and budget application to contractors
+
+Improving asset management operations:
+・ Nonconformity and corrective action
+・ Preventive action
+・ Continual improvement
+
+Asset management work evaluation and budget allocation:
+・ Confirmation of asset management performance and securing of budget
+・ Evaluation and improvement requests in the light of expected value (as per KPI)
+
+Asset Management: Examples from Different Countries
+
+■Australia — Metro Trains Melbourne Pty. Ltd. (MTM: Hong Kong MTR 60%)
+
+- Implementing body: Public Transport Victoria
+- Railway line: Melbourne's metropolitan rail service
+- Asset owner: Government-affiliated company (land, infrastructure, E&M system, rolling stock, stations)
+- Contract period: 2017 until 2024
+- Assets managed by O&M operator: Assets owned by government-affiliated companies
+- Under the terms of the lease agreement, ownership is transferred to the O&M operating entity. Upon termination of the contract, the assets are to be returned in a condition in which they may continue to be used.
+
+Main work contents:
+・ Formulation of asset management plans
+・ Implementation and recording of asset renewal and maintenance work
+
+Tasks related to budgeting for asset maintenance and renewal:
+・ Mid to long-term asset management planning in line with business KPIs
+・ Detailed annual work plan based on asset management plan (including financial plans such as for material procurement and maintenance costs)
+
+Compliance with international asset management standards: Certification required
+Asset management information systems: ABB Ability Ellipse EAM
+Methods of use: Management of asset information and work information; Information sharing with asset owners
+
+Application of international standards:
+The implementing entity contractually required the O&M entity to obtain an ISO55k certification. The MTM previously obtained a PAS55 certification, which is a British Standard, the basis of ISO55k certification, and eventually transition to a ISO55k certification within the contract period.
+
+The MTM has systematized its management regulations and business processes as a part of its asset management system framework. In accordance with ISO55k standards, the MTM performs a series of operations from planning to internal audit, as well as conducts regular performance evaluation of its asset management operations in management reviews; nonconformity items are improved, which are then reflected in succeeding plans.
+
+Utilization of information systems:
+The MTM has implemented a packaged information system built around the ISO55k standard that manages pertinent information on assets leased from the implementing entity. Some of the information being managed include: registration and condition of assets and maintenance activities; acquisition price and book value of replacement and spare parts; and inventory statuses and utilization schedules of spare parts. Since the MTM and implementing entity are mutually connected to each other's asset management information systems, the said information can be immediately obtained from the implementing entity.
+In addition, since the data are also used for performance and accounting reports in the asset management plan, accurate information can be immediately obtained, thus enabling timely budget preparation and approval.
+
+■United Kingdom — First MTR South Western Trains Ltd. (FMSWT: UK First Group 70%)
+
+- Implementing body: Department for Transport
+- Railway line: South Western Railway
+- Asset owner: Government-affiliated company (land, infrastructure, E&M system, stations partly O&M operators); Private sector enterprise/rolling stock leasing company (rolling stock)
+- Contract period: 2017 until 2024
+- Assets managed by O&M operator: Assets owned or leased by O&M operator (stations and station equipment)
+- Collaboration in maintenance management work for assets owned by government-affiliated companies and private sector enterprises
+
+Main work contents:
+・ Formulation of asset management plans
+・ Implementation and recording of equipment renewal and maintenance work
+
+Tasks related to budgeting:
+・ Annual business plan for stations and station asset (including financial plans for material procurement, maintenance costs, etc.)
+
+Compliance with international asset management standards: Certification required
+Asset management information systems: Infor Asset Management System
+Methods of use: Management of asset information and work information
+
+Overseas O&M Projects: Implementation System and Business Development Strategy
+
+Overview of O&M Case Studies:
+
+Arriva (UK):
+- O&M Implementation Cities: Netherlands
+- Legal System: European certification system
+- O&M Implementation System: Arriva formed a JV with a local small railway operator (Openbaar) and is responsible for train operation and rolling stock procurement. Infrastructure maintenance is handled by Prorail.
+- Business Scheme Framework: Public investment/gross cost
+- Risk Management: The company has offices all over Europe involved in the operation of large coaches. The company is extremely knowledgeable about the regulatory requirements of each country and have systems in place that can respond to concerns promptly.
+- O&M Business Development Strategy: They conduct their bus operation business first, and acquire knowledge about target destinations. As a JV participant in the railway business, the company further grows their business by acquiring local companies.
+
+First Group (UK):
+- O&M Implementation Cities: UK cities
+- Legal System: European certification system
+- O&M Implementation System: Only the train operation business is conducted, and infrastructure maintenance is handled by Network Rail, and rolling stock procurement and maintenance are handled by ROSCO (a vehicle leasing company) and the rolling stock manufacturers.
+- Business Scheme Framework: Public investment/gross cost
+- Risk Management: Management is conducted based on franchise contracts.
+- O&M Business Development Strategy: Currently working to maximize profits within franchise agreements.
+
+Keolis (France):
+- O&M Implementation Cities: Dubai
+- Legal System: European licensing system
+- O&M Implementation System: Carries out Dubai O&M business in a JV with a Japanese company. Keolis is in charge of the train operation business, and maintenance is handled by MHI.
+- Business Scheme Framework: Public investment x gross cost
+- Risk Management: Considering the acquisition or future acquisition of an existing local railway operator, the company initially plans to form a partnership to avoid escalation of its own risk.
+- O&M Business Development Strategy: In addition to the home base, France, the company aggressively pursues business opportunities in other European countries and in the US, Middle East, and Asia. They implement extensive training in-house. Through this transfer of knowledge to their employees, they are conducting O&M operations in various regions across 14 countries.
+
+Hong Kong MTR (Hong Kong):
+- O&M Implementation Cities: Melbourne
+- Legal System: TSV (Transport Safety Victoria) carries out safety supervision work, in accordance with the Rail Safety (Local Operations) Act 2006 (Vic).
+- O&M Implementation System: Melbourne O&M work carried out in collaboration with local companies John Holland and UGL. Equipment maintenance is handled by John Holland and UGL.
+- Business Scheme Framework: Public investment x gross cost
+- Risk Management: The Melbourne O&M business uses a risk sharing method with the ordering party. The operator takes the risk related to the upper and lower limits of the agreed upon fare income plan. Burdens in excess of these limits is split between the state government and the operator.
+- O&M Business Development Strategy: The focus is on projects where they can operate and maintain existing routes with relatively small investments, even if the profit margin is not high.
+
+O&M Business Development Strategy trends:
+It appears that the trend for developing O&M businesses is that these are mainly structured without large asset holdings, but are more based on the acquisition of local knowledge and the continuous capacity advancement of personnel responsible for the O&M operations. Under this kind of business model, while the profit margin is considered low (around 2-3%), the risk margin is likewise considerably small. Such model also features a more stable cash flow — one of the important considerations for O&M businesses.
+
+European Authorization and Certification System
+
+■European System
+
+Distinct from the Japanese practice, the third-party certification body under this system involved in the authorization and certification proceedings follows the European custom. Risk-based explanations and certification body reviews are fundamental for this style. Such system is highly applicable for instances wherein authorization and certification systems are within the purview of regulatory entities that cannot secure evaluation skills and resources. The practice of this system is found in various countries and regions, such as Southeast Asia.
+
+There may be cases wherein the recipient country's laws stipulate requirements for railway O&M or safety evaluation is stipulated in project implementation.
+
+As to safety and performance requirements for railway systems, there are cases wherein conformity to standards related to Reliability, Availability, Maintainability, and Safety (RAMS; e.g., IEC62278), submission of documents, and assessment by a certification body are also required.
+
+As for O&M requirements for railway systems, the establishment of an operational safety management system is required in Europe, which has been similarly adopted in Vietnam. There is also a possibility that this trend will spread among emerging economies in the future.
+
+The requirements for operation safety management system is directly carried out by the operating entity; while contractors are required to meet the safety and performance requirements of railway systems based on the risk assessment, as stipulated in RAMS-related standards. Contractors submit a document called safety case after being assessed by a certification body, as necessary.
+
+■Adoption in Vietnam
+
+Issued in 2016, a ministerial ordinance entitled "Regulations on Assessment and Certification of Urban Railway System Safety" requires measures based on risk assessments to be carried out in relation to the railway system and its operation. Furthermore, it requires that the response is appropriately assessed by a certification body.
+
+■Japanese System
+
+Evaluating a railway system using the Japanese system entails performing design validation based on Japanese design standards (e.g., rolling stock, infrastructure, and electrical structural implementation). This method involves checking the structures, functions, and performance of equipment against design standards; and it requires significantly fewer documents compared to the European system. However, if the railway system is using the Japanese system but the licensing framework is patterned after the European system (or vice versa), the actual implementation of different regulations and standards will be highly challenging to manage.
+
+■Key Points for JICA Project Utilization
+
+The use of the certification body is a major premise, so it is essential to remember conducting project management that is in sync with the licensing process; scheduling must take into consideration the necessary interaction with the certification body.
+
+When it is necessary to comply with the certification or licensing based on the European standard, it is crucial to show that the design development and operations are based on risk assessments; as such, numerous documentary requirements need to be submitted to the regulatory entity.
+
+In addition, it is necessary to show to the certification body that the risk can be appropriately mitigated in the various phases of design and development; as such, the resulting costs tend to significantly increase. Given these points, it is important to properly understand the goal of authorization and certification because the licensing cost will be high if this is not properly studied at the FS stage.
+
+Flow of European-Style Licensing in Emerging Economies:
+
+Operating entity:
+- Establishment of regulations and frameworks
+- Application in compliance with railway system regulations and laws
+- Responsibility for railway system operations
+- Operational safety management system — Safety case — Safety requirements
+
+Contractor:
+- Technical responsibilities of railway system
+- Application in compliance with railway system regulations and laws
+- Safety case — RAMS requirements
+
+Certification body (Europe):
+- Independence
+- Assessment of compliance with railway system regulations and laws
+- Assessment/certification (for both operating entity and contractor)
+
+Key Performance Indicators
+
+■Kinds
+
+There is a wide range of KPIs related to O&M, which include those related to operations (e.g., safety, punctuality), customer satisfaction, assets (e.g., rolling stock, station facilities), personnel, and social impact (e.g., environment, corporate social responsibility).
+
+Examples of O&M-related KPIs:
+
+Operation service: Reliability (train operation rate); Punctuality; Availability; Travel time; Safety
+
+Customer Satisfaction: Comfort; Convenience
+
+Assets (e.g., rolling stock, station facilities): Condition of rolling stock (e.g., cleanliness); Condition of station installations (e.g., cleanliness); Failure rate of station equipment (e.g., elevators); Number of PSD failures; Maintenance rate of information signs
+
+Matters related to staff: Employee satisfaction; Training; Labor productivity
+
+Social impact: Greenhouse gas emission rate; Power usage; Noise
+
+■Role
+
+There are some cases wherein KPIs are stipulated in the O&M contract; while in other cases, these are set by the operating entity. The role of KPIs is to serve as a baseline for service levels and O&M performance, as well as a criteria for awarding bonuses or penalties based on the attainment of this baseline if stipulated in the contract. If set by the operating entity independently, KPIs can also help with the improvement of O&M performance and management.
+
+■Sample Definitions, Formulas, and Specific Numerical Values
+
+Often used as the basis for awarding performance bonuses or imposing penalties, reliability and punctuality can be defined as the ratio of trains running in accordance with the set timetable and ratio of arrivals within a given lead time from the specified schedule in the timetable, respectively.
+
+Reliability (Train Operation Rate) = (actual number of running trains) / (planned number of running trains) x 100
+
+Punctuality = (number of passengers when train arrival is delayed within given lead time) / (total number of passengers) x 100
+
+■Definitions of Punctuality
+
+There are many different considerations when defining punctuality as a KPI. One such definition is whether the train arrives at the terminal station within five (5) minutes of the scheduled time or through assessing train arrival delays at a station under observation. In some cases, reference values are adjusted based on the specific trains and lines involved.
+
+For cases where punctuality is assessed only at specific stations, there are instances wherein trains tend to skip stations to improve punctuality. In this case, customer satisfaction surveys come into play.
+
+In addition, there are cases wherein electricity consumption per mileage and CO2 emissions per passenger-kilometer are used as KPI for social impact.
+
+Note that it is important to properly indicate the preconditions and definitions when explaining the quality of O&M using these KPIs.

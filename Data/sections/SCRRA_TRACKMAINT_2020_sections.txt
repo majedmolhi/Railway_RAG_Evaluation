@@ -1,0 +1,2896 @@
+
+SECTION 3.0 — TRACK GEOMETRY
+
+The Track Geometry Car shall produce on-car printouts of exceptions found with Critical (Priority 1) and Urgent (Priority 2) designations. Critical defects shall be verified within 24 hours, and immediate corrective action shall be taken to repair or protect the defect with the appropriate slow order. After corrections are made, a report shall be submitted to SCRRA at TRACK&STRUCTURES@SCRRA.NET. The Urgent Track Geometry Car data should be utilized as a guide for planning corrective maintenance programs.
+
+
+3.1  Geometry Measurements
+
+
+Track inspections will be performed to ensure compliance with required SCRRA maintenance standards. SCRRA track shall be maintained, at minimum, to the limits defined as Urgent in this manual.
+
+Urgent Condition: At a minimum, track conditions must meet the Urgent Conditions defined herein. Corrective action must be taken within 60 days or a remedial action is required restricting the track speed to the next lower class that complies with SCRRA urgent requirements.
+
+Urgent Geometry Measurements: A track condition that may require that immediate corrective action be taken. Track geometry shall be maintained to a minimum of the urgent limit described in Table 3-1. These conditions must be verified within 7 calendar days to determine whether immediate remedial or corrective action is required. The following conditions require corrective action within 30 days or a remedial action is required restricting the track speed to the next lower class that complies with SCRRA urgent requirements. At no time shall track geometry conditions or speeds exceed the allowable conditions or speeds required under the FRA Track Safety Standards.
+1. Alignment
+2. Runoff
+3. Profile
+4. Crosslevel
+5. Twist in a 31ft Chord
+6. Wide Gage
+7. Warp in a 62ft Chord
+
+Critical Condition: A track condition that may require immediate remedial or corrective action be taken prior to any movement of trains once defect is identified. This condition must be verified within 24 hours.
+
+Note: Critical defect findings must be documented on the FRA Track Inspection Report form and sent to TRACK&STRUCTURES@SCRRA.NET. Urgent defects identified will be documented on the Urgent Defects form in Appendix C and used to generate the maintenance program.
+
+See Table 3-1 for all track condition requirements on SCRRA for maximum limits.
+
+TABLE 3-1 — Class Specific Track Geometry and Rail Defects
+Measurements may not exceed:
+
+Track Condition | Description | Class 1 (15/10) Urgent (in.) | Class 1 Critical (in.) | Class 2 (30/25) Urgent (in.) | Class 2 Critical (in.) | Class 3 (60/40) Urgent (in.) | Class 3 Critical (in.) | Class 4 (80/60) Urgent (in.) | Class 4 Critical (in.) | Class 5 (90/80) Urgent (in.) | Class 5 Critical (in.)
+
+Alignment, 62 ft. | Deviation from uniformity measured with a 62 ft. Chord | 4 | 5 | 2 1/2 | 3 | 1 1/2 | 1 3/4 | 1 1/8 | 1 1/2 | 5/8 | 3/4
+
+Alignment, Curve, 62 ft. | Deviation from uniformity measured with a 62 ft. Chord | 3 1/2 | 5 | 2 1/4 | 3 | 1 1/4 | 1 3/4 | 1 | 1 1/2 | 1/2 | 5/8
+
+Alignment, Curve, 31 ft. | Deviation from uniformity measured with a 31 ft. Chord | 2 3/4 | N/A | 1 1/2 | N/A | 7/8 | 1 1/4 | 3/4 | 1 | 3/8 | 1/2
+
+Gage | Maximum Limits. (Minimum Gage shall not be less than 56") | 57-13/16 | 58 | 57-5/8 | 57-3/4 | 57-5/8 | 57-3/4 | 57-3/8 | 57-1/2 | 57-3/8 | 57-1/2
+
+Runoff in 31 ft. | Ramping of track | 2 5/8 | 3 1/2 | 2 1/4 | 3 | 1 1/2 | 2 | 1 1/8 | 1 1/2 | 3/4 | 1
+
+Surface Profile, 62 ft. | Mid-ordinate Deviation in 62 ft. on top of rail | 2 | 3 | 2 | 2 3/4 | 1 1/2 | 2 1/4 | 1 1/4 | 2 | 3/4 | 1 1/4
+
+Twist | Difference in crosslevel in spirals per 31 ft. | 1 3/4 | 2 | 1 1/2 | 1 3/4 | 1 | 1 1/4 | 3/4 | 1 | 1/2 | 3/4
+
+Harmonics | Difference in crosslevel in six consecutive pairs of joints; created by 7 joints | N/A | N/A | 1 | 1 1/4 | 1 | 1 1/4 | 1 | 1 1/4 | 1 | 1 1/4
+
+Crosslevel | At any point on tangent, deviation from zero crosslevel… | 2 1/4 | 3 | 1 1/2 | 2 | 1 1/4 | 1 3/4 | 1 | 1 1/4 | 3/4 | 1
+
+Warp | Difference in crosslevel within 62 ft. | 2 1/4 | 3 | 1 5/8 | 2 1/4 | 1 1/2 | 2 | 1 1/4 | 1 3/4 | 1 | 1 1/2
+
+Tread – Rail End Mismatch | | 3/16 | 1/4 | 3/16 | 1/4 | 1/8 | 3/16 | 1/16 | 1/8 | 1/16 | 1/8
+
+Gage Face – Rail End Mismatch | | 3/16 | 1/4 | 1/8 | 3/16 | 1/8 | 3/16 | 1/16 | 1/8 | 1/16 | 1/8
+
+3.1.1  Post Derailment Track Measurements
+
+See Appendix D for the Derailment Response and Analysis – Track Inspection Team instructions and forms.
+
+3.1.2  Determine Designated Rail
+
+When reading geometry or detector car reports and trying to determine which rail is the right rail and which rail is the left rail, position yourself with your back to the lower MP. While facing the higher MP, the rail on your right is the right rail and on your left is the left rail.
+
+3.1.3  Geometry Car Testing Program
+
+Geometry cars shall operate over all main line tracks, siding tracks, revenue tracks, turnouts, and crossovers in accordance with the frequency below:
+
+1. Passenger Routes: Three times per year, with at least four months, but no more than six months, between tests.
+2. Freight Only Routes and all other routes: Once a year, or as directed by SCRRA.
+
+Track Geometry cars operated by Amtrak, FRA, or Freight Railroads, may not be used to fulfill this testing frequency requirement. An SCRRA representative and the Track Inspector must ride the Track Geometry(s) Car while on SCRRA property.
+
+SECTION 3.2 — TRACK ALIGNMENT
+
+Track alignment is the uniformity of rail on both tangent and curved track. Alignment may not deviate from uniformity more than the amount prescribed per Table 3-1.
+
+3.2.1  Designated Line Rail for Curved Track
+
+The outer or high rail of curves is the line rail for referencing alignment.
+
+3.2.2  Designated Line Rail for Tangent Track
+
+Designate the line rail for referencing alignment on tangent track as follows:
+
+1. Single Main Track—Use the right rail when facing in the direction of increasing Mile Post.
+2. Two Main Tracks—Use the outside rail of each track.
+3. Three Main Tracks—Use the outside rail of the outer tracks. Use the right rail as the line rail for referencing alignment on the center track.
+4. Four Main Tracks—Use the outside rail of the outer tracks. Use the inside rail of the inner tracks as the line rail for referencing alignment on the center tracks.
+5. All Other Applications—Use the most practical line rail. Use this same rail throughout the tangent segment.
+
+When lining tangent track between two curves of the same direction that are less than 1/4 mile apart, use the same line reference rail.
+
+When lining into a fixed object that is less than 1/4 mile from the curve, use the same line reference rail as used in a curve.
+
+Note: Examples of fixed objects are open deck bridges, diamond crossings, turnouts, tunnels, or other immovable objects.
+
+3.2.3  Designated Line Rail for Turnout and Crossovers
+
+Use the straight side of turnouts as the designated line rail for referencing alignment through the straight side of switches when turnouts exist entirely on tangent track as shown in Figure 3-1.
+
+When any portion of a turnout is located on a curve, use the high or outer rail of the curve as the designated line rail as shown in Figure 3-2.
+
+3.2.4  Measuring Alignment
+
+Alignment deviation can be detected visually or located by incrementally moving the chord along the track until the point with maximum deviation is found.
+
+Inspectors must be aware that a 62-foot chord may be "blind" to short alignment conditions, whereby a 31-foot chord can detect those noncomplying conditions.
+
+When measuring alignment:
+
+1. Measure alignment on the designated line rail on the gage side of the rail head. Measure at a point 5/8 inch below the top of the rail head as shown in Figure 3-3.
+2. Record measurements at 15-1/2-foot intervals on the same rail for the full length of tangent and curved segments.
+3. Use a 31-foot, 62-foot length to obtain track alignment measurements as shown in Figure 3-4.
+
+Alignment in Curves
+
+In curves, the mid-ordinate, also called mid-chord offset (MCO), require "stations" to be marked at regular intervals on the high rail in both directions from the point in question. The term MCO is used interchangeably for "mid-ordinate" and "mid-offset" and represents the distance from the rail to the chord at the mid-point of the chord. In curves, a 62-foot chord is used in Classes 1 through 5; in addition, a 31-foot chord is also used in Classes 3 through 5 track. Alignment defects for Classes 3 through 5 track can be identified with either or both chord lengths. A 31-foot chord is particularly necessary for determining short alignment deviations.
+
+Alignment in Tangents
+
+In tangent track, the MCO is measured directly with a 62-foot chord.
+
+Using Shims
+
+To measure alignment on tangent track, you may need to place 1-inch or greater shims at the gage side of the rail where the ends of the 62-foot chord would normally contact the rail head. Subtract the shim thickness from the mid-ordinate measurement to determine the exact reading.
+
+Note: Shims offset the 62-foot chord to take the measurement at the mid-ordinate without contacting the rail head along the chord.
+
+3.2.5  Restoring Uniform Alignment
+
+To restore uniform alignment:
+
+1. Correct track alignment in ballasted track by laterally shifting the track to uniform alignment while referencing the designated line rail.
+2. Use laser systems with automatic tamping machines when surfacing long segments of tangent track or track with horizontal line swings.
+   2.1. Place the laser on fixed track structures such as open deck bridges or other immovable objects.
+   2.2. Verify track centers where the laser is placed before starting lining operations.
+3. Correct track alignment of fixed track structures such as open deck bridges or other immovable objects by spike lining the designated line rail to uniform alignment.
+
+Note: When spike lining to adjust alignment, monitor track gage and adjust as necessary to conform with established gage standards.
+
+4. When aligning crossover switches that have long switch ties that extend under both tracks:
+   4.1. Reference the designated line rail on the straight side of the crossover switches.
+   4.2. To correct alignment of all other designated line rails in the crossover requiring adjustment, spike line the rail to uniformity.
+5. When laterally shifting switches to uniform alignment:
+   5.1. Reference the designated line rail on the straight side of switches.
+   5.2. To correct alignment of the other designated line rail in the turnout requiring adjustment, spike line the rail to uniformity.
+
+3.2.6  Line Ordinates in Turnouts and Crossovers
+
+If no standard drawings are applicable, the following procedure shall be used:
+
+The designated line rail for referencing alignment through the turnout side of switches is the turnout side closure rail. See Figure 6-1. The closure rail connects the switch point to the frog and continues from the heel of the frog through the last long switch tie.
+
+When establishing alignment in turnouts and crossovers:
+
+1. To establish alignment through turnout side of switches through the last long switch tie, use line ordinates provided in SCRRA Standard for each size turnout.
+
+Note: Line ordinates denote the specific spread distance between gage lines of curved closure rails and adjacent rails on the straight side of turnouts. The spread distance establishes the proper alignment for the turnout side of switches.
+
+2. Establish alignment for the turnout side of switches not having published ordinates as follows:
+   2.1. Align the straight side of the turnout to the desired alignment.
+   2.2. Stretch a string between the heel of the switch and the toe of the frog along the gage line.
+   2.3. Measure the overall distance and divide into four equal parts.
+   2.4. Offset the center ordinate at a right angle to the string 6 inches and spike in place.
+   2.5. Offset each quarter ordinate at a right angle to the string 4-1/2 inches and spike in place as shown in Figure 3-5.
+
+3.2.6.1  Line Ordinates Behind Frog
+
+Line ordinates behind the frog spread apart over a given distance at a rate determined by the frog size. See Table 3-2.
+
+TABLE 3-2 — Frog Size vs. Spread Rate
+
+If Frog Size is… | The Spread Increases 1 foot every…
+7               | 7 feet
+8               | 8 feet
+8.5             | 8.5 feet
+9               | 9 feet
+10              | 10 feet
+11              | 11 feet
+14              | 14 feet
+15              | 15 feet
+20              | 20 feet
+24              | 24 feet
+30              | 30 feet
+
+When determining line ordinates for behind the frog:
+
+1. Locate the point where the frog's heel spread measures 1 foot between the gauge lines.
+2. From this point measure away from it down the straight side of the turnout. Measure the number of feet that equals the frog size.
+3. At this point, spread the gauge lines and spike them 2 feet apart.
+4. Continue this process until you establish all ordinates and spike through the last switch tie as shown in Figure 3-6.
+
+3.2.7  Measuring Degree of Curvature
+
+
+The distance between the mid-ordinate or center of a 31-foot or 62-foot chord and the gage side of the rail head determines the degree of curvature.
+
+1. When using a 31-foot chord, multiply readings by four.
+2. When using a 62-foot chord, note that the measurement in inches equals the degree of curvature, as shown in the examples in Table 3-3.
+
+TABLE 3-3 — Examples of Converting Measurements to Degrees of Curvature
+
+Measurement     | 31-foot Chord    | 62-foot Chord
+1 inch          | 4 degrees        | 1 degree
+1-1/4 inches    | 5 degrees        | 1 degree - 15 minutes
+1-1/2 inches    | 6 degrees        | 1 degree – 30 minutes
+1-3/4 inches    | 7 degrees        | 1 degree – 45 minutes
+2 inches        | 8 degrees        | 2 degrees
+
+SECTION 3.3 — TRACK GAGE
+
+Track gage is the distance between the two running rails of the track structure.
+
+3.3.1  Designated Gage Rail
+
+The rail opposite the designated line rail of track or turnouts is the designated gage rail.
+
+3.3.2  Standard Gage
+
+Standard track gage is 56-1/2 inches.
+
+3.3.3  Measuring Gage
+
+When measuring gage:
+
+1. Measure gage between the heads of the rail at right angles to each other. Measure at a point 5/8 inch below the top of the rail head as shown in Figure 3-7.
+2. Use an approved track gage every fourth tie when adjusting or checking gage, spiking ties, relaying rail, or constructing new track to conform to standard gage as shown in Figure 3-8.
+   2.1. Measure the track gage with a tape measure to verify its accuracy before use.
+   2.2. Do not force the track gage between rails.
+3. Before replacing or transposing rail back into tie plates without re-gaging, take inside base-to-base measurements to ensure that installing full-balled rail will not create narrow gage. Take these measurements as shown in Figure 3-9 and Table 3-4.
+
+TABLE 3-4 — Rail Section Base-to-Base Gage
+
+Rail Section    | Rail Seat Cant | Base-to-Base Gage | Base-to-Base Gage Not More Than
+141 lb.         | 1:40           | 53-3/4 inches     | 54-1/4 inches
+136 lb.         | 1:40           | 53-3/4 inches     | 54-1/4 inches
+133 lb.         | 1:30           | 53-7/8 inches     | 54-3/8 inches
+112 to 119 lb.  | 1:40           | 54 inches         | 54-1/2 inches
+
+3.3.4  Gage Limits
+
+Maintain gage to the urgent limits in Table 3-1. Minimum track gage shall not be less than 56 inches on any class of track.
+
+Note: If track gage measures more than 58 inches, immediately remove the track from service until repairs are made.
+
+3.3.5  Restoring Standard Gage
+
+1. Perform spike pulling and re-driving along the designated gage rail.
+2. Plug spike holes before re-driving spikes.
+3. Prior to gaging track in curves, it may be necessary to correct geometry conditions such as superelevation, profile, and alignment. It may be necessary to line spike joints on the high rail to correct alignment deviations. Proper gage can be achieved by gaging the low rail to the high rail.
+   3.1. At locations where repeat gaging has been performed ensure high rail spikes are pulled and plugged prior to gaging low rail.
+4. To correct wide gage caused by canted or tipped rail from sand or ice build-up between the base of the rail and the top of the tie plate, remove the material to restore the rail to a level plane. If in cut spike locations, pull spikes, plug and re-spike ties. Make sure to install at least four line spikes per tie plate, adding spikes if required to strengthen and prevent re-occurrence.
+5. To correct wide gage caused by worn insulators, replace worn insulators in concrete or steel tie track. Do not remove insulators and fasteners on more than three consecutive ties at one time.
+6. To correct wide gage caused by curve rail worn beyond the allowable limits, transpose or replace rail. See Table 5-3 Rail Wear Limits.
+7. To correct narrow track gage caused by skewed ties, return the ties to right angles to the running rails before adjusting the gage. Box anchor the tie to prevent recurrence.
+
+Note: It may be necessary to replace defective ties in order to restore standard gage.
+
+3.3.6  Correcting Gage Caused by Canting Deficiencies
+
+1. Differential plate cutting is another cause of wide or narrow gage. A differential plate cutting of 3/8" on one rail can cause track to be out of gage by 3/16".
+2. Nominal cant for 1:40 is +1.42 degrees and 1:30 cant is +1.90 degrees.
+3. On wood tie track a differential plate cutting of 3/8" toward the field side will show a cant of 0º.
+4. Plate cutting toward the gage side of 7/16" will show a cant of +3.5º. Refer to Figure 3-10.
+5. To correct this type of exception, the tie plates must be removed, and the plate-bearing surface of the ties must be adzed to a level plane.
+6. Rail Cant Thresholds for Wood and Concrete Ties:
+
+TABLE 3-5 — Rail Cant Thresholds
+
+              | Urgent     | Critical
+Wood          | -1.5 deg   | -2.0 deg
+Concrete      | 3.5 deg    | 4.5 deg
+Concrete      | -0.5 deg   | -1.5 deg
+
+SECTION 3.4 — CLEARANCES
+
+Maintain adequate spacing between tracks to enable trains to safely pass or meet rolling stock on adjacent tracks. Maintain sufficient horizontal and vertical clearance to enable trains to clear wayside structures and facilities. Track alignment changes or raises with horizontal or vertical clearance limitations shall not be made at tunnels, stations with platforms, center fences, and bridges.
+
+3.4.1  Measuring Track Centers
+
+1. To measure track centers between two adjacent tracks, measure from the gage line of a rail of one track to the same rail of an adjacent track as shown in Figure 3-11.
+2. Check track centers at the beginning of surfacing and every 528 feet (1/10 mile) or less behind automatic tamping machines where adjacent tracks are present. Check track centers every 264 feet (1/20 mile) or less through spirals and the full body of curves.
+
+3.4.2  Minimum Track Centers
+
+1. Maintain existing track centers to the current design. When surfacing and lining long sections of track in multiple track territories, measurements must be taken to assure that existing track centers are not reduced.
+2. The standard track center for newly constructed track is 15 feet.
+3. At no time shall track centers be less than 14 feet with the exception of tunnels, bridges, and structures where conditions are pre-existing. At no time shall track centers be less than 13 feet.
+4. Maintain adjacent track centers in curves to allow for car tilt and overhang due to curvature per SCRRA Standard ES2207. Maintain track centers throughout the entire length of the curve and for 80 feet beyond the curve.
+
+3.4.3  Minimum Clearances
+
+Maintain horizontal and vertical clearances according to SCRRA Standard ES2101 displayed in Figure 3-12.
+
+Maintain clearances not shown on this SCRRA Standard ES2101 to a minimum clearance per SCRRA Standard ES2102 shown in Figure 3-13 and Figure 3-14.
+
+Where overhead and lateral obstructions are present, such as overpasses, tunnels, bridges, rock cuts, slide fences, platforms etc., track must not be raised without prior SCRRA approval and never raise the track above the top of rail markers or alter alignment from stakes.
+
+Where clearances are close, do not perform track raises without approval from SCRRA. Surfacing at locations with close clearances shall be skim raises to correct crosslevel.
+
+SECTION 3.5 — GRADE
+
+Track grade provides a uniform plane that allows trains to negotiate uphill and downhill terrain. Grade is preserved when uniform track raises occur during normal surface and lining operations.
+
+3.5.1  Designated Grade Rail
+
+The inner or low rail of curves is the designated reference rail for maintaining grade.
+
+3.5.2  Grade Stakes
+
+Grade stakes will be provided for relocated or newly constructed tracks to help establish the proper grade.
+
+When necessary, grade stakes will be provided to re-establish or modify existing grade.
+
+3.5.3  Multiple Track Crossings
+
+Establish and maintain grade crossings to a uniform plane across all tracks as follows:
+
+1. Where practicable, establish and maintain the difference between the top-of-rail elevation of adjacent tracks to within 1 inch of each other:
+
+Through grade crossings where track centers are within 20 feet of each other as shown in Figure 3-15.
+
+Through grade crossings that exist in curved track that contains superelevation as shown in Figure 3-16.
+
+2. Stretch a string line across the tops of the rails of all existing tracks to verify the top-of rail relationship through grade crossings. Use the highest track as a reference to determine that the lower tracks conform.
+
+3.5.4  Turnouts and Crossovers
+
+The top-of-rail elevation of tracks approaching crossover switches should be as level as practicable with each other for at least 660 feet in advance of main line crossovers.
+
+The top-of-rail elevation of main and diverging tracks must be level with each other through the turnout, and, where possible, for 250 feet beyond the signal or fouling point, whichever distance is greater.
+
+SECTION 3.6 — SURFACE
+
+Surface is the uniform state of profile, superelevation, and crosslevel as determined by the top-of-rail elevation and the relationship of opposite rails to each other at a specific point.
+
+3.6.1  Measuring Runoff
+
+Runoff is the ramping of track that is a result of trackwork, bridge work, surfacing operations, or track settlement. When surfacing operations are occurring, perform temporary runoffs in accordance with the standards described herein for the class of track. Conditions created by track degradation (e.g. settlement or frost heaves) are to be addressed using the uniform profile parameter, under this section. Trains encountering a ramp (up or down) will experience a vertical pitch or bounce if the change in elevation occurs in too short a distance. As in the more general profile parameter, damage to car components, undesirable brake applications or derailments may occur especially when the vehicle experiences a lateral force.
+
+See Table 3-1 for runoff tolerances.
+
+3.6.2  Measuring Profile
+
+Track profile is the longitudinal elevation of the running rails. Measure track profile along the top of the running rails as follows:
+
+Use a 62-foot chord (string) to obtain track profile measurements for Class 1-5 track.
+
+Measure the distance between the mid-ordinate or center of the applicable chord and the top of the rail head to determine deviation from uniform profile as shown in Figure 3-18. See Table 3-1 for track standards.
+
+If the mid-ordinate of the chord contacts the rail head, place 1-inch or greater shims on top of the rail head at the ends of the applicable chord.
+
+Note: If shims are used, subtract the shim thickness from the mid-ordinate measurement to determine the exact reading.
+
+3.6.3  Measuring Crosslevel and Superelevation
+
+Crosslevel, is measured by taking the difference in elevation between the top surface of one rail and the top surface of the opposite rail. On tangent track, both rails should be the same elevation (zero crosslevel). On spirals and curves, the outer rail must not be lower than the inner rail (reverse elevation).
+
+1. Use an approved track level board to measure crosslevel when track is disturbed for repair work, surfacing, or inspections.
+2. Test the level board for accuracy before use by calibrating, per Figure 3-20, as follows:
+   2.1. Set the level board on a nearly level track.
+   2.2. Obtain a reading once the bubble is centered. Note the following:
+        2.2.1. Which rail is shown to be higher.
+        2.2.2. The crosslevel measurement.
+   2.3. Turn the level board end-for-end and place it at the exact location where the previous reading was taken.
+   2.4. Obtain a reading once the bubble is centered. Note the following:
+        2.4.1. Which rail is shown to be higher.
+        2.4.2. The crosslevel measurement.
+   2.5. Determine if both readings indicate the same rail being higher and if the crosslevel measurement was the same for each reading.
+        2.5.1. If yes, the level board is properly calibrated. Go to step 3.
+        2.5.2. If not, take the average of the crosslevel measurement and set the level board to that measurement. Adjust the bubble screw in a direction to center the bubble. Once bubble is centered, the level board should be calibrated. Repeat steps 1-5 to verify calibration. (Example: Initial measurement shows left rail to be higher and a crosslevel measurement of ¾"; after rotating the level board the measurements show the left rail to be higher with a crosslevel measurement of ½". Turn knob until a 5/8" reading is obtained and zero out the bubble)
+3. Measure crosslevel across the top of the two running rails of the track at right angles to the track alignment as shown in Figure 3-19.
+4. Check crosslevel at the beginning of surfacing and at regular intervals behind automatic tamping machines.
+5. Check tangent track and the full body of curves every 660 feet and at every 1/4-inch superelevation change in spirals of curves.
+
+3.6.4  Measuring Warp (twist)
+
+Warp (twist) is the difference in crosslevel between any two points less than 62 feet apart. Excessive warp contributes to wheel climb derailments.
+
+To determine the amount of warp on tangent track, add the largest two opposite rail measurements within 62 feet, as shown in Figure 3-21.
+
+To determine the amount of warp in a curve or spiral (Figure 3-22), do one of the following:
+
+1. Subtract largest and smallest same rail measurements within 62 feet.
+
+or
+
+2. Add the largest two opposite rail measurements within 62 feet.
+
+Where the elevation at any point in a curve equals or exceeds 6 inches, the difference (warp) in crosslevel within 62 feet between that point and a point with greater elevation may not be more than 1-1/2 inches regardless of track class. See Figure 3-23.
+
+Harmonics
+
+To control harmonics on Class 2 through 5 jointed track with staggered joints, ensure that the crosslevel differences do not exceed 1-1/4 inches in all of six consecutive pairs of joints, as created by 7 low joints. See Figure 3-24.
+
+1. Track with joints staggered less than 10 feet shall not be considered as having staggered joints.
+2. Joints within the 7 low joints outside of the regular joint spacing shall not be considered as joints.
+
+3.6.5  Track Surface Limits
+
+Track Surface Limits - Do not allow track surface to deviate from uniform profile and crosslevel more than the following thresholds for the applicable class of track. Measure deviations as prescribed by each category.
+
+1. If maximum crosslevel in a curve is 6" or more and there is a difference in crosslevel between any 2 points less than 62 feet apart of more than 1 ½" the track is not good for any class of track.
+2. To control harmonics on Class 2 through 5 in jointed track with staggered joints, the cross-level difference shall not exceed 1-1/4" in all of six consecutive pairs of joints, as created by 7 low joints. Track with joints staggered less than 10 feet shall not be considered as having staggered joints. Joints within the 7 low joints outside of the regular joint spacing shall not be considered as joints for measurement.
+
+Table 3-1 show the Urgent and Critical Limits for Track Surface Limits respectively.
+
+3.6.6  Spirals
+
+Spirals designed into curves gradually transition alignment and superelevation from tangents into curves, from curves into tangents, and between curves of varying degrees.
+
+1. Curves of 15 minutes (00° 15' 00") or greater require spirals.
+2. The maximum rate of change in superelevation must not exceed that shown in the track charts and must be distributed uniformly over the length of the spiral. Any deviations from the track charts must reviewed and approved by SCRRA. If discrepancies are found on the track charts from field conditions, report this to SCRRA.
+3. If the length of the spiral permits, run superelevation off at a uniform rate over the entire length of the spiral, with full superelevation through the body of the curve and no superelevation on tangent track.
+4. If no spirals exist, or spirals are too short to meet the required rate of runoff, a maximum of 1 inch of superelevation may be run onto tangent track.
+5. When the tangent between two curves is too short to provide the minimum length of runoff for the authorized superelevation:
+   5.1. Divide the tangent into two parts in proportion to the degree of curvature of the adjoining curves.
+   5.2. If possible, place the longer segment adjacent to the curve of greater degree.
+6. Maintain at least 100 feet of level track between reverse curves, regardless of whether tangent track exists or not, to ensure that cars can right themselves between curves.
+7. Ensure that compound curves have full superelevation for the higher-degree curve carried through the entire higher-degree portion of the curve and reduced superelevation on the lower-degree portion of the curve within the prescribed runoff rates.
+
+3.6.7  Superelevation
+
+Maintain superelevation per SCRRA track charts. SCRRA must approve all changes to designated superelevation.
+
+3.6.8  Curve Markings
+
+Place and maintain curve marker according to SCRRA Standard ES2206 as follows:
+
+1. Place curve markers in milepost ascending order as identified in Figure 3-25, Figure 3-26, and Figure 3-27. Refer also to Table 3-6.
+
+TABLE 3-6 — Curve Marker Identification
+
+Abbreviation | Full Name                  | Description
+PS           | Point of Spiral            | Tangent ends and spiral begins
+PSC          | Point of Spiral to Curve   | Spiral ends and full body begins
+PCC          | Point of Compound Curve    | Curve degree changes with no spiral
+PCS          | Point of Curve to Spiral   | Full body ends and spiral begins
+PT           | Point of Tangent           | Spiral ends and tangent begins
+
+2. Place curve markers on top of ties 6 to 8 inches from the base of the high rail toward the center of the track. Locations for mounting markers to wood and concrete ties are shown in Figure 3-28 and Figure 3-29.
+
+Note: Track maintenance contractor shall be responsible for the replacement of any missing or displaced curve markings.
+
+3.6.9  Monitoring Curve Movement
+
+Before surfacing and lining a curve on main tracks, stake the curve if the degree of curvature is 3° or more and the rail temperature is more than 50° F below the designated rail laying temperature (or is forecasted to be in the next 24 hours). To stake a curve prior to surfacing and lining, place at least 3 reference points uniformly spaced around the curve. These reference points shall be no more than 200 feet apart.
+
+Inspect curves in CWR after surfacing, especially during large temperature changes. Where curve has been staked and curve has shifted inward more than 3 inches, the curve must be lined out prior to rail temperature reaching the PRLT. If curve is not lined out or destressed, a speed restriction of 40 MPH or less for passenger and freight trains must be placed.
+
+Track buckles are more likely to occur in track with poor surface and line. Lining and surfacing of curves can lead to a track buckle if not done properly. On Class 2 main tracks or higher, curves 3 degrees and greater must be staked. These stakes must be clearly marked and must be used to monitor any curve movement.
+
+The following examples are to be used to identify when, where and how to stake these curves.
+
+1. Staking Process
+   1.1. Stake curves on Class 2 main tracks and above before performing program concrete and/or undercutting projects.
+   1.2. Stake other curves as directed by SCRRA.
+   1.3. When complete ballast renewals or undercutting occur, place offset stakes or offset measurements to adjacent track if applicable.
+   1.4. Stake curves at the curve control points: Point of Spiral (PS), Point of Spiral Curve (PSC), Point of Curve Center (PCC), Point of Curve Spiral (PCS), and Point of Tangent (PT) with no more than 200 ft. between stakes throughout the curve as shown in Figure 3-25 and described in Table 3-6.
+
+2. Rehabilitation Projects
+   2.1. If a curve has been staked by surveyors, line the track to those stakes.
+   2.2. If curve is already staked for monitoring of movement, record measurements from stakes to corresponding base of rail prior to and after trackwork.
+   2.3. If curve is not already staked, the curve must be staked prior to performing work. Offset - stake curves 3 degrees and over when the rail temperature is more than 50 degrees F below the designated rail laying temperature or expected to be in the next 24 hours, before surfacing track.
+
+   Example: A curve requires surfacing due to irregular cross level. It is 3-degree 30-minute curve with a rail laying temperature of 110 degrees. Immediately prior to surfacing, the rail temperature is measured to be 48 degrees. Since the curve is over 3 degrees and the rail temperature are more than 50 degrees less than the rail laying temperature for that area (62-degree difference), the curve would require the use of stakes to monitor curve shifting.
+
+   2.4. All curves must be staked after relaying rail. Place at least three stakes in each curve, with one stake in the middle of the curve and the remaining stakes a maximum of 200 feet apart.
+   2.5. Behind final surfacing pass following program concrete and undercutting work, all curves will be center staked at intervals of 200 feet throughout the entire curve.
+   2.6. Behind final surfacing and destressing operation following new track construction, all curves will be center staked at intervals of 200 feet throughout the entire curve.
+
+3. Maintenance Forces
+   3.1. Ensure all curves in Class 2 Main tracks or higher and 3 degrees and over are staked, either center or offset.
+   3.2. When surfacing and lining is performed in a curve already staked, record measurements from stakes to corresponding base of rail prior to and after trackwork.
+   3.3. If a curve has been staked by surveyors, line the track to those stakes.
+        3.3.1. Inspect for movement during cold temperatures. Additional focus should be given to curve movement during the first 2 weeks after trackwork especially during periods of large temperature changes.
+   3.4. Line out any curve that has inward movement of 3 inches or more prior to rail temperatures above or forecasted above the designated rail laying temperature or a 40 MPH speed restriction shall be placed. If curve is not lined out or destressed and the inward movement is more than 3 inches, a speed restriction of 30/20 MPH or less must be placed.
+   3.5. If destressing is required on a curve, both rails must be destressed.
+
+4. Procedures to Place Maintenance Stakes around Curves
+   4.1. For center staking (preferred method), use a minimum of five reference stakes.
+        4.1.1. Place one reference stake at the Point of Spiral (PS), Point of Spiral Curve (PSC), Point of Curve Center (PCC), Point of Curve Spiral (PCS), and Point of Tangent (PT).
+        4.1.2. Mark the rail per Section 3.6.8 Curve Markings.
+   4.2. For offset staking, use a minimum of five reference stakes with 10 to 15-foot offsets.
+        4.2.1. Place reference stakes at the PSC and PCS of the curve.
+        4.2.2. Place at least 3 reference stakes around the curve, uniformly spaced, offset a distance between 10 and 15 feet from the field side of the line rail. The stakes should be spread equally around the curve with one stake placed in the middle of the curve.
+
+        Note: Additional stakes may be required due to the overall length of the curve; the spacing between the stakes should be no more than 200'.
+
+        4.2.3. Mark the offset and location per Section 3.6.8 Curve Markings.
+
+3.6.10  Restoring Surface
+
+Prior to commencing work, ensure there is sufficient ballast to complete work to SCRRA standards.
+
+When restoring surface:
+
+1. Restore zero crosslevel to tangents and designated superelevation in curves when surfacing track.
+2. Sight along the ball of the rail to determine surface irregularities.
+3. When performing spot surfacing by hand:
+   3.1. Correct the designated grade rail in curves before re-establishing the designated superelevation in the high rail.
+   3.2. If necessary, raise the opposite rail to obtain the desired crosslevel or superelevation.
+4. Make runoffs from track raises gradually—between 3/8 to 1/2 inch per 39 feet depending on class of track. Runoffs may not exceed allowable tolerances set forth in Table 3-1.
+   4.1. Start runoffs soon enough to blend into the top-of-rail elevation of fixed objects such as open deck bridges, diamond crossings, or other immovable objects.
+   4.2. Do not make permanent runoffs in curves or switches.
+5. When surfacing switches, do not allow train traffic through the turnout side until it has been tamped.
+
+Tamp both sides of ties for a distance of 15 inches from each side of the rail base. To prevent center-bound track, avoid tamping wood and concrete tie centers.
+
+6. When out-of-face tamping with automatic tamping machines:
+   6.1. Follow manufactures recommended squeeze pressure.
+   6.2. Make at least two insertions per cross tie and three insertions per switch tie.
+   6.3. Adjust tamper tools to ensure that the top of the blade is 1/2 inch below the bottom of the tie as shown in Figure 3-30. Table 3-7 shows depth of each tie type.
+   6.4. Avoid striking ties with tamper tools when making insertions.
+
+   Note: Additional stakes may be required due to the overall length of the curve; the spacing between the stakes should be no more than 200'.
+
+7. When tamping crossovers that have interlaced long ties and butted ties, consider the following:
+   7.1. Remove the crossover from service.
+   7.2. From the ties that go under both main tracks remove the rail fasteners on the main track you intend to raise first and on the crossover portion.
+   7.3. Raise the main track crossover switch as you would any turnout except do not tamp the long ties that you have unclipped.
+   7.4. Carefully watch your alignment, as it is important not to throw the turnout beyond smooth lining.
+   7.5. Raise the turnout on the other main track.
+   7.6. Tamp all the long ties on this track.
+   7.7. Carefully ensure the plates on the long ties come up under the crossover and other main track while raising and aligning the track.
+   7.8. Carefully watch your alignment, as it is important not to throw the turnout beyond smooth lining.
+   7.9. Clip up the long ties.
+   7.10. Tamp the crossover and long ties on the other main track.
+
+TABLE 3-7 — Tie Type Depth
+
+Tie Type    | Depth of Tie
+Wood        | 7"
+Composite   | 7"
+Concrete    | 8 3/4"
+Steel       | 4" to 5"
+
+3.6.11  Surfacing Steel Ties Installations
+
+Steel tie installations require multiple insertions to initially place and compact ballast as follows. Following these steps is critical for long term performance of the ties:
+
+1. Make three insertions in the rail seat area.
+2. Make three insertions in the tie center area.
+3. Make three or more insertions in the rail seat area to compact the ballast until it is visible at the top of the inspection holes located near the base of the rail.
+4. Determine if the ballast is visible at the top of the inspection holes provided.
+   4.1. If yes, the tie is properly tamped.
+   4.2. If no, fill tie cribs with ballast and repeat steps 1 to 4.
+
+3.6.12  Surfacing at Signal Equipment
+
+Surfacing at or near signal equipment requires extra precautions to prevent damage and service interruptions. Prior to work commencing, SCRRA Signal Department shall be notified to locate and mark out signal cables and wires. SCRRA Signal Department personnel will assist with removing and adjusting of wires and other equipment.
+
+When surfacing is performed in the area of detectors the surfacing should continue through the detector area whenever possible. Surfacing should not skip the detectors, insulated joints, etc.
+
+When surfacing through certain detectors it may be required that tamping equipment be placed into switch tamping mode and slow down. Job safety briefings are critical between the groundman, machine operator, and signal personnel to make sure that equipment will not be damaged.
+
+Wheel Impact Load Detectors (WILD) – These special types of detectors utilize strain gages to pick up wheel impacts. They are intended to find flat or damaged wheels. Due to the configuration of these detectors it is critical that they are surfaced during normal surfacing and a minimum of ONCE ANNUALLY. Proper surfacing will allow these detectors to operate properly.
+
+High Wide Load Detectors – These types of detectors determine if a load is oversized or has shifted prior to a load reaching a section of track that has limited clearances. Every effort must be made to limit the track raise and maintain (0") of crosslevel through High Wide Load Detectors. Once surfacing is completed, SCRRA Signal Department will check for proper calibration of detector.
+
+
+3.6.13  Surfacing near Lubricators
+Lubricators are installed to reduce excessive rail wear, reduce noise levels from squealing wheels, and to reduce lateral forces on the rail. Lubricators must be removed prior to surfacing and re-installed within 5 days.
+
+
+SECTION 4.0 — TIES AND FASTENERS
+
+A tie is a support made of approved material to which rails can be fastened securely. The material must be strong enough to hold the rail to the proper gage, surface, and alignment to transmit train wheel loads from the rails to the ballast and to the roadbed.
+
+All ties shall meet SCRRA Specifications including meeting AREMA and APWA Standards for Railway Ties.
+
+4.1  Wood Ties
+
+
+Note: Do not intermix wood ties with concrete ties to make permanent repairs.
+
+Install new standard 8'-6" x 7" x 9" wood ties on all main tracks and sidings.
+
+Install 24 – 10' wood ties at turnouts, bridges, wood-concrete transitions, and road crossings with precast concrete crossing panels designed for 10ft wood ties. See Section 4.8.1 Switch Tie Standards at Turnouts and Section 4.10 Transition Zones for more details on transition ties.
+
+Reconditioned and industrial grade ties may be utilized on Industrial Leads and Yard Tracks as approved by SCRRA.
+
+Smashing, splintering, or puncturing ties reduces their life span. Do not puncture treated ties with picks or shovels, and do not drive ties into place with mauls or similar tools. Use only tie spacers, tongs, backhoes, and other properly designed equipment when spacing or inserting ties.
+
+4.2  Distribution
+
+When unloading and distributing ties:
+
+1. Do not place or store ties close to switches, crossings, sidings, or close enough to the track where they will present a danger to trains, equipment or crews.
+2. Do not throw ties down high embankments.
+3. Do not drop ties on rail or other objects that may chip, splinter, or damage the wood fiber.
+4. Do not stage ties where they will obstruct drainage.
+5. Avoid excess handling of ties during the unloading process. Stage ties as closely as possible to the tie inspector's marks while unloading.
+6. When 12 or more ties are stored within 200 feet of any residential property, they shall be covered with a well-secured impervious tarp or sheet plastic. Observe and comply with signs restricting placement of cross ties.
+7. For production tie gangs, ties shall not be distributed more than 30 days prior to installation. Ties replaced under maintenance shall not be distributed more than five days before installation. Old ties must be removed daily, or immediately at end of completion of work.
+
+4.3  Fire Precautions
+
+Tie storage shall be in designated areas only. Area shall be clear of dry grass and vegetation to prevent the possibility of tie fires. When ties are stored near residential areas, ties shall be covered with a tarp or plastic sheet to reduce odor.
+
+4.4  Concrete Ties
+
+1. Only pre-stressed concrete ties, fasteners, pads, and insulators of the types approved by SCRRA shall be installed.
+2. Do not operate rubber tire equipment on concrete tie track, unless the rail fastening system has been protected. Ensure that the rail fasteners are monitored and inspected because not all systems are designed to support the weight of such equipment suspended from the rail. Obtain approval from SCRRA prior to the installation of temporary crossings for construction purposes and rubber-tired equipment staging plans.
+3. Ballast regulator plows shall be shaped to prevent damage to the elastic rail fasteners.
+4. Operators of ballast regulators and other track machines shall observe the elastic fasteners for signs of unintended contact or damage to the track.
+5. Whenever rail on concrete ties is transposed or replaced, new rail pads and insulators shall be installed.
+6. When new concrete ties are installed replacing wood ties, new concrete tie installation shall meet the following criteria:
+   6.1. Installation locations approved by SCRRA.
+   6.2. On 24-inch centers.
+   6.3. On a standard ballast section with a minimum depth of 12 inches below the bottom of the tie per SCRRA Standard ES2001 and ES2002.
+7. Concrete ties may be installed over ballasted deck bridges and through tunnels at locations approved by SCRRA.
+8. Concrete ties shall be installed at right angles to the running rail.
+9. When rail heaters are used during rail laying or destressing, exercise care to keep the heater moving so as not to damage the pads and insulators.
+10. Whenever work is done requiring movement of the rail over the tie pads, such as destressing or transposing, risers shall be used between rail and tie pad to prevent pads from becoming displaced.
+11. Where clips are installed by hand, exercise care to prevent striking the cast-in-place shoulder or tie with the striking tool.
+12. Where clips are installed by machine, the operator shall ensure that the machine is adjusted to install the clip into the hole without binding.
+13. When transposing or changing out rail, tie pads must be kept free of dirt and ballast.
+14. When mechanically surfacing the track, the tamping heads shall be adjusted for the increased width and depth of the concrete tie. Exercise care to prevent striking the tie or clips with the tamping tool.
+15. Special rail fasteners are required to clip rail joints and insulated joints. Appropriate fasteners shall be installed at joints when replacing wood ties with concrete ties. Use of improper fasteners may cause insulated joint failure or may create a "defective tie" per 49CFR213.
+16. Concrete and wood ties shall not be mixed. Exception: Special wood ties may be installed to support signal facilities (ATS Inductor, Safety Detector, Etc.) or may be installed in case of emergency. Hollow steel ties may be used (mixed with concrete or wood) in turnouts as required by SCRRA Standards.
+
+4.5  Steel Ties
+
+Do not use steel ties on track unless approved by SCRRA. Maintain steel ties to manufacturer's standards.
+
+1. Install steel ties at locations in which corrosive materials may be present (i.e. locomotive facilities, rip tracks).
+2. When tamping steel ties use the inspection hole to determine that the inside of the tie is full of ballast showing that the tie is fully tamped.
+3. When installing used steel ties make thorough inspection of hook-in shoulder holes looking for elongation or cracks.
+
+Steel tie installations require multiple insertions to initially place and compact ballast as follows:
+
+1. Make three insertions in the rail seat area.
+2. Make three insertions in the tie center area.
+3. Make three or more insertions in the rail seat area to compact the ballast until it is visible at the top of the inspection holes located near the base of the rail.
+4. Determine if the ballast is visible at the top of the inspection holes provided.
+   4.1. If yes, the tie is properly tamped.
+   4.2. If no, fill tie cribs with ballast and repeat steps 1 to 4.
+
+4.6  Composite Ties
+
+1. Composite ties are utilized in specialty applications only as approved by SCRRA.
+
+Note: Composite ties may be used in areas where wood tie life is shortened due to environmental conditions.
+
+2. Composite ties can be handled and installed with wood tie equipment. Tie Bed Scarifiers equipped with digger head extensions must be used to scarify the tie bed to a depth that will allow approximately 1" clearance between top of newly installed tie and bottom of rail base. This will prevent unnecessary bending of the composite tie during insertion.
+3. Composite ties will generally only be used with pandrol plates and elastic fasteners.
+4. Composite ties require predrilling for use lag screw installations.
+5. Composite ties can be recycled and should not be placed in a landfill or incinerated.
+6. Due to material properties of composite ties, they are able to retain initial holding power more effectively than wood ties. Because of the material properties the use of plugging compound is not necessary. If composite ties need to be re-gaged the only option is to replace the composite tie.
+
+
+4.6.1  Markers on Ties
+
+When removing a tie with bridge number or super-elevation mark or the curve number tag, attach the proper tag to the new tie installed at that location.
+
+
+4.7  Installation and Spacing
+
+1. Curve superelevations shall be restored to the specifications noted in the SCRRA Track Charts.
+2. Do not replace more than three consecutive cross ties in one pass. Make an additional pass to install ties as necessary.
+3. Do not replace more than 50% of the ties in a 39-foot section of track in a single pass of the tie renewal operation.
+4. If the rail temperature is forecasted to be above the Preferred Rail Laying Temperature (PRLT), SCRRA may suspend tie installation operations.
+5. Install ties at a right angle to the track's running rails and check gage for accuracy.
+6. New ties shall be installed per the standard for the type of tie. Standard ballast section and track geometry shall be restored before the passage of trains at speeds above 30/20 MPH. Shifting of track line and out of cross level conditions shall be avoided to the extent possible and shall be corrected immediately. Refer to Appendix B – Summary of Speed Restrictions for Trackwork.
+7. Report tie gang activity on the CWR Stress Adjustment/ Disturbance Report form in Appendix C.
+8. When establishing proper tie spacing, mark the inner rail of curves with appropriate tie spacing.
+9. Where tracks come together behind turnouts:
+   a. Do not interlace ties unless approved by SCRRA. When maintenance on interlaced ties is taking place, every effort should be made to replace the interlaced ties with the appropriate sized long tie.
+   b. Maintain at least 3 inches between the ends of ties.
+10. Install ties with "sap side" kerf marks (1/8-inch grooves cut into the top of the tie) facing up. This places the ties' harder heartwood down on the ballast as shown in Figure 4-1.
+11. Align kerf mark in ties with the rail base of the designated line rail. Install non-marked wood ties with the tie ends extending from the outside rail base of the line rail as shown in Table 4-1.
+
+TABLE 4-1 — Distance from Outside Rail Base to End of Wood Tie on Line Rail
+
+Tie Application          | Tie Length        | Outside Line Rail Base to End of Tie Distance
+Cross Tie                | 8 feet            | 15 inches
+Cross Tie                | 8 feet 6 inches   | 18 inches
+Cross Tie                | 9 feet            | 21 inches
+Cross Tie                | 10 feet           | 27 inches
+Switch Tie               | 10 to 17 feet     | *27 inches
+Switch Tie               | 18 feet           | *21 to 27 inches
+Switch Tie in Crossover  | 23 to 27 feet     | *21 to 27 inches with ties center under the 2 tracks
+
+*Note: See Section 4.8 Switch Ties for additional information
+
+12. When wood ties are re-spiked, plug the spike holes with treated tie plugs. Do not plug spike holes in composite ties when re-spiking.
+13. Maintain a minimum number of effective ties at the designated spacing in each 39 feet of track as determined by the tie and track type. Wood tie spacing for 8'6" ties and 9' ties are the same (19.5 inches) on all tracks.
+14. Install and space ties under rail joints with the centerline of the tie measuring between 9 and 18 inches from the rail end. Ensure that tie spacing will allow for field welding of joints to avoid re-spacing ties.
+
+4.7.1  General Instructions for Tie Gangs
+
+1. Scarifiers must be equipped with digger head extensions to ensure ties are installed without the need to raise the rail significantly for tie plate installation. Scarify the tie bed to a depth that will allow approximately 1" clearance between top of newly installed tie and bottom of rail base. Digger head teeth must be adjusted/replaced in order to allow machine to dig tie holes to proper depth.
+2. Regardless of rail temperature, tie extracting operator must take special care not to raise the rail more than necessary to extract ties. Tie extracting operator must not use rail clamps except when necessary to remove plate-cut ties. Foremen and Assistant Foremen must continually monitor tie extracting operator to ensure that rail raises are kept to an absolute minimum.
+3. Tie project limits should be surfaced out-of-face, unless otherwise instructed by SCRRA or SCRRA representative.
+4. Pull Safe Requirements for Tie Gangs
+   4.1. Ramp-up for the following production day can be considerably shortened by working spike pullers past the designated stopping point for the day. The Tie Gang Supervisor and Foreman must conduct a Job Safety Briefing regarding the provisions of these requirements, to ensure that the track structure is not weakened enough to impair safe train operations.
+   4.2. All production tie gang may implement production ramp up plans in advancing prep work to maximize work windows, such plans must be submitted and approved by SCRRA.
+
+Required Number of Line-Spiked Ties Between "Pull-Safe" Ties on Curves:
+
+   0˚ to 1˚ 59' :  2 Ties
+   2˚ to 3˚ 59' :  3 Ties
+   4˚ and greater : Do not "Pull Safe"
+
+   4.2.1. Do not pull spikes from ties at rail joint locations.
+   4.2.2. Ensure that "pull safe" track is protected by the appropriate speed restriction to allow for safe train operations.
+   4.2.3. Do not leave "pull safe" track during the Tie Gang off-cycle days.
+   4.2.4. The Tie Gang Supervisor or Foreman must perform a walking inspection of "pull safe" track, to ensure that the above requirements have been complied with before releasing the track for train operations.
+
+
+5.0  Rail
+
+5.1  General Rail
+
+For CWR instructions, see Chapter 9 of this manual.
+
+Note: See SCRRA Standard ES5218 for rail marking requirements and SCRRA Standard ES5230 for
+track identification markings.
+
+When rail is replaced due to wear or defects, replace any rail identifying track markings in
+accordance with SCRRA Engineering Standards ES 5218-02 and ES5230.
+
+Track identifying marking shall be maintained and kept clear and visible at all times, refreshing the
+stencil/paint marking when they become faded or defaced by MOW equipment.
+
+Mile post and tenth mile markings are stenciled/painted on the field side of the web of each rail.
+Rail markings shall be restored on the new rail and stenciled/painted on the new rail with
+corresponding mile post and tenth mile marks. During rail relays, it is a best practice to transpose
+existing tenth mile markers to ties for ease of restoration to new rail.
+
+Track maintenance contractor shall be responsible for the replacement and restoration of any
+missing rail stenciling for: tenth mile markers, milepost markers, and track identification at
+crossings.
+
+5.2  Rail Identification
+
+All rail is branded and stamped on the web of the rail at the time of manufacturing using a unique
+identification system. One side of the rail is branded and will identify the Rail Weight (size), Rail
+Section, Tempering Method, Manufacturer, and year/month of manufacturing. On the opposite
+side of the web the rail is stamped with the hardening method, Hearth Number, Heat Number,
+Ingot Number, and final heat treatment method (Head Hardened (HH) or Standard Strength (SS)).
+
+5.2.1  Rail Branding
+
+Check rail branding and stamping to determine the type of rail before welding.
+
+5.2.2  Rail Stamping
+
+Rail stampings are imprinted characters on the web opposite the branding side.
+
+Branding Process:
+CC  Control cooled
+CH  Control cooled and end hardened
+BC  Control cooled blooms
+VT  Vacuum treated
+OP  Other practices
+(Table 5-1)
+
+5.2.3  Rail Sections
+
+Rail Sections Table 5-2 lists some of the more common rail sections used in the construction of
+the railroads throughout their history. Though most of the sections are no longer used, the table
+can be used as a reference for rail identification and a guide for rail end drilling in repair
+situations.
+
+Common Rail Section Information (Table 5-2):
+
+Rail Weight (lbs/yd) | Rail Section Type | "H" Rail Height (inches) | "RB" Rail Base (inches) | "W" Head Width (inches) | Rail End Drilling "A - B - C" (inches) | "D" Hole Dia - (inches) | "AB" Above Base (inches)
+
+75  | 40 (ASCE)   | 4 13/16 | 5     | 2 15/32 | 2 7/16 - 5 (UP) / 3 - 6 (WP) / 2 1/2 - 4 (MP)                             | 1 1/8             | 2 15/128
+75  | CS          | 5       | 5     | 2 9/16  | 2 29/32 - 6 (MP, M&I) / 2 5/8 - 5 1/2 (UP) / 2 11/16 - 5 1/8 (WP & SP)   | 1 1/8 / 1 1/32    | 2 1/4
+85  | 40 (ACSE)   | 5 3/16  | 5 3/16| 2 9/16  | 2 5/8 - 5 1/2 (UP) / 2 29/32 - 6 (CNW) / 2 13/16 - 5 (WP) / 2 15/16 - 6 (MP) | 1 1/8 / 1     | 2 17/64
+85  | 50          | 5 7/32  | 5 1/4 | 2 15/32 | 2 13/32 - 5 (MP)                                                            | 1 1/8             | 2 21/128
+90  | RA (ARA-A)  | 5 5/8   | 5 1/8 | 2 9/16  | 2 5/8 - 5 1/2 (UP) / 2 13/32 - 5 (MP, WP) / 2 11/16 - 5 1/2 (WP, SP) / 2 29/32 - 6 (MP, CNW) | 1 1/8 / 1 1/16 / 1 1/32 / 1 1/8 | 2 19/32
+90  | CS          | 5 3/4   | 5 3/8 | 2 3/4   | 2 5/8 - 5 1/2                                                               | 1 1/8             | 2 9/16
+90  | RA Headfree | 2 25/32 | 5 1/8 | 2 9/16  | 2 29/32 - 6                                                                 | 1 1/8             | 2 37/64
+100 | 25 RE       | 6       | 5 3/8 | 2 11/16 | 2 5/8 - 5 1/2 (UP) / 2 11/16 - 5 1/2 (WP)                                  | 1 1/4             | 2 1/2
+100 | 20 RA       | 6       | 5 1/2 | 2 3/4   | 2 13/32 - 5 (MP) / 2 1/2 - 6 1/2 (CNW)                                    | 1 1/8 / 1 3/16    | 2 3/4
+110 | RE          | 6 1/4   | 5 1/2 | 2 25/32 | 2 11/16 - 5 1/2 (UP, SP) / 2 29/32 - 6 (MP) / 2 23/32 - 5 1/2 (CNW)      | 1 1/4 / 1 1/8 / 1 1/4 | 2 5/8 / 2 13/16
+110 | RE Headfree | 6 7/16  | 5 1/2 | 2 11/16 | 2 29/32 - 6 (MP)                                                            | 1 1/8             | 2 5/8
+112 | 20 RE       | 6 5/8   | 5 1/2 | 2 23/32 | 2 1/2 - 6 1/2 / 2 1/2 - 6 1/2 (SP)                                         | 1 3/16 / 1 1/4    | 2 7/8
+112 | RE Headfree | 6 3/4   | 5 1/2 | 2 11/16 | 2 1/2 - 6 1/2 (MP)                                                          | 1 1/8             | 2 7/8
+113 | Headfree    | 6 13/16 | 5 1/2 | 2 11/16 | 2 1/2 - 6 1/2 (SP)                                                          | 1 1/4             | 2 7/8
+115 | 25 RE       | 6 5/8   | 5 1/2 | 2 23/32 | 3 1/2 - 6 - 6 / 2 1/2 - 6 1/2 - 6 1/2 (WP, SP)                            | 1 1/8 / 1 1/4     | 2 7/8
+119 | RE          | 6 13/16 | 5 1/2 | 2 21/32 | 3 1/2 - 6 - 6 / 2 1/2 - 6 1/2 - 6 1/2 (WP, SP)                            | 1 1/8 / 1 1/4     | 2 7/8
+130 | PS          | 6 5/8   | 5 1/2 | 3       | 2 11/16 - 5 1/2 - 5 1/2 (SP)                                               | 1 1/4             | 2 3/4
+130 | RE          | 6 3/4   | 6     | 2 15/16 | 2 11/16 - 5 1/2 (UP)                                                        | 1 1/4             | 2 3/4
+131 | RE          | 7 1/8   | 6     | 3       | 2 1/2 - 6 1/2 - 6 1/2 (WP, SP) / 2 15/16 - 6 1/2 - 6 1/2 (UP)            | 1 1/8             | 3 23/32
+131 | 28 RE       | 7 1/8   | 6     | 3       | 2 23/32 - 6 - 7                                                             | 1 1/8             | 3 1/4
+132 | RE          | 7 1/8   | 6     | 3       | 3 1/2 - 6 - 6 (MP) / 3 1/2 - 6 - 6 (UP) / 2 15/16 - 6 - 6 (WP)          | 1 1/8             | 3 3/32
+132 | Headfree    | 7 5/16  | 6     | 2 31/32 | 2 1/2 - 6 1/2 - 6 1/2 (SP)                                                 | 1 1/8             | 3 9/32
+133 | 0 RE        | 7 1/6   | 6     | 3       | 3 1/2 - 6 - 6                                                               | 1 1/8             | 3
+136 | 0 RE        | 7 5/16  | 6     | 2 15/16 | 3 1/2 - 6 - 6 / 3 1/2 - 6 - 6                                              | 1 1/8             | 3 3/32
+136 | CF&I        | 7 5/16  | 6     | 2 15/16 | 2 1/2 - 6 1/2 - 6 1/2 (SP)                                                 | 1 1/8             | 3 3/32
+140 | 31 RE       | 7 5/16  | 6     | 3       | 6 - 3 - 2 23/32                                                             | 1 1/8             | 3
+141 | AB          | 7 7/16  | 6     | 3 1/16  | 3 1/2 - 6 - 6                                                               | 1 1/4             | 3 3/32
+(Table 5-2)
+
+5.2.4  Rail Wear Limits
+
+The maximum acceptable rail wear limits are listed in Table 5-3. Curves having ½ inch Side Wear
+or greater will be considered for replacement. Excessive rail wear should be tracked on the bi-
+annual curve inspection reports. Rail wear measurements shall be made utilizing a Rail Head Wear
+Gage and documented on Semi-Annual Curve Inspection Report form in Appendix C. Send reports
+to TRACK&STRUCTURES@SCRRA.NET.
+
+Rail wear that reaches the 'Remedial Action Required' thresholds listed in Table 5-3 shall have a
+speed restriction of 10 MPH placed within the associated milepost limits until the rail is replaced.
+
+Rail Wear Limits (Table 5-3):
+
+Rail Weight | Transpose Limit | Replacement Limits Side Wear | Replacement Limits Vertical Wear | Remedial Action Required Side Wear | Remedial Action Required Vertical Wear
+90          | N/A             | 5/16"                        | 1/4"                             | 7/16"                              | 3/8"
+110-119     | 1/4 to 5/16"   | 3/8"                         | 3/8"                             | 1/2"                               | 1/2"
+132HF       | 1/4 to 5/16"   | 3/8"                         | 3/8"                             | 1/2"                               | 1/2"
+132         | 1/4 to 3/8"    | 1/2"                         | 3/8"                             | 5/8"                               | 1/2"
+133, 136    | 1/4 to 3/8"    | 1/2"                         | 1/2"                             | 5/8"                               | 5/8"
+(Table 5-3)
+
+5.3  New, Secondhand (SH), Scrap Rail, and Other Track Material (OTM)
+
+Track supervisors and maintenance of way personnel must clearly mark all rail in inventory, showing
+length, weight, and class. Load and ship surplus of new and secondhand rail as instructed by SCRRA
+or as directed in the Contract Documents. Place wooden slats between layers of rail when
+transported or when rail is in storage.
+
+SCRRA will determine the disposition of defective rail removed from the track. Stack rail so it can
+be loaded with a boom truck.
+
+Classify surplus track material as either unsorted scrap or as salvageable secondhand material. All
+fit for re-use rail (salvageable and secondhand rail) returned to inventory shall be clearly marked
+"fit for re-use" with the date of the last rail test. After classifying the material, advise who will
+handle scrap material in accordance with SCRRA procedures.
+
+
+5.4  Rail Handling and Placement
+
+5.4.1  Rail Handling
+
+When lifting rail:
+1. Center mark rail before lifting to balance the load.
+2. Use approved rail tongs or grapple buckets when handling rail 60 feet or less.
+3. Use a spreader bar when handling rail more than 60 feet.
+
+5.4.2  Rail Placement
+
+When unloading rail trains and placing rail in field locations for installation:
+1. Place rail as close as possible to the site where it will be installed.
+2. Place rail where it will not contact other rail in the track.
+   2.1 When possible, place rail at the toe of ballast no closer than 8'-6" from the center line of
+       the track. Any rail placed on ties shall be secured by restraining the rail from movement.
+       For example, spikes may be used to restrain the rail from movement. In addition, a tie
+       plate or equivalent is needed at the rail end to create a ramp preventing any dragging
+       equipment from picking the rail. Rest the plate upside down on an angle to the rail end
+       and spike it to the nearest tie.
+3. After unloading, mismatch rail ends by placing wooden blocks or other suitable material
+   between the rail ends.
+4. Point rail ends on all rail strings away from the track toward the field.
+5. Securely fasten and support rail across bridges.
+6. Cut only when necessary during rail train CWR unloading operations.
+7. Place rail in ditches cut by shoulder plow.
+8. Place rail outside of the walking path in walking areas such as yards and other switch locations.
+9. If rail is located in the walkway, notify train crews via appropriate bulletin.
+
+5.4.3  Rail Placement for Loading
+
+When loading rail trains and placing rail for pick-up:
+1. Place rail where it will not contact other rail in the track.
+2. Place rail a minimum of 6' from the center line of the track when possible.
+3. Any rail placed on ties shall be secured by restraining the rail from movement. For example,
+   spikes may be used to restrain the rail from movement.
+4. Mismatch rail ends by placing wooden blocks or other suitable material between the rail ends.
+5. Point one end of pick-up rail strings away from track toward the field.
+6. If rail is placed in walkways, a Form C Track Bulletin advising footing conditions must be issued.
+
+5.5  CWR Track Panels
+
+5.5.1  Installation of Track Panels
+
+The term "track panel" includes turnouts, road crossings, rail crossings, and any other installation
+of track panels.
+
+1. Mark rail cut locations.
+2. Apply applicable match marks on each rail that will be cut.
+3. Remove existing track panel(s).
+4. Install new track panel(s).
+5. Determine the total length of the track panel(s) being installed. If the rail temperature at the
+   time of repair is at the PRLT, additional rail adjustments may not be required. If Rail
+   temperature is more than 5 degrees below the PRLT, refer to Chapter 9 for detailed CWR
+   procedures.
+6. Ensure standard anchor pattern is installed per Section 5.18 Rail Anchors for anchor
+   requirements.
+7. Joints are to be staggered prior to welding no closer than 12 feet apart unless approved by
+   SCRRA. See Section 5.10.3 Rail Joint Stagger.
+
+5.5.2  Installation and Adjustment of Track Panels at Derailments
+
+The installation of track panels at a derailment requires additional steps compared to normal track
+panel installation due to the fact that match marks cannot be established. The installation of track
+panels at a derailment requires additional attention pertaining to installation, temporary
+destressing and final rail relay.
+
+1. When installing multiple track panels be aware of the joint gap between the rail ends, the
+   effectiveness of rail anchors to resist longitudinal rail movement, ambient temperature during
+   panel installation, the correct speed restriction for the condition and the risk of adding rail.
+2. Place hardwood shims to provide the correct gap when installing track panels. Use Table 5-4
+   to determine correct shim thickness.
+
+39-Foot Rail Lengths (Table 5-4):
+Rail Temperature  | Opening
+Below 25° F       | 1/4 inch
+25°-50° F         | 3/8 inch every other joint
+51° - 75° F       | 1/8 inch
+Above 75° F       | 1/8 inch every other joint
+
+78 Root Rail Lengths (Table 5-4):
+Rail Temperature  | Opening
+Below 50° F       | 3/8 inch
+51°-75° F         | 1/4 inch
+76°-100° F        | 1/8 inch
+Above 100° F      | 1/8 inch every other joint
+
+3. To minimize rail movement in cold weather, adjust or add any missing rail anchors in wood or
+   concrete track at both ends of track panel zone.
+4. Record the rail temperature on the web of the rail at the time of panel installation at each
+   end of the panel zone. See Section 9.6.3.6 Marking Joints and Field Welds.
+
+After panels have been installed:
+1. In wood tie or concrete tie track, when five track panels or less are laid, limit the maximum
+   allowable speed over the track per Appendix B Summary of Speed Restrictions for Trackwork.
+   Joints must be staggered prior to welding out. When more than five consecutive track panels
+   are laid, limit operating speed in accordance with Appendix B Summary of Speed Restrictions
+   for Trackwork for the initial 24-hour period and not to exceed or a maximum of 40 MPH until
+   the joints are staggered and welded out. See within Section 5.15 Location and Preparation for
+   Thermite Welds for minimum field weld stagger requirements for opposite rails.
+2. Rail neutral temperature must be restored when CWR is installed.
+
+At the time of CWR rail relay utilize the following process:
+Refer to Section 9.6.3.2 Installing CWR for rail relay CWR procedure.
+
+5.6  Inside Guard Rails
+
+Refer to SCRRA Standard ES2302 and ES2304 to determine which structures require inside guard
+rails.
+
+1. On wood ties, spike the inside guard rail with two spikes per plate on each rail on the tangent
+   portion, and three spikes per plate on each rail on the curved portion.
+2. On wood ties, box anchor two ties near the center of the bridge to restrict longitudinal
+   movement of guard rail.
+3. Inner guard rails shall extend 50 feet beyond the span or spans to be protected.
+4. On curved track, spike the entire inside guard rail with four rail spikes per plate on each rail.
+5. Do not install joints in the curved portion of the inside guard rail except where an insulated
+   joint is required in signalized territory.
+6. Guard rail joints, if present, shall be fully bolted using joint bars.
+7. Inside guard rails must meet ES2302 and ES2304 requirements. Inside guard rails shall not be
+   smaller than 23 pounds lighter. Inside guard rail shall not be larger than running rails.
+8. Inner guard rails shall be installed on any other bridge as directed by SCRRA.
+
+5.7  Track Bolts
+
+Bolts secure rails in frogs and joints to minimize rail movement and maintain rail-end alignment.
+Bolts of proper diameter and length accommodate rail movement and minimize stress in the bolt
+holes of rail ends.
+
+Note: Keep bolts tight in all applications. Use proper length and diameter bolt.
+
+5.7.1  Track Bolt Sizes
+
+Determine the proper bolt and washer size for a specific rail section from SCRRA Standard ES2352.
+
+Dimension Table (Inches) — Track Bolt Sizes (Table 5-5):
+
+Weight and Section of Rail          | Outside Diam. | Length | No. Threads per inch | Shank Diam. | Length Under Head | Diam. | Thickness (Head) | Long Radius | Short Radius | Max Width | Min Width | Depth | Weight Each (bolt + nut) lbs | No. of bolts per 200 lb keg | Inside Diam. | Outside Diam. | Thickness (Spring Washer)
+80 LB ASCE                          | 13/16         | 1 1/2  | 10                   | 3/4         | 4 3/4             | 11/16 | ...              | ...         | ...          | 1 1/16    | 1 1/32    | 3/4   | 1.09                        | 184                         | 1/8          | 1 3/4         | 1/8
+75 LB CS & CS REV / 80 LB ASCE     | 15/16         | 1 7/8  | 9                   | 7/8         | 4 3/4             | 13/16 | 11/16            | ...         | ...          | 1 17/32   | 13/16     | 1/2   | 1.56                        | 128                         | 1 1/16       | 2 1/16        | 3/8
+                                    |               |        |                      |             |                   |       |                  |             |              |           |           |       | 1.62                        | 123                         | 11/16        | 2 1/16        | 3/8
+90 LB AREA                          | 1 1/16        | 1 3/4  | 8                   | 1           | 5 3/4             | 1 11/16 | 7/8            | ...         | ...          | 1 1/16    | 1 3/16    | 3/4   | 2.22                        | 90                          | 1 1/8        | 2 1/8         | 3/8
+110 LB RE                           | "             | "      | "                    | 1           | 6 3/4             | "     | "                | ...         | ...          | "         | "         | "     | 2.45                        | 82                          | 1 1/8        | 2 1/8         | 3/8
+130 LB PS, 130 LB RE /
+112 LB, 115 LB, 131 LB RE /
+113 LB HF, 132 LB HF /
+119 LB CF&I, 136 LB RE, 141 LB RE  | 1 1/8         | 2 1/2  | 7                   | 1 1/16      | 6 1/2             | 1 55/64 | 43/64 | 1 55/64   | 43/64        | 1 11/32   | 1 1/2     | 5/8   | 2.62                        | 76                          | 1 3/16       | 2 7/32        | 3/8
+(Table 5-5)
+
+5.7.2  Track Bolt Installation
+
+1. Replace track bolts that are missing, bent, cracked, or worn more than 1/8 inch in diameter,
+   or that cannot be tightened to compress the washer.
+2. Install bolts in joints through all holes drilled in rail ends. Use only one washer per bolt.
+3. Replace bolts in jointed rail as follows:
+   3.1. Use only one washer per bolt.
+   3.2. Tighten the nut until the lock washer is compressed.
+   3.3. Avoid over-tightening bolts.
+   3.4. Tighten all the bolts in a joint.
+4. Tighten bolts in rail joints alternately and equally with a track wrench or power-operated
+   wrench as shown in Figure 5-5 and Figure 5-6.
+
+Bolt Tightening Sequence — 6-Hole Joint:
+   5th  1st  4th  (top rail)
+   3rd  2nd  6th  (bottom rail)
+
+Bolt Tightening Sequence — 4-Hole Joint:
+   4th  1st  (top rail)
+   2nd  3rd  (bottom rail)
+
+5.8  Joint Bars
+
+1. Connect rails with joint bars of the proper design and dimension for the rail section.
+
+   Note: Marking on the side of joint bars indicate their rail section design.
+
+2. Visually inspect all joint bars for cracks or damage before use. Cracks may be visible at top or
+   bottom where the bar contacts rail head or base.
+3. Joint bars found to be defective shall be identified and scrapped.
+4. Never reconfigure joint bars by grinding, welding, or torch cutting.
+5. Use a high relief joint bar on the gage side of joint when rail is worn to an extent that the flange
+   of the wheel would make contact with a standard joint bar.
+6. When drilling rail ends, do not drill through joint bars.
+7. Apply the above standards for joint bars to compromise bars and insulated joints unless
+   otherwise noted.
+8. Use insulated joint bars only where necessary to isolate track circuits.
+
+5.8.1  Installation of Joint Bars
+
+When tightening bolts in joint bars, use a sledgehammer to tap along the bottom flange of non-
+skirted joint bars to seat the bar against the rail. Tap along the base of base-supported (skirted)
+joint bars to seat the bar against the rail to obtain full-base bearing.
+
+5.8.2  Weld Bars
+
+Weld bars shall be used only for temporary repair of broken welds. All train movements across
+temporary repair must be supervised by a 213 qualified individual until a permanent repair is made.
+
+5.9  Compromise Joint Bars
+
+Compromise joint bars align the tread and gage lines of adjoining rails of different sizes. When
+utilizing compromise joint bars (Refer to SCRRA Standard ES2503 for additional information):
+
+1. Connect rails with compromise bars of the proper design and dimension for the rail sections
+   joined.
+
+   Note: Compromise Joint bars are marked with the weight of the rail on each side.
+
+2. Due to various amounts of wear on the rail head, adjoining rails may require build up or
+   grinding. Refer to Section 5.10.7 Rail Mismatch.
+3. Never reconfigure compromise joint bars by grinding, welding, or torch cutting.
+4. Avoid installing compromise joints that join rails with different size rail bases at these locations:
+   4.1. Within the limits of curves.
+   4.2. On open-deck bridges.
+   4.3. In turn outs on switch ties.
+
+5.9.1  Offset ("Handed") Joints
+
+Offset or "handed" compromise joint bars join and align the tread and gage area of rails of
+different rail base size. The joint bars are offset to align the gage area of the rails in the joint.
+Offset joint bars are manufactured in sets identified as right hand and left hand.
+
+To determine right hand or left hand joint:
+1. Stand with your back to the larger size rail and face the smaller size rail. The joint on your left-
+   hand side would be designated as the left-hand (LH) joint and the joint on your right side
+   would be the right-hand (RH) joint.
+2. Use Figure 5-8 to identify and install offset or "handed" compromise joint bars.
+
+5.9.2  Step ("Non-Handed") Joint Bars
+
+1. Step or "non-handed" joint bars align the tread area of rails with the same rail base size. Apply
+   step joint bars when the difference in the width of rails does not exceed 1/8 inch at gage lines.
+2. Bars are identified as A and B. Together they make up a joint set that fit either side of the rail.
+3. Depending on which rail the joint bars are to be applied, the individual bars will be placed on
+   either the gage side or field side of the rail.
+
+5.9.3  Compromise/Transition Rails
+
+Compromise and Transition Rails are manufactured rails that are used to connect rails of different
+heights and or different rail sections.
+
+In compromise rails, if a defect is found within 30 inches in either direction of the forged
+area, the entire rail must be replaced.
+
+136# to 115# Compromise/Transition Rails
+
+In all main line applications when joining 136# rail to 115# or 119# rail, use the 136/115#
+compromise/transition rail. Compromise joint bars are available for temporary installation but
+never used for permanent installations on main tracks and sidings. Refer to SCRRA Standard
+ES2372 and ES2373 for additional information. Follow these instructions when installing
+Compromise/Transition Rails:
+
+1. Measure the height of the rail to remain in the track.
+2. Look at the transition rail drawing and determine where the height of rail exists in the tapered
+   area that matches the height of rail to remaining in the track.
+3. Locate where the forged area of the rail will be in the track. (Transition area must not be on
+   top of ties).
+4. Locate all cuts in tie cribs to facilitate welding.
+5. Cut tapered end of rail at the location determined to match height of existing rail in track.
+   (Forged area must not be on top of ties)
+6. Make remaining cuts in track and install transition rail.
+7. Weld all rail joints.
+
+--------------------------------------------------------------------------------
+5.10  Rail Joints
+--------------------------------------------------------------------------------
+
+The rail joint consists of the rail area and Other Track Material (OTM) within the entire length of
+the joint bars.
+
+Note: If rail has been torch cut, 6 or more inches of rail must be removed with a rail saw before
+installing rail to make a joint.
+
+5.10.1  Permanent Joints
+
+Permanent joints are joints that are not intended to have the rail ends welded together.
+Permanent joints include:
+1. Insulated joints.
+2. Joints in bolted rail territory.
+3. Joints in CWR that will remain in track (examples are: Joints in turnouts and diamond
+   crossings).
+
+Permanent joints must be:
+1. Fully drilled.
+2. Fully bolted.
+3. Bolt holes and rail ends to be beveled and slotted.
+4. Solid box anchored in accordance with Section 5.18.5 Solid Box Pattern.
+
+5.10.2  Joint Placement and Support
+
+To enable joint removal in CWR with thermite field welds, do the following:
+1. Rail joints must not be located within 36 inches from an existing plant or in-track weld or 19.5
+   feet from an existing rail joint or field weld.
+
+   Note: The only exception to this 19.5-foot rule is in special trackwork around or near turnouts
+   and diamond crossings where because of geometry layout or component spacing, the 19.5-
+   foot is not obtainable.
+
+2. Center joints between tie to enable field welds to be made without moving or adzing tie.
+3. Field welds must not be located directly over a tie.
+4. In order to prevent weld clusters or a multitude of field welds installed closely together, no
+   more than two (2) field welds are allowed in a 39-foot section of rail.
+
+When installing replacement rail, effort must be made to eliminate thermite welds.
+
+5.10.3  Rail Joint Stagger
+
+1. The minimum stagger between consecutive rail joints on opposite rails is 12 feet.
+2. Staggered rail joints are preferred but not required on industry leads and yard tracks where
+   the speed does not exceed 25 MPH and the curvature is less than 4 degrees.
+3. When staggering rail joints around a curve, use this rule of thumb: For every 80 feet of rail
+   laid, the low rail will become 1 1/2 inches longer for every degree of curvature.
+
+5.10.4  Joint Inventory Definitions
+
+Count only those joints in CWR that can be eliminated by either welding or laying rail (do not
+include joints in jointed rail territory). Do not count the joints that cannot be eliminated such as
+non-extended length frogs and insulated joints, although they require inspection as part of the
+joint inspection process.
+
+Do not put a joint into more than 1 category.
+
+To eliminate double counting of joints, use the following hierarchy to determine the proper
+category for each joint, even though it may fit the description of more than one category. For
+example, a joint on concrete ties that falls within 500' of a bridge should only be counted as a
+bridge joint – not a mainline concrete joint.
+
+Mainline Bridge – Any joint that is on or within 500 feet of a bridge should be counted as a bridge
+joint, regardless of whether it is in a switch, on concrete ties, etc. (the only exception is heel block
+joints, that is a separate category)
+
+Mainline Concrete – Any joint that is on concrete ties, except bridge joints (Mainline Bridge),
+should be counted as a concrete joint.
+
+Turnout – Any weldable joint, other than frog joints, in the Turnout Side.
+
+Mainline – All joints that are not included in Mainline Bridge, Mainline Concrete, and Turnout
+should be counted as Mainline joints. This includes joints in a mainline side running rail of a switch
+and Dead Insulated Joints of any mainline switch associated with a Main Track Junction, Mainline
+Connection (any powered turnout connecting track that connects to any mainline tracks),
+Mainline Siding or Mainline Crossover. (NOTE: Don't count turnout side on Industry, Yard, Setout,
+or other none mainline tracks). (Turnout Joints that are within 500 feet of a bridge should be
+included in the Bridge Joint Category).
+
+Jointed Heel Block - Mainline side of switch and also the turnout side of a Main Track Junction,
+Mainline Connection (any powered turnout connecting track that connects to any mainline
+tracks), Mainline Siding or Mainline Crossover. The Heel Block Joint is in a category of its own.
+(Remember heel blocks can be eliminated by use of an extended point).
+
+Dead Insulated Joint(s) – Any insulated joint to be removed ("bond-arounds"). Do not include
+active joints in this count.
+
+5.10.4.1  CWR Joint Inventory
+
+A comprehensive SCRRA CWR Joint Inventory List (Table 5-6) shall be maintained and updated
+as required.
+
+The CWR Joint Inventory List must contain: Subdivision, Date of Installation, Mile Post, Rail
+Designation, GPS Location, Joint Identification Number, Type of Joint, Rail Size, Track Number, and
+Date of Joint Inspection.
+
+(Table 5-6 — CWR Joint Inventory List Sample fields: Line, Date Added, Date Removed, Joint
+Classification, M.P., Rail N-S, GPS Location, Joint ID #, Type, Size, P/T, Tr.#)
+
+5.10.5  Pull-Aparts
+
+Pull-aparts are a result of bolt failure in a joint bar and subsequent excessive gap between rail ends.
+
+1. If a pull-apart is 4 inches or less and the rail ends are not damaged, close the pull-apart by
+   using a hydraulic rail expander or by applying heat.
+2. If unable to close rail ends using heat or hydraulic rail expander, or a pull-apart is more than
+   4 inches, or rail end damage is apparent, install a rail that is 19'6" or longer using match marks
+   and record the rail adjustment. Refer to Section 9.6 CWR Installation Procedures.
+3. When repairing pull-aparts, visually inspect each joint bar, install all new bolts and adjust rail
+   anchors tightly against the ties per CWR adjustment requirements.
+4. All joints in CWR shall be welded within 30 days or fully bolted with six hole angle bars and
+   solid box anchored 200ft in both directions.
+
+5.10.6  Rail Drilling
+
+For drilling requirements Refer to SCRRA Standard ES2301.
+
+Rail Drilling Table (Table 5-7):
+
+Rail Section                  | Hole 1 (in) | Hole 2 (in) | Hole 3 (in) | Bolt Size (in)    | Above Base (in) | Hole Size (in)
+136 lb. MP and WP             | 3-1/2       | 6           | 6           | 1-1/8 X 6-1/2     | 3-3/32          | 1-1/4
+133 lb. All                   | 3-1/2       | 6           | 6           | 1-1/16 X 6        | 3               | 1-1/8
+132 lb. CNW, UP, & MP         | 3-1/2       | 6           | 6           | 1 X 6             | 3-3/32          | 1-1/8
+132 lb. WP                    | 2-15/16     | 6           | 6           | 1 X 6             | 3-3/32          | 1-1/8
+132 lb. MP 4 hole             | 3-1/2       | 6           | —           | 1 X 6             | 3-3/32          | 1-1/8
+131 lb. MP                    | 2-1/2       | 6-1/2       | 6-1/2       | 1 X 6             | 3-3/32          | 1-1/8
+131 lb. UP                    | 2-15/16     | 6-1/2       | 6-1/2       | 1-1/16 X 6        | 3-3/32          | 1-1/8
+131 lb. 4 hole                | 2-1/2       | 6-1/2       | —           | 1-1/16 X 6        | 3-3/32          | 1-1/8
+119 lb. UP and all others     | 3-1/2       | 6           | 6           | 1 X 6             | 2-7/8           | 1-1/8
+119 lb. WP                    | 2-1/2       | 6-1/2       | 6-1/2       | 1 X 6             | 2-7/8           | 1-1/8
+119 lb. SP                    | 2-1/2       | 6-1/2       | 6-1/2       | 1-1/8 X 6-1/2     | 2-7/8           | 1-1/4
+115 lb. UP, WP                | 2-1/2       | 6-1/2       | 6-1/2       | 1 X 6             | 2-7/8           | 1-1/8
+115 lb. SP                    | 2-1/2       | 6-1/2       | 6-1/2       | 1-1/8 X 6-1/2     | 2-7/8           | 1-1/4
+115 lb. CNW, all others       | 3-1/2       | 6           | 6           | 1 X 6             | 2-7/8           | 1-1/8
+113 lb. SP                    | 2-1/2       | 6-1/2       | 6-1/2       | 1-1/8 X 6-1/2     | 2-7/8           | 1-1/4
+112 lb. All 4 hole            | 2-1/2       | 6-1/2       | —           | 1 X 6             | 3-1/16          | 1-1/8
+112 lb. MP 6 hole             | 3-1/2       | 6           | 6           | 1 X 6             | 2-7/8           | 1-1/8
+110 lb. UP                    | 2-11/16     | 5-1/2       | —           | 1-1/16 X 5-1/2    | 2-13/16         | 1-1/4
+110 lb. CNW and SP            | 2-11/16     | 5-1/2       | —           | 1 X 5-1/2         | 2-13/16         | 1-1/8
+110 lb. MP                    | 2-15/16     | 6           | —           | 1 X 5-1/2         | 2-5/8           | 1-1/8
+100 lb. UP                    | 2-5/8       | 5-1/2       | —           | 1 X 5-1/2         | 2-1/2           | 1-1/8
+100 lb. WP                    | 2-15/16     | 5-1/2       | —           | 1 X 5-1/2         | 2-1/2           | 1-1/8
+100 lb. MP                    | 2-13/32     | 5           | —           | 1 X 5-1/2         | 2-3/4           | 1-1/8
+100 lb. CNW                   | 2-1/2 or 2-21/32 | 6 or 5-1/2 | —      | 1 X 5-1/2         | 2-34 or 2-1/2   | 1-1/8
+90 lb. UP                     | 2-5/8       | 5-1/2       | —           | 15/16 X 4-5/8     | 2-9/16          | 1-1/8
+90 lb. UP and CNW             | Varies      | Varies      | —           | 7/8 X 5           | Varies          | Varies
+(Table 5-7)
+
+Note: Do not install rail in the main track that has extra drilled holes. However, you may leave rail
+with bolt holes in the track when removing joint bars and field welding.
+
+Rail Drilling Procedures:
+1. Remove joint bars from rail when drilling bolt holes. Do not drill holes through joint bars.
+2. Use the correct indexing bar and drill fillet template for the rail section.
+3. When using the index bar for setting the hole spacing, set the end of the bar flush with the
+   rail end, as shown in Figure 5-12. Do not "split" joint gap.
+4. Fully drill each rail end for the joint bar that will be applied. If the joint will be field welded,
+   drill only the two outermost holes on each rail.
+5. In CWR territory, drill the two outermost holes on each rail end only when the joint will be
+   field welded within 30 days. Fully drill the joint if temperature conditions are likely to produce
+   a pull apart.
+6. Holes drilled in rail ends for standard joint bars should be sized 1/16"-1/8" larger than the
+   diameter of the bolt to be used. See Table 5-7.
+7. When drilling bolt holes:
+   7.1. Apply the proper amount of pressure to the drill bit to ensure drill bit does not overheat.
+   7.2. Keep drill bits lubricated.
+   7.3. Water is the only recommended lubricant.
+   7.4. Do not drill holes through the joint bar.
+   7.5. Bolt holes and rail ends to be beveled and chamfered with bull nose grinding stone or
+        deburred per SCRRA Standard ES2502.
+
+Note: DO NOT torch cut bolt holes under any circumstances.
+
+5.10.7  Rail Mismatch
+
+Rail mismatch is an uneven railhead surface or exposed rail end on the gage or running surface of
+a rail at a joint location.
+
+1. Except in an emergency, do not install rail ends with a mismatch exceeding 1/4 inch on the
+   tread or running surface or the gage side. See Table 5-8.
+2. When replacing rail, select and install a replacement rail that most closely matches both the
+   gage side and running surface. Use the rail wear measuring device.
+
+Rail Mismatch Limits (Table 5-8):
+Joint Type           | Class of Track        | Tread mismatch of rails at joints more than: | Gage mismatch of rails at joints more than:
+Standard rail joint  | Class 1 track         | 0.250" (1/4")                                | 0.250" (1/4")
+Standard rail joint  | Class 2 track         | 0.250" (1/4")                                | 0.187" (3/16")
+Standard rail joint  | Class 3 track         | 0.187" (3/16")                               | 0.187" (3/16")
+Standard rail joint  | Class 4 and 5 track   | 0.125" (1/8")                                | 0.125" (1/8")
+(Table 5-8)
+
+Note: Rail End Mismatch is a class specific defect that requires remedial action be taken if the
+conditions in Table 5-8 are not met.
+
+5.10.8  Rail Joint Gap
+
+The rail joint gap is the distance between rail ends of a bolted joint. The design gap in a rail joint is
+1/8".
+
+1. Excessive rail gap is caused by:
+   1.1. Miss-drilled rail ends.
+   1.2. Deformed (stretched) bolts due to longitudinal rail forces.
+   1.3. Insufficient or improperly applied rail anchors.
+   1.4. Elongated or oversize bolt holes.
+   1.5. Undersized bolts.
+2. Excessive rail joint gap causes large impact loads on the joint system which can lead to:
+   2.1. Joint bar failure.
+   2.2. Broken rail ends and rail defects.
+   2.3. Premature tie failure.
+   2.4. Ballast degradation.
+   2.5. Surface geometry defects.
+3. Rail joint gaps that do not meet the criteria in Table 5-9, should be repaired within 10 days to
+   achieve a maximum gap of 7/16". Speed restrictions should be applied based on the class of
+   track shown in Table 5-9.
+
+Maximum Allowable Rail Joint Gap (Table 5-9):
+Class of Track  | Maximum Allowable Rail Joint Gap (inches)
+Class 4 or 5    | 1"
+Class 2 or 3    | 1.5"
+Class 1         | 2"
+(Table 5-9)
+
+5.11  Insulated Joints
+
+5.11.1  Installation and Maintenance
+
+When spiking insulated joints, use caution to prevent damage to insulation. When spiking bonded
+(glued) insulated joints, turn the spike so that the heel is next to the joint bar.
+
+Only new factory glued IJ's are to be installed in main line track unless otherwise instructed by
+SCRRA.
+
+Signal and track personnel will coordinate maintenance and repairs of defective insulated joint.
+
+5.11.2  Preparation for Installation
+
+Before applying bolted insulated joints (such as Portec), remove all scale, dirt and any other
+matter from the rail ends and joint parts. Obtain a good durable fit with clean, smooth bearing
+surfaces.
+
+Remove all burrs, lips, and rough edges from rail's ends and bolt holes before applying an
+insulated joint (taper/grind rail ends).
+
+Square rail ends with a rail saw at insulated joint locations. Accurately drill holes.
+
+5.11.3  Installation
+
+1. Rail Gap: When necessary, use rail expanders to adjust rail gap.
+2. Rail Openings: Do not apply an insulated joint where the opening between rails is too great -
+   greater than 5/8 inch.
+3. Do not drive bolts through an insulating bushing. Position rails and joint parts, line bolt holes,
+   and insert bolts by hand.
+4. If the end post projects beyond the top or side of railhead, trim it flush before returning track
+   to service.
+5. Tie plates must not be located within 6 inches of the rail gap of an insulated joint.
+6. Use manufacturer's recommended elastic fasteners for insulated joints installed on concrete
+   ties or on wood ties with elastic fasteners.
+
+When installing IJs:
+1. Verify the proper placement of insulated joints with a signal representative before moving
+   their location or installing a new location.
+2. The track and signal departments are jointly responsible for installing and maintaining
+   insulated joints.
+3. Within 30 days, remove from track any insulated joints that are no longer required due to
+   track circuit changes.
+4. On wood tie track, do not place the middle of an insulated joint on top of a tie plate unless an
+   IJ support plate is utilized.
+
+5.11.4  Poly-Coated and Fiberglass Insulated Joints
+
+1. Poly-coated insulated joints may be installed in any jointed rail application.
+2. Do not install in CWR territories except as a temporary or emergency repair or unless
+   otherwise directed by SCRRA.
+3. Poly-coated insulated joints may be installed in the turnout side of yard and industry switches
+   in CWR territory.
+
+5.11.5  I-Bond Installation
+
+When installing I-Bonds (insulated joint rail plugs):
+1. Use I-Bonds in all CWR territories where required by the signaling system.
+2. Use 19-foot 6-inches minimum I-Bonds on tangent track and curves up to 2 degree.
+3. Use 30-foot or greater I-Bonds where curvature exceeds 2 degree.
+4. Crop I-Bonds back in length to allow for future replacement with longer I-Bond rails. I-Bond
+   rail length must remain at least 19-foot 6 inches.
+5. Field weld or In-Track weld I-Bonds in place within 30 days.
+6. On wood ties with cut spike plates, turn spikes so the spike heads face away from the rail to
+   ensure that spikes do not touch any part of the insulated joint.
+7. Use insulated tie plates on ties that are within 2 inches of the end post of all insulated joints
+   except armored-type insulated joints.
+8. Suspend joints between ties in wood tie track unless an IJ support plate is utilized. SCRRA
+   Standard ES2504. See Figure 5-14.
+9. For IJ maintenance and capital replacement projects, use supported joint tie arrangement and
+   use appropriate clips per the fastening system utilized, on concrete ties. See Figure 5-15 for
+   installing IJ's on concrete ties.
+
+Preferred, Minimum, and Maximum Insulated Joint Spacing:
+
+CONCRETE TIES:
+X = 2'-0" (PREFERRED), 0" MIN., 10'-0" MAX.
+Y = 4'-6" MAX.
+Z = 4'-0" (PREFERRED AND MIN.), 20'-0" MAX.
+
+WOOD TIES:
+X = 1'-7 1/2" (PREFERRED), 0" MIN., 9'-9" MAX.
+Y = 4'-6" MAX.
+Z = 3'-3" (PREFERRED AND MIN.), 19'-6" MAX.
+
+5.12  Slotting Instructions
+
+Grinding Wheels 3/16" thick are standard for slotting and beveling of rail ends.
+
+FIGURES No. A, B, C are end views of railhead showing the slotting and beveling of rail ends.
+1. No. A is worn rail on the high side of curve.
+2. No. B is new rail before use or soon after being laid.
+3. No. C is worn rail on low side of curve. Note that slotting or beveling must always follow contour
+   of the rail head. Rail ends at closed joints shall be slotted. Rail ends at open joints shall be beveled.
+
+FIGURES No. D, E, F are side views showing the slotting and beveling of rail ends.
+1. No. D shows beveling rail ends, giving depth and width.
+2. No. E shows tightly closed joint after rail ends have been slotted, giving depth and width.
+3. No. F shows rail ends at insulated joint. The flowed metal shall be removed from rail ends leaving
+   ends square or very slightly beveled on top corners of insulated joint. Particles of metal removed
+   by grinding must not be left in insulated joint.
+
+Note: If weld deposit exceeds standard depth of slots, slot must be ground to bottom of weld
+deposit.
+
+
+5.13  Matching Rail Wear Conditions
+
+
+If a mismatch exists, grind a transition at a rate of 1/16" per foot of rail. When replacing rail with
+head or gage wear in excess of 1/8 inch, grind to match or select and install replacement rail, which
+provides the best possible match on both the gage side and running surface.
+
+
+5.14  Cutting
+
+
+When it is necessary to cut a new or second-hand rail, make a square cut using a rail saw.
+
+Unless otherwise directed by SCRRA, a cutting torch may not be used. If it is necessary to torch-cut
+rail, protect the track with a 10 MPH speed restriction and replace the torch-cut rail within 24 hours.
+
+5.15  Location and Preparation for Thermite Welds
+
+1. If rail is torch cut the rail end shall be trimmed back a minimum of 6 inches with a rail saw.
+2. When field welding is required, plan in advance to avoid welds being close to bolt holes, bond
+   wire pinholes, plant welds or other field welds with the minimum restrictions specified in Item
+   6 below.
+3. Rail less than 19'-6" shall not be welded in main track, except where designated in SCRRA
+   Standards for special trackwork or approved by Manager, Track and Structures Maintenance.
+4. 30 feet is the minimum length of rail than can be field welded in curves 2 degrees and greater.
+5. Track at the field weld shall be in proper surface and alignment before the weld is made.
+6. Field welds shall not be made:
+   6.1. Within 19.5 feet from another field weld.
+   6.2. Within 3 feet from a plant weld.
+   6.3. Within 6 inches from bolt hole or bond wire pinhole.
+   6.4. Within 12 feet of a field weld on the opposite rail (minimum field weld stagger).
+7. The rail ends to be welded shall be a minimum of 4-1/2 inches from the ties to permit the proper
+   application and packing of the base plate and mold assembly.
+8. Flash butt welds shall be performed to the manufacturer's criteria.
+9. Flash Butt welding shall be used when work or project requires the welding of large quantity of
+   consecutive welds, or when welding short rails into long segments of rail, such as 39' or 80'
+   rails into CWR Strings.
+10. Flash Butt welding of rails requires the use of contracted services, prepare and test all rail
+    before welding and arrival of welding contractor.
+
+Note: When installing replacement rail, effort must be made to eliminate thermite welds.
+
+5.16  Thermite Welding
+
+1. Only properly trained and qualified persons may make thermite welds. A list of qualified and
+   trained welders shall be provided to SCRRA. The welding and certification training program
+   shall be provided to SCRRA upon request.
+   1.1. Welders so qualified shall follow manufacturer's recommendation for producing field
+        welds and all other instruction contained herein. In case of conflicting instructions, the
+        welder shall request clarification from SCRRA.
+   1.2. Welder is responsible for maintaining the Adjusted Rail Temperature (ART) of the rail
+        when making a field weld.
+
+        Note: Rail shall not be added during the production of field welds.
+
+   1.3. Welder shall be familiar with the safe operation of hydraulic rail pullers for use in
+        adjusting the rail during the production of field welds.
+
+2. Thermite welding shall not be performed when:
+   2.1. Air temperature is below 32 degrees F.
+   2.2. It is raining.
+   2.3. Rail cannot be properly adjusted.
+   2.4. Insufficient time exists to allow weld to cool to less than 600 degrees F before next
+        passing train.
+
+3. Thermite Welding Procedures:
+   3.1. Thermite welds shall be located between ties, so weld is over tie crib.
+   3.2. Rail shall be lined up, using wedges or lining plates, so that rail is straight, with a crown
+        of not less than 0.065 inch or more than 0.080 inch when measured using a 3-foot
+        straight edge and taper gage. Clean rail for a distance of 4 inches from end with a torch
+        and wire brush until area is free of lubricant, rust, and other material.
+   3.3. While the weld is still warm, finish grind the base and head of the weld to conform to
+        the size and shape of the adjacent rail. After finishing grinding, re-space and re-spike
+        ties so that ties are away from edges of the weld. Never place tie plates directly under
+        a weld. Replace anchors no closer than 1 inch from weld. If anchors are within 1 inch of
+        weld, do not apply anchor and remove the opposite rail anchor. Note: Welds shall not
+        be finished ground in the web area.
+   3.4. Handle molds and base bricks with care at all times in order to prevent breakage and to
+        keep them dry. Store thermite charges only in dry places as recommend by the
+        manufacturer. Never use a thermite oxide charge that is wet, has been wet, or is even
+        suspected of containing moisture. Do not use weld charges or kits after their expiration
+        dates.
+   3.5. When cutting in short rails on tangent track, do not use rail less than 19'-6" long.
+   3.6. Visual Testing: Visually inspect field welds immediately after grinding. Pinholes or slag
+        inclusions are indications of a defective weld. Where pinholes or slag inclusions are
+        observed, they shall be immediately removed from the track. Pin holes and slag
+        inclusions less than 1/4-inch deep may be ground out of the head of the rail and
+        repaired with arc welding, using rail end rod (not manganese frog rod).
+   3.7. Ultrasonic Testing: Field welds (Flashbutt and Thermite) shall be ultrasonically tested
+        within 14 days of the track being placed into service. When field welds are ultrasonically
+        tested, the tested rail shall be painted with "U.T." to indicate ultrasonically tested, the
+        date when tested, and inspector's initials.
+        Example: UT 4/25/00 RMM
+        Note: Upon identification of a defective weld refer to Appendix B for proper remedial
+        action.
+   3.8. When constructing track panels, turnouts, or other rail welding off track, welds will be
+        tested prior to placing the panels, rail, or switches in track.
+   3.9. Collect ALL thermite weld debris; remove and dispose from SCRRA property.
+
+5.17  Weld Tolerance Specifications
+
+To improve overall track geometry and reduce Evaluation Car exceptions, the Thermite and In-Track
+maximum weld tolerances below must be followed. Where one tolerance is shown, the
+measurement applies to both types of welds. These are cold (ambient temperature), finish ground
+specifications.
+
+Use Table 5-10 to determine weld tolerance specifications for Class 1 through Class 5 Tracks.
+
+Weld Tolerance Specifications (Table 5-10):
+           | Vertical Crown | Vertical Offset  | Horizontal Offset | Horizontal Kink | Base (HOS) Horizontal Offset | Base (VOS) Vertical Offset
+Thermite   | 0.040"         | 0.020" (1)       | 0.040"            | 0.025"          | 0.060"                       | 0.250" (2)
+In-Track   | 0.060"         | 0.020" (1)       | 0.040"            | 0.025"          | 0.060"                       | 0.125" (3)
+(Table 5-10)
+
+1. Any vertical offset after welding must be tapered by grinding to provide for a smooth transition
+   and eliminate impact forces.
+2. Maximum base vertical offset will not exceed 0.250" on same base width rails.
+3. If rail height difference is greater than 0.125", offset top of rail head and grind. Any offset on
+   the top of rail must be tapered to provide a smooth transition.
+
+Combined Vertical crown and Offset: 0.060 inch maximum expressed as tangential deviation 18
+inches from the center of weld.
+
+Combined Horizontal Kink and Offset: 0.060 inch maximum expressed as tangential deviation 18
+inches from the center of weld as measured on the convex side of the rail.
+
+Note: Maximum allowable rail end mismatch is 0.25" on rail with the same base widths. A
+transition rail is required if rail end mismatch exceeds 0.25" on rails with the same base widths. A
+transition rail is required whenever a transitioning between rails with different base widths.
+
+Welds with vertical offset of the rail head shall be finish blended over a ramp of which the
+minimum length is determined by the following formula. See Table 5-11.
+
+1. Minimum Ramp Length (feet) = Offset (thousandths of an inch) / 0.008 inches.
+
+Vertical Offset Ramp Length (Table 5-11):
+Vertical Offset | Offset Ramp Length
+0.030 inch      | 4 inches
+0.060 inch      | 8 inches
+0.090 inch      | 12 inches
+0.125 inch      | 16 inches
+(Table 5-11)
+
+While blending the offset ramp, care must be taken to avoid sharp deviations in transition,
+avoiding locations of impact loading.
+
+5.18  Rail Anchors
+
+Rail Anchors are applied to the rail base directly and provide a bearing surface against the rail base
+and tie plate preventing longitudinal movement due to forces in the rail resulting from thermal
+expansion or train handling.
+
+Anchors are not required on ties with elastic fastening systems unless additional restraint is
+necessary to control undesired rail movement or ties are in a turnout.
+
+5.18.1  Anchor Types
+
+1. The two rail anchor types commonly used are Drive-on type and Unit anchors.
+   1.1. There are three types of commonly used drive-on anchors: Channeloc, Unit V, and
+        Improved Fair Anchors. Unit V anchors are the most common used due to the low cost.
+   1.2. Spring type anchors are manufactured from spring steel and are commonly referred to as
+        spring anchors. They are available in a variety of shapes.
+   1.3. Concrete tie anchors are drive-on type bar stock anchors with a specially designed nylon
+        isolator over the anchor to prevent damage to the tie.
+
+5.18.2  Anchor Applications
+
+Determine the kind of replacement anchor for rail relays on wood and composite ties as follows.
+1. New anchors are required when:
+   1.1. laying new rail on any main track or siding.
+   1.2. Replacing missing or ineffective anchors from existing patterns.
+2. Second-hand anchors are permitted for ordinary maintenance such as:
+   2.1. Replacing a defect with plug rail.
+   2.2. Destressing track.
+
+5.18.3  Anchor Installation
+
+1. Properly installed rail anchors provide maximum restraint against rail movement.
+2. Second-hand anchors should be inspected before and after installation to ensure they fit the
+   rail properly. Second hand anchors may only be used with approval from SCRRA.
+3. Rail anchors should be applied just far enough that the locking lip or groove of the anchor
+   snaps into place on the rail base. Where drive-on type anchors are applied by mechanized
+   equipment, allow a dime-width of space between the rail base and the anchor to compensate
+   for base width tolerances of the rail.
+
+When installing rail anchors:
+1. Apply rail anchors of the same size as the rail base.
+2. If installing or removing drive-on type anchors manually, use a sledge hammer.
+3. Apply anchors at a right angle to the rail base.
+4. Where practicable, install the anchor from the gage side of rail.
+5. Apply on each side of the tie across from one another with full bearing against the sides of
+   the tie.
+6. Do not install rail anchors on the rail across from permanent joints, except when box
+   anchoring switch ties in turnouts.
+
+   Note: Anchor patterns shall be applied to each rail uniformly.
+
+7. Box anchor each tie on each side of a field weld.
+8. Box anchor switch ties to the fullest extent possible.
+9. Avoid installing rail anchors within 1 inch of:
+   9.1. Field welds.
+   9.2. Joint bar ends.
+   9.3. Switch rods on turnouts.
+   9.4. Transducers on hot box detectors.
+
+SECTIONS 6.3.1 – 6.5.11.9 | PAGES 157–188 | SPECIAL TRACKWORK: SWITCHES, FROGS
+
+6.3.1 CONNECTING RODS
+
+The connecting rod connects the switch stand to the head rod or No. 1 rod of the switch.
+Do not allow the connecting rod to rub against the head block ties.
+
+6.3.1.1 Connecting Rod Applications
+
+Connecting Rod Length Table (6-2):
+Length              | Application
+3 feet 4 inches     | Between tracks with track centers less than 20 feet
+5 feet              | Yard and ladder tracks
+6 feet 3/4 inch     | Main tracks
+13 feet 9 inches    | Inside switches on ladder tracks
+
+Note: Do not use connecting rods shorter than 6 feet with high mast switch stands.
+
+6.3.1.2 Connecting Rod Repairs
+Do not repair connecting rods by welding.
+
+6.3.1.3 Connecting Rod Installation
+Attach the adjustable end of the connecting rod to the crank eye on switch stands with adjustable cranks.
+
+6.3.2 Connecting Rod Bolts
+Insert connecting rod bolts, of the proper dimension, with the head down and secured with a nut and cotter pin on top.
+
+6.4 SWITCH POINTS
+
+1. Ensure that switch points are the same rail size as the stock rails they are mated to.
+2. Measure switch point length from the tip of the switch point to the heel block assembly of the switch.
+3. On extended length type switch points, measure switch point length from the tip of the point to the center of the heel block assembly.
+
+6.4.1 Switch Point Use
+
+1. Knife point switch points are generally used in yard and industry tracks and should not be utilized on mainline applications. Knifepoints should be upgraded to Samson design when replaced. Samson switch points are the current standard and shall be utilized on all mainline applications.
+2. Use Standard (knifepoint) design switch points with standard rail section stock rails.
+   2.1. Use Samson design switch points only with Samson type stock rails. Conventional bolted heel block Samson points must be upgraded to floating heel block style extended Samson points when replaced in mainline applications.
+3. Crop extended length switch points and stock rails during replacement operations to facilitate field welding and future replacements.
+4. Change out worn switch points and stock rails together. If changing out a damaged switch point without installing a new stock rail, grind off any overflow on the stock rail and excessive switch point height to prevent tip breakage.
+
+6.4.2 Switch Point Maintenance
+
+Repair switch points as follows:
+1. Grind off rail flow from the switch point that prevents it from bearing fully against the head of the stock rail.
+2. Grind the flowed metal from the stock rail from 6 inches ahead of the switch point toward the heel to a point where the switch point no longer contacts the stock rail. Grind the edge of the stock rail to a 5/8-inch radius.
+3. Do not replace stock rail only. Stock rail and switch point must be changed as a pair.
+4. Do not use switch points in main tracks that have been repaired or built up by welding.
+
+6.4.3 Heel Blocks
+
+Note: When conventional bolted heel blocks require replacement, they must be replaced with floating heel block style extended switch points in mainline and siding applications.
+
+Maintain heel blocks properly to ensure that the switch can be operated without using excessive force:
+1. Keep spikes or welded stops from preventing the hinging movement of the switch point in the heel area.
+2. Lubricate heel joint assemblies with switch plate oil and do not over tighten them so as to bind the switch point.
+3. Use effective ties to support the heel and solidly tamp the heel joints.
+4. Use the appropriate joint bars as follows:
+   4.1. For floating heel joint assemblies for 16-foot 6-inch and 24-foot switch points, use 5-hole angle bars.
+   4.2. For 39-foot switch points, use 6-hole angle bars.
+   4.3. For extended switch points, no joint bar is required at the heel location.
+   4.4. For continuous filler block assemblies, use the bent 5-hole bar designed for that purpose.
+
+Use only hardwood ties under the heel block and maintain them so that there is no unusual pumping at this joint or location.
+
+6.4.4 Stock Rail Replacement
+
+1. To prevent wheels from striking the tip of the point, replace stock rails that are curve worn more than 3/16 inch ahead of the switch point.
+2. Do not place a new stock rail against a worn switch point.
+   2.1. The switch point should rise a minimum of 3/16 inch above the stock rail where the wheel transfers from the switch point to the stock rail.
+   2.2. The outer edge of the wheel tread must not contact the gage side of the stock rail. When correcting this defect ensure that the switch plates are not worn. Replace if necessary.
+3. Keep adjustable brace plates tight to keep the stock rail securely fastened in the riser plates, but do not over tighten them to the point that the stock rail is canted. The stock rail should not move when the switch point is brought up tight against it.
+
+6.4.5 Plating in Turnouts
+
+1. Special trackwork plates are stamped with the plate number and rail size.
+2. Fasten plating with round holes to ties with screw spikes. Use the square cut spike holes in these plates for gaging purposes only.
+   2.1. Fasten plates to ties using two screw spikes per plate end.
+   2.2. Use the outer two holes unless one of the holes is within 1 inch of the edge of the tie. In this case, use the middle hole.
+
+6.5 FROGS
+
+
+Frogs are furnished in extended lengths to provide clearance for field welding in track and replacement in the field without having to add additional rail. Frogs may need to be cropped before installation in the field.
+
+6.5.1 Identification of Frogs by Number
+
+The rail weight and frog size are stamped on a tag attached to the heel of the frog or cast into the top of the filler block. Field identification method:
+1. With a tape measure, mark a 3-inch width across the top of the frog.
+2. Mark a 4-inch width across the top of the frog.
+3. Measure between marks. The number of inches measured equals the frog number.
+
+6.5.2 Frog Types
+
+6.5.2.1 Railbound Manganese Frog (RBM)
+RBM Frogs shall not be used on concrete tie turnouts.
+
+6.5.2.2 Rigid Bolted Frog
+Install a frog with the short point on the turnout side.
+
+6.5.2.3 Spring Frog
+
+1.1. Power tampers shall not be allowed to lift spring rail frog wing rails or base plates. If a base plate or wing rail is bent or damaged during installation or tamping, the frog shall be immediately replaced or removed from service on diverging route.
+1.2. Maintain each spring rail frog so that the outer edge on the wheel tread cannot touch the gage face of the wing rail. During transport and installation in the track and during installation of panel turnouts, spring rail frogs shall be secured with blocks and clamping bars to prevent horizontal or vertical movement of the wing rail.
+2. When installing a spring frog without a toe block, align the match marks on the spring wing with those on the frog body. This ensures that the hold downs and horns are centered, and the designed 3/8-inch opening is between the frog point and wing rail.
+3. Ensure that the ties under the toe of the frog are in good condition and are solidly tamped.
+4. Use wing rail retarders with frogs on dual control and spring-operated switches.
+6. All spring rail frogs, No. 14 or greater, shall be equipped with a hydraulic retarder or controller.
+7. No. 10 turnouts shall have spring rail frogs if main track speeds are 20 MPH or greater and turnout side not used for meeting or passing of through trains.
+8. Wood tie turnouts with Rail Bound Manganese (RBM) frogs shall have replacement spring rail frogs installed when the RBM frog is deteriorated to the point it must be replaced and the diverging traffic is less than 30 percent of the main line traffic.
+
+6.5.2.4 Self-Guarded Solid Manganese Frog (SGSM)
+SGSM frogs may only be replaced in-kind when track speeds does not exceed 10 MPH, otherwise consider upgrading to an RBM frog with guard rails.
+If building the frog point under traffic, build the guarding face before the frog point.
+
+6.5.2.6 Flange Bearing Frog (Also referred to as a lift or jump frog)
+Speed is limited to 10 MPH on the turnout side by the FRA.
+When installing a flange bearing frog the mainline guard rail can be removed. Gage plates are required between the frog and the mainline running rail. Do not allow gage through the frog to exceed 57".
+The turnout side guard rail must be installed. Guard rail must be upgraded to the latest boltless adjustable style and shimmed upwards at the center per SCRRA Standard ES2800-50.
+
+6.5.2.7 Diamond Crossing
+Three designs:
+1. Low Angle Reversible – crossing central angle is 16-40 degrees.
+2. Straight Rail Reversible – crossing central angle is 41-90 degrees.
+3. OWLS (One Way Low Speed) – crossing central angle is 35-90 degrees. OWLS crossings utilize a flange bearing lift on one track that is limited to 10 MPH. The mainline speed can be up to 79 MPH.
+4. FBF (Flange Bearing Frog) or Full-Flange Bearing Crossings – crossing central angle is 20-90 degrees. FBF crossings utilize a flange bearing lift ramp on both tracks. FBF crossings have long signal "dead zones" that require additional signal work to be performed before installation.
+
+6.5.3 FROG WEAR — NON-CONFORMAL FROGS (RBM, SGSM, Flange Bearing, Diamonds)
+
+[CRITICAL WEAR LIMITS / SPEED RESTRICTION TRIGGERS]
+
+1. Do not allow the frog to wear such that the flangeway is less than 1-9/16 inch deep or less than 1-1/2 inch wide.
+2. If the tread portion of a frog casting is worn down more than 3/8 inch below the original contour, restrict the operating speed over that frog to 10 MPH.
+3. If a frog point is chipped, broken, or worn more than 5/8 inches down and 6 inches back, restrict the operating speed over that the frog to 10 MPH.
+4. For self-guarded frogs, ensure that the distance from the gage line of the frog point to the guarding face does not exceed 4-3/8 inches.
+5. On OWLS crossing diamonds or Flange Bearing Frogs, any gouge made in the mainline running rails by the flange bearing wheels must not exceed 1/2" in depth. If any gouges exceed this the mainline rail must be replaced or restricted to 10 MPH.
+
+6.5.4 FROG WEAR — CONFORMAL FROGS (Heavy Point RBM)
+
+1. Use the special conformal top gages to measure flange depth and tread wear limits. Not using these gages can result in inaccurate measurements of wear and depth.
+2. When rebuilding conformal castings by welding, casting can be repaired back to a flat slope.
+3. Conformal gages must also be utilized to check for point wear.
+4. At any point on the frog, flangeways must be a minimum of 1-1/2 inches wide and 1-9/16 inches deep. Tread portion must not have wear in excess of 3/8" below the conformal contour.
+
+
+6.5.5 FROG GUARD RAIL SIZE AND LENGTH
+
+
+Refer to SCRRA Standard ES2901 through ES2951 for guard rail placement, specifications and settings.
+
+Guard Rail Length Table (6-3):
+Frog Size                    | Main Track Guard Rail Length | Turnout Guard Rail Length
+No. 7, No. 8, and No. 9      | 13 feet                      | 13 feet
+No. 10 and No. 14            | 19 feet 6 inches             | 15 feet
+No. 11 and No. 15            | 19 feet 6 inches             | 19 feet 6 inches
+No. 20 and No. 24            | 26 feet                      | 26 feet
+
+Note: If the track speed is greater than 40 MPH, use at minimum a 19'6" guard rail length.
+
+6.5.6 FROG BOLT SIZES AND TORQUE
+
+Frog Bolt Torque Table (6-4):
+Rail Size        | Bolt and Washer Diameter | Torque (lb.)
+85 lb. or less   | 1-1/8"                   | 1,500
+90 to 100 lb.    | 1-1/4"                   | 1,750
+110 lb. or more  | 1-3/8"                   | 2,200
+
+6.5.7 FROG BOLT INSTALLATION
+
+Replace frog bolts that are missing, bent, cracked or worn more than 1/8 inch in diameter, or that cannot be tightened to compress the washer.
+Use only frog bolts made from Grade 8 material.
+Use proper length bolts that do not allow the threaded portion of the bolt to extend more than 1 inch past the nut.
+Install frog bolts using a torque wrench: tighten all bolts to the desired torque. Apply an approved never seize lubricant to the bolt threads and nut threads before tightening. When torque wrench is not available, use one cam washer with a lock nut. Tighten all bolts to refusal.
+
+6.5.8 FROG GAGE PLATES
+
+Fit frog gage plates to frog and guard rail plates after properly setting track gage, guard check gage, and guard face gage.
+Frog gage plates must be insulated in signalized territories.
+When installing a flange bearing frog, gage plates are required between the mainline and frog to prevent excessive flange contact on the raised portions of the castings.
+
+6.5.9 GUARD CHECK GAGE
+
+Guard Check and Guard Face Gage Table (6-5):
+Class of Track             | Guard Check Gage may not be less than | Guard Face Gage may not be more than
+1                          | 54 1/8"                               | 53 1/4"
+2                          | 54 1/4"                               | 53 1/8"
+3 and 4                    | 54 3/8"                               | 53 1/8"
+5                          | 54 1/2"                               | 53"
+HEAVY POINT FROG, CLASS 5* | 54 3/8"                               | 53 1/8"
+
+6.5.9.1 Gage Settings for Standard Point Frogs
+When repairing or installing standard point frogs set Guard Check Gage at 54-5/8 inches and mainline gage at 56 1/2 inches. Maintain guard rail flangeways at 1 – 7/8 inches for standard gage.
+
+6.5.9.2 Gage Settings for Heavy Point Frogs
+When repairing or installing heavy point frogs set Guard Check Gage at 54-7/16 inches and mainline gage at 56 5/16 inches.
+
+Note: Heavy point frogs must have three gage plates (welded) under the frog and guard rails in Class 5 track to allow for Class 4 tolerances. This includes the turnout side.
+
+6.5.10 FLANGE BEARING FROGS (Also referred to as lift or jump frog)
+
+[SPEED RESTRICTION TRIGGERS]
+1. Mainline gage through the Flange Bearing Frog must not exceed 57". If 57" is exceeded, place a 25 MPH speed restriction until corrected.
+2. Flange Bearing Frogs are limited to 10 MPH turnout side movement.
+3. Flange Bearing Frog warning sign must be installed.
+4. Gage plates must be installed between the mainline rail and the frog itself.
+5. All raised portions of the casting above the mainline rail surface shall be inspected for excessive flange contact during monthly switch inspections.
+6. Shim plates must be installed beneath the turnout side guard rail.
+8. Gouges in the head of the mainline rail caused by turnout movement flange wear should not exceed 1/2" deep. If 1/2" is exceeded, place a speed restriction of 10 MPH and replace the mainline rail.
+9. For Flange Bearing Frogs ensure that mainline rail wear does not allow the flange way depth to be less than 1-9/16". Do not allow the flange way gap between the mainline rail and casting to be less than 2".
+
+6.5.11 SPRING RAIL FROG INSPECTION AND MAINTENANCE PROCEDURE
+
+Change out rigid or spring rail frogs when headwear on wing rail reaches 1/4 inch.
+Power tampers shall not be allowed to lift spring rail frog wing rails or base plates. If a base plate or wing rail is bent or damaged during installation or tamping, the frog shall be immediately replaced or removed from service on diverging route.
+Maintain each spring rail frog so that the outer edge on the wheel tread cannot touch the gage face of the wing rail.
+Spring Frogs in Class 2-6 Track are required to have a detailed inspection every 90 days.
+
+6.5.11.1 Frog Body (Basic inspection and maintenance for all frogs)
+
+1. Checking for breaks and cracks in the rails and castings.
+2. Replacing missing body bolts and keeping bolts torqued to 2000 ft/lbs.
+   2.3. Broken body bolts must be replaced with the thin head variety to ensure that the wing rail will fit properly along the body of the frog.
+3. Grinding excess metal flow from the running surfaces to prevent chipping:
+   3.1. Slot mating surfaces between adjoining rails and castings to a depth of at least 3/16" and slightly beveled at the top.
+   3.2. Grind gage corners of running surface to a 5/8" radius.
+4. Flangeway width not less than 1 1/2".
+5. Flangeway depth not less than 1 9/16".
+6. Tread wear on casting not worn more than 3/8".
+7. Excessive wear and breaks on the point within 16" of the 1/2" PF should be repaired.
+8. If the running surface of the frog is worn or broken to the point where there are indications that the outer edge of the wheel is contacting the side of the spring wing rail, the frog must be repaired or replaced.
+9. Track gage should not be less than 56 1/4" or more than 56 7/8".
+10. Guard check gage should not be less than 54 1/2" on frog with a standard point. A heavy point frog guard check gage is 54 7/16".
+
+6.5.11.4 Toe Area of Frog
+
+If there is a bolted joint:
+2. Check rail ends for chipping or batter. Chips and batter should be repaired promptly and joint slotted with a slotting wheel no thicker than 5/32".
+3. Carefully inspect the joint bars for any cracks. A joint bar with any type of crack must be replaced.
+
+6.5.11.5 Spring Wing
+
+1. Check the gap between the frog point and wing rail in the closed position. The design gap is 3/8 inch. A gap of no more than 3/4 inch should be maintained.
+3.1. Inadequate anchoring – All switch ties and track for 200' each sides of the turnout should be fully box anchored to the extent possible.
+If a retarder fails, limit operating speed to 20 MPH through the turnout and replace or adjust the retarder.
+5. Adjust wing rail stops if flange way opening is more than 2".
+6. [Flangeway area] must be kept clear of sand, dirt, snow, ice, and foreign material. During times when snow and ice can be expected these must be cleaned or a method of heating or de-icing put in place.
+
+6.5.11.6 Horns and Hold Downs
+
+2. If two or more horns or hold down sets have required welding repair within 3 months, the frog should be considered for replacement.
+3. Cast components that break or develop cracks should be replaced. Bolt torque securing the horn and hold down assembly should be maintained at 600 ft/lbs.
+7. The clearance between the top of the horn and the hold down should not be more than 3/16". The clearance between the bottom of the horn and the hold down should not be more than 1/4". The clearance between the side of the horn and hold down should be a minimum of 3/16". Measurements that do not meet the 3/16" criteria must be corrected.
+
+6.5.11.7 Spring Box Assembly
+
+1. Normal force exerted by the spring box plunger against the rail is approximately 600 lbs.
+9. The green area of the gage (4000 – 5200 PSI) shows the acceptable range for the spring force reading. If the spring force gage reading is below 4000 PSI, the spring pressure should be increased. If the gage reading is in the red area, above 5200 PSI, and there is no hydraulic retarder attached to the wing rail, loosen the retaining nuts until the force can be brought down into the green area.
+   NOTE: PSI will be determined by recommendation of manufacturer.
+10. A 1/8" of movement of the retainer nuts should equal approximately 500 PSI of force. If force cannot be obtained the springs in the plunger must be replaced.
+
+6.5.11.8 Spring Replacement
+
+To replace a broken spring, loosen retaining nuts alternately 1/2" at a time until there is no spring pressure against the follower backing plate.
+Re-assembly: Alternate tightening nuts on retaining bolts in 1/2" increments until 1" of travel has been achieved. Using the hydraulic force gage, verify that manufacturer's recommended PSI force has been attained.
+
+6.5.11.9 Hydraulic Retarder
+
+A range of between 30 seconds and 3 minutes is acceptable for wing rail return to normal position.
+Retarders should be installed per manufacturer instructions.
+3.10. If there is any deviation in uniform surface more than 1/8" it should be corrected.
+3.12. If the wing rail still does not close the retarder should be replaced.
+
+END OF SECTIONS 6.3.1 – 6.5.11.9 (Pages 157–188)
+
+
+SECTIONS 8.1 – 8.12.3 | PAGES 209–238 | TRACK INSPECTION
+
+8.1 STANDARDS AND REGULATIONS
+
+
+Compliance with SCRRA and FRA standards regarding track safety is mandatory. All 49 CFR 213.7 qualified employees must comply with, and have readily available, the documents in Section 8.6.2 Track Inspector Documents.
+
+Track conditions must meet, at a minimum, the FRA Track Safety Standards for the associated class of track.
+
+Inspection frequencies and traversal of all tracks and switches must be performed in accordance with this manual but never less than required by FRA for the class of track.
+
+This requirement applies to all SCRRA owned and maintained main tracks and sidings, yard tracks, and industry trackage. Private tracks should be identified, and inspections must be made up to the clearance point, property line, or gate leading into that industry.
+
+8.2 FRA QUALIFIED PERSONNEL
+
+8.2.1 FRA 213.7 Qualification (Class of Track 1-5)
+
+Each employee responsible for the inspection of (213.7 b) and/or repair of track (213.7 a) and/or installation/inspection/repair of CWR (213.7 c) owned and maintained by SCRRA must be trained and designated as qualified per FRA 213.7. The basis for the qualifications consists of one year's supervisory experience or a combination of work experience and track inspection training.
+
+Track supervisors shall go through an annual training program that will address all track maintenance instructions and standards described in this manual as well as FRA Track Safety Standards including:
+1. Track Geometry
+2. Rail (Identification, Wear limits, Defects, Remedial Actions)
+3. Turnout inspections
+4. Ties (condition and assessments)
+5. Drainage
+6. Ballast
+7. Testing and understanding of Standards
+8. Understanding and Knowledge to apply remedial actions
+
+All employees responsible for the inspection, installation, adjustment, or maintenance of CWR track must complete training on CWR procedures annually. SCRRA and SCRRA contractors will maintain lists of those employees qualified to supervise restorations and inspect track in CWR territory. The qualified employee lists will be made available to the FRA upon request.
+
+CWR Training programs will address the following:
+1. CWR installation procedures.
+2. Rail anchoring requirements when installing CWR.
+3. Preventive maintenance on existing CWR track.
+4. Monitoring curve movement following track surfacing and lining.
+5. Placing temporary speed restrictions account trackwork.
+6. Rail joint inspections.
+7. Insufficient ballast.
+8. Extreme weather inspections.
+9. Recordkeeping.
+
+8.3 SAFETY AND PROTECTION DURING INSPECTIONS
+
+If unsafe conditions or deviations that exceed the allowable limits are detected, initiate corrective or remedial action. If conditions cannot be corrected, immediately protect a defect before the next train.
+
+8.4 COMPLIANCE
+
+8.4.1 Qualifications
+
+Individuals performing track inspections for defects must be designated and qualified as outlined in the FRA Track Safety Standards (49CFR213.7 a, b and c). Qualification includes attending an FRA approved training course, passing all required examinations, demonstrating the ability to detect defects, and annual refresher training thereafter.
+
+8.4.2 Authority and Responsibility
+
+When an inspector finds conditions that make the track unsafe for trains moving at authorized speed, or finds deviations greater than those permitted by the FRA Track Safety Standards, the employee MUST do one of the following BEFORE the next train:
+1. Make repairs to bring the condition into compliance.
+2. Place temporary speed restriction, lowering the speed of the trains to the class for which it complies.
+3. Remove track from service, if it does not comply with class 1 track.
+
+All deviations found during inspection that cannot be corrected immediately must be properly and safely protected and reported on the appropriate document.
+
+8.4.3 Supervisors/Managers
+
+A track inspectors' supervisor/manager or equivalent shall perform track inspector evaluations on a quarterly basis. The supervisor/manager or equivalent shall make a hi-rail inspection over the entire territory with each track inspector on a quarterly basis. On these inspection trips the supervisor will:
+1. Audit the quality of the track inspection being done.
+2. Audit the track inspection vehicle for housekeeping, material/tool storage, proper tools and measuring devices, and required safety equipment.
+3. Audit the track inspector on compliance with and understanding of MOWOR, MOWSR, Timetable, Special Instructions, Roadway Worker Protection, FRA regulations, and this TMM.
+4. Audit for proper form and completeness of forms and review all expired and voided track authority documents.
+5. Review TMM procedures with the Track Inspector that directly pertain to his/her daily responsibilities.
+6. Audit the quality of communication between the Track Inspector and other employees, including the dispatcher.
+7. Audit work practices and rules compliance of other work groups encountered on the inspection trip.
+
+8.5 INSPECTION METHODS
+
+Perform inspections on foot or by traversing over the track with a hi-rail vehicle at a speed that allows sufficient visual inspection of the track structure at a maximum speed of 15 MPH or less.
+Turnouts and track crossing diamonds shall be inspected at a speed not exceeding 5 MPH.
+
+Inspection of track reconstruction must be performed on foot by the contractor's supervisor in charge of the work, the contract operator, and SCRRA representative before returning the track to service or before the next train over the segment of track affected. Inspection must be documented, signed by all parties making inspection and submitted to SCRRA at TRACK&STRUCTURES@SCRRA.NET.
+
+8.6 TRACK INSPECTOR RESPONSIBILITIES
+
+1. Track Inspectors will perform inspections on foot or by riding in a vehicle that allows visual inspection of the track.
+2. The Track Inspector has both the authority and responsibility to place a speed restriction for the track or remove tracks from service as conditions warrant.
+3. Track Inspectors are also expected to perform minor repairs, but at no time will the scope of running repairs prevent the inspector from completing scheduled inspections.
+4. Track Inspectors will complete required inspection reports and submit to TRACK&STRUCTURES@SCRRA.NET.
+
+8.6.1 Track Inspection Frequencies
+
+Main Tracks and Sidings:
+- Inspect all main tracks at least twice weekly with at least 1 calendar day interval between inspections.
+- Each main track must be traversed by the inspection vehicle or inspected on foot at least once every week.
+- If a track is not inspected to at least the FRA required frequency, it must be removed from service until inspection is performed.
+- Report weekly inspections on the track inspection report form located in Appendix C. Send reports to TRACK&STRUCTURES@SCRRA.NET.
+
+Turnouts:
+- Inspect each turnout on foot at least monthly.
+- Quarterly inspections conducted jointly with signal department are also required.
+- All turnout inspections must be documented on the Turnout Inspection Form attached in Appendix C. Send reports to TRACK&STRUCTURES@SCRRA.NET.
+
+Yard tracks and Industry Tracks:
+- Perform a walking inspection of each yard track and industry track at least monthly with at least 20 calendar days interval between inspections.
+- Perform additional inspections if substandard track conditions exist that may deteriorate quickly such as gage in high degree curves.
+
+8.6.2 Track Inspector Documents (must carry and produce upon request):
+1. FRA 213 Track Safety Standards Subpart A to F, Class of Track 1-5
+2. FRA 213.7 Qualification Card
+3. GCOR/MW Rule Book
+4. SCRRA Track Bulletins
+5. SCRRA Current Timetable, Special Instructions, and applicable General Orders
+6. SCRRA Maintenance of Way Operating Rules
+7. SCRRA Maintenance of Way Safety Rules
+8. SCRRA Maintenance of Way General Orders
+9. SCRRA Track Maintenance Manual (TMM)
+10. SCRRA Written CWR Procedures, Chapter 9 herein of this Track Maintenance Manual
+11. SCRRA Track Charts
+12. SCRRA Standards
+13. Job Safety Briefing book
+14. Lone Worker Job Safety Briefing book
+15. On-Track Safety card or sticker
+16. Statement of On Track Safety (if using individual Train Detection)
+17. Machine operators' inspection log book – Updated and kept in machine
+18. Operators Manual (Equipment) – Safe operation instructions
+19. Hi-rail Inspection Logbook – Required to be kept in the vehicle and completed on a daily basis
+20. CPUC General Orders
+
+8.6.3 Track Inspector Tools (required):
+1. 25 ft Tape Measure
+2. Level Board
+3. 62 ft. String Line
+4. Taper or Step Gauge
+5. 6", 24" and/or 36" straight edge
+6. Highly Visible Ribbon (to mark defects)
+7. Rail wear gauge
+8. Portable Track Loading Fixture (PTLF)
+9. Switch Point Wear Measuring Tool
+10. Paint Sticks/soapstone/lumber crayon/White Paint
+11. Infrared (optical) thermometer
+12. Working radio – Must have access when using On-Track Safety
+
+8.6.4 Track Inspection FRA Defects Reporting
+
+All track conditions that do not comply with the FRA 213 Safety standards must be identified and appropriate remedial action taken. Track Inspectors will record defects and the appropriate remedial action for every non-compliant FRA condition, even if it was repaired immediately.
+
+Remedial Action Definitions:
+- Repaired Before Traffic: defect corrected before the passing of a train.
+- Speed Restrictions: protect locations that do not meet the Class of track standards. Whenever a speed restriction is placed, inspectors will arrange to place yellow flags in advance of the restriction, unless the inspector knows that the defect will be repaired before the end of that working day.
+- Schedule for Repair: can only be used for non-class specific defects. All defects will be repaired within 30 days. All "Schedule for Repair" defects that exceed 30 days are in violation of FRA regulations.
+- 213.9(b): When a defective condition exists that does not meet FRA requirements for Class 1 track, inspectors may still allow operation at Class 1 speeds over that defect for a period of not more than 30 days if the inspector determines that operations may safely continue. If the track has not been repaired before the 30-day period has expired the track will be taken out of service.
+- Out of Service: No operation is to take place over that track until repairs have been made and the track is restored to service. Exception: Out of Service Tracks can be operated over only in cases of emergency and only if a qualified person visually supervises each move.
+
+8.7 TRACK INSPECTION BY TRAIN
+
+At least quarterly, the assigned track inspector shall traverse all main line tracks from the head end of a train over the entire territory.
+
+8.8 TRACK INSPECTION
+
+8.8.1 Ballast
+Good ballast and proper drainage are necessary to maintain good surface and line throughout the track structure. Monitor the amount of ballast present off the shoulders and in the cribs, especially when there is potential for tight rail conditions. Ballast defects (insufficient and fouled) are non-class specific.
+
+8.8.2 Drainage
+Culverts, bridges, and ditches need to be inspected once every year and all obstructions, vegetation, and debris that prevents the free flow of water must be removed before the winter rainy season. Drainage defects are non-class specific.
+
+8.8.3 Vegetation
+Right-of-way must be sprayed twice per year to prevent weed and grass growth and kept clear of short brush and grass that may present a fire hazard.
+
+8.8.4 Gage
+Wide gage is responsible for more track caused derailments than any other defect. Gage is measured between the heads of the rail at right-angles to the rails 5/8" below the top of rail head. Gage shall be within the limits prescribed in the Urgent columns in Table 3-1.
+
+PTLF (Portable Track Loading Fixture) applies 4,000 pounds of lateral force to simulate lateral load. Use in locations where:
+1. Track movement is evident on the fastenings and/or ties, and the need develops to measure the full movement.
+2. Static track gage measurements exceed 57-1/4".
+3. Light gage trucks find .75" movement.
+4. Wide gage has been found behind the Geometry cars.
+5. Wide gage has been found behind the Gage Restraint Measurement System (GRMS) vehicle.
+6. Ahead of yard and industry switch points checking for any gap that may occur under load.
+7. Any location where tie condition is poor.
+
+8.8.5 Geometry
+Geometry defects include alignment and surface defects such as runoff, profile, cross level, and warp. Geometry defects are class specific. All measurements must include movement under loaded conditions. See Table 3-1.
+
+8.8.6 Rail Defects
+Track Inspectors need to be alert for:
+1. Unusual appearances on the rail running surface.
+2. Bleeding and discoloration below the rail head.
+3. Bolt Hole Breaks, Head Web separations, and Horizontal Split Heads at joint locations.
+
+Note: Notify TRACK&STRUCTURES@SCRRA.NET immediately of rail defects. Any rail defect shall be removed from the track as soon as practical.
+
+8.8.7 Rail End Mismatch
+Gage mismatch is a serious condition which can lead to a derailment. Make note of any mismatch that exceeds Urgent levels on the track inspection report form. Any rail end mismatch shall be corrected as soon as practical. See Table 3-1 for critical and urgent conditions.
+
+8.8.8 CWR Rail Joints — Joint Bar Inspection Frequencies (Table 8-1)
+
+Freight trains operating over track:
+Tonnage                        | Class 5+ | Class 4 | Class 3 | Class 2 | Class 1 | Excepted
+Less than 40 mgt               | 2        | 2       | 1       | 0       | 0       | 0
+40 to 60 mgt                   | 3*       | 3*      | 2       | 0       | 0       | 0
+Greater than 60 mgt            | 4*       | 4*      | 2       | 0       | 0       | 0
+
+Passenger trains:
+Tonnage                        | Less than 20 mgt | 20 mgt or greater
+Class 5+                       | 3*               | 3*
+Class 4                        | 2                | 2
+Class 3                        | 2                | 1
+Class 2                        | 1                | 0
+Class 1/Excepted               | 0                | n/a
+
+4* = Four times per year, with one inspection in each period: Jan–Mar, Apr–Jun, Jul–Sep, Oct–Dec; consecutive inspections separated by at least 60 calendar days.
+3* = Three times per calendar year, with one inspection in each period: Jan–Apr, May–Aug, Sep–Dec; consecutive inspections separated by at least 90 calendar days.
+2 = Twice per calendar year, one inspection Jan–Jun and Jul–Dec; consecutive inspections separated by at least 120 calendar days.
+1 = Once per calendar year; consecutive inspections separated by at least 180 calendar days.
+
+Note: Where a track owner operates both freight and passenger trains, the more frequent inspection interval applies.
+Note: When extreme weather conditions prevent inspection within the required interval, the track owner may extend the interval by up to 30 calendar days from the last day that the extreme weather condition prevented the required inspection.
+
+All rail joint bars and insulated joints shall be documented at TRACK&STRUCTURES@SCRRA.NET per form in Appendix C.
+
+8.8.9 CWR Joint Bar Conditions
+
+8.8.9.1 Joints added to CWR
+Whenever a joint is added to CWR, the ends must be welded within 30 days. If the joint cannot be welded within 30 days, it must be fully bolted with 6 bolts and fully box anchor every tie for 200'.
+
+8.8.9.2 Remedial Action
+[CRITICAL SPEED RESTRICTION TRIGGERS]
+1. Any joint bar with a visible center crack must be replaced.
+2. If one center cracked or broken bar is found, limit operating speed to not more than 15/10 MPH until replaced.
+3. If two center cracked or broken joint bars are found, limit operating speed to 10 MPH over joint and assign a qualified person to visually supervise each train over angle bars, until repaired.
+4. If excessive longitudinal rail movement is exhibited at the joint area, rail anchors/clips must be adjusted or rail must be destressed in accordance with the CWR procedures herein.
+5. If a CWR joint is gapped open more than Table 5-9, a speed restriction must be placed on the track.
+
+8.8.9.3 Inspection Documentation — Conditions requiring additional inspections:
+1. Loose, missing, or bent bolts — A minimum of 2 bolts per rail must be in place at each joint.
+2. Rail end batter — More than 3/8" in depth and more than 6" in length measured with a 24-inch straight-edge.
+3. Gap between rail ends.
+4. Longitudinal rail movement.
+5. Tie(s) not effectively supporting joint.
+6. Broken or missing tie plate(s).
+7. Joint lateral movement, in a curve or spiral, that reaches 3/4 inch.
+8. Fouled ballast present in conjunction with joint vertical movement (profile) that exceeds 75% of the allowable threshold for the designated class of track.
+
+Joint Vertical Movement Table (8-2) — action thresholds:
+Class 2: 1 1/2"
+Class 3: 1 1/4"
+Class 4: 1"
+Class 5: 3/4"
+
+8.8.10 CWR Joint Inspections at Turnout Locations
+Joint bars will be inspected at turnout locations during the monthly switch inspection. Turnout locations defined as:
+1. At Control Points and signalized switches – all joints up to and including the insulated joint for the signal governing movement over the switch.
+2. Other turnouts in CWR territory – include all joints 50 feet in front of the switch points and 50 feet behind the heel of frog.
+3. At crossovers, all joints in track between switches.
+At track crossings: all joints from the crossing up to and including the insulated joints at the signals governing movement entering and leaving the control point or interlocking.
+
+8.8.11 Insulated Joint Bar Inspections (Table 8-3)
+
+[SPEED RESTRICTION TRIGGERS]
+Level 3: Insulation/glue stripped out from center of joint past the 2nd bolt hole on the top of the joint bars, evidence of joint slippage at the end of the joint bars or rail ends touching.
+→ Schedule for repair (replacement) within 30 days. If only defect is rail ends touching, remedial action is slotting.
+
+Level 2: Any of the conditions described in level 3 plus any broken bolts.
+→ 30 MPH until replaced.
+
+Level 1: Insulation/glue stripped out on both top and bottom of bars. The bars will not fit tight and will allow rail movement and bolts to break.
+→ 10 MPH until replaced.
+
+Insulated joints must be kept tamped up with good tie support. Signal maintainer must be immediately notified of any of the conditions noted above.
+
+8.8.12 Torch Cut Rail
+[CRITICAL PROHIBITION AND SPEED RESTRICTION]
+Torch cutting rail ends or bolt holes is prohibited in any track, except in the case when making an emergency repair. Trains must be supervised across rail ends with torch cut bolt holes until the torch cut bolt holes are removed. If torch cut rail ends are found in main track place a 15 MPH speed restriction and change out rail within 24 hours. ALL train movements must be supervised.
+
+8.8.13 Tie Plates
+Rail should fit flat into the tie plate with no foreign object between the plate and the base of rail.
+If condition cannot be corrected immediately, place a 25 MPH speed restriction where spikes or other objects are between the base of rail and the tie plate causing a concentrated load.
+
+8.8.14 Rail Fastenings
+Fastener defects are non-class specific; the remedial action is based on the inspector's judgment regarding the ability of the system to maintain gage.
+
+8.8.15 Road Crossings
+Employees will notify the dispatcher and place the appropriate speed restrictions to protect the affected crossing whenever the following conditions are found:
+1. Improper sight clearances to comply with local regulations.
+2. Vegetation on the right-of-way that obstructs the view of the crossing.
+3. Vegetation that obstructs the view of warning signs or signals on railroad property.
+4. Material placed on the right-of-way that obstructs the view of the crossing.
+5. Broken crossbuck posts.
+6. Missing/damaged crossbuck signs.
+7. Missing/wrong multi-track number plates.
+8. Missing/damaged stop signs attached to the crossbuck post.
+9. Missing/damaged yield signs attached to the crossbuck post.
+10. Missing/damaged private crossing sign (other than field to field locations).
+11. Missing/damaged stop signs attached to private crossing post.
+12. Missing whistle posts (public crossings).
+
+Note: Signs are considered damaged if they no longer fulfill their intended function.
+
+8.8.16 Bridges
+Inspectors should report to TRACK&STRUCTURES@SCRRA.NET if any of the following conditions are found:
+1. Marginal tie conditions that exist at an open deck bridge.
+2. Marginal tie conditions on the approach to the bridge.
+3. Any geometry condition on a bridge which could be an indicator of a more severe condition.
+4. Combustible materials in or around any bridge structure.
+5. Any drift built up on the up-stream side of bridge.
+6. Excess silting of water channel.
+7. Any missing or loose ballast retainers.
+8. Any damage seen on the superstructure.
+9. Any evidence of scouring of back wall and piers.
+If there is any concern as to the safety of train operations place a speed restriction, or if necessary, remove from service.
+
+8.8.17 Main Line Curves
+Track Inspectors must conduct semi-annual walking inspections of main line and siding curves.
+Inspect for curve movement periodically, especially during periods of large temperature changes.
+Where the curve has shifted inward more than an average of 3 inches, the curve must be lined out prior to rail temperatures above or forecasted above designated rail laying temperature. If curve is not lined out or destressed a speed restriction of 25 MPH or less must be placed or track removed from service.
+
+8.9 TURNOUT INSPECTION
+
+Inspect turnouts on foot at least monthly.
+
+8.9.1 Switch Stand — inspect:
+1. Operate the switch to ensure correct tension on the stock rails and that throw forces are not excessive. The connecting rod and switch rods shall not contact switch plates or ties.
+2. Check the switch lock or keeper. If a lock is required, ensure that it is present and operates easily.
+3. Ensure that the switch latch is fastened down tightly and holds the handle securely. The handle should not be able to be raised out of the latch in the locked position.
+
+8.9.2 Connecting Rod — inspect:
+1. Check to see that connecting rod does not contact the head block ties.
+2. Inspect the connecting rod for excessive wear of bolts and bolt holes.
+3. Ensure that the switch and connecting rod bolts are inserted with the nut on top of the rods with cotter pins in place.
+5. Ensure the jam nut is tight against the clevis.
+
+8.9.3 Switch Points — inspect:
+1. Ensure that points and stock rails are of the same rail section.
+2. Check points for chipping at the point end. Unusually chipped or worn switch points must be repaired or replaced.
+3. Ensure that rail stops are in place and securely fastened.
+4. Points should have full bearing on the switch plates to prevent the points from pumping under train movement.
+5. Check that rail braces are tight and well driven, but not overdriven to the extent that rail is canted inward.
+
+Monthly practice: Apply white spray paint 12 inches on the point and stock rail. If the paint is worn off within the first 1 inch of the point, a thorough inspection of the switch area must be made.
+
+8.9.4 Switch Point Throw (Table 8-4):
+                | 39-foot Switch | 30-foot Switch | 24-foot Switch
+At Point        | 5"             | 4-15/16"       | 5"
+At No. 1 Rod    | 4-3/4"         | 4-3/4"         | 4-3/4"
+At No. 2 Rod    | 4-3/4"         | 4-1/2"         | 4-1/2"
+At No. 3 Rod    | 3-7/8"         | 3-5/8"         | 4-1/2"
+At No. 4 Rod    | 3-1/2"         | 3-1/16"        | 2-13/16"
+At No. 5 Rod    | 2-3/4"         | 2-1/4"         | N/A
+
+On a No. 20 turnout with 39-foot switch points, verify that the switch point fully mates against the stock rail so full head separation occurs approximately 9 inches behind the last switch rod.
+
+8.9.5 Switch Point Fit — inspect:
+4. Check the throw of the switch points. The correct throw is 4-3/4 inches for hand operated switches and 4-1/2 inches for power-operated switches.
+
+8.9.8 Stock Rails — inspect:
+1. Check that metal flow on the gage side of stock rails is not more than 1/8 inch.
+3. Ensure that the stock rail is not curve worn more than 3/16 inch anywhere within 24 inches ahead of the point.
+
+8.9.10 Switch Points and Stock Rails — Wear Measurement
+
+Switch point gage face measurement is taken at the point where gage lines of the stock rail and switch point are 4-1/2" apart.
+
+Procedure using 36-inch straightedge:
+1. Close the switch point against the stock rail and mark a line on the switch point 5/8 inch below the top of the stock rail.
+2. Start 1-1/2 inches from the tip end of the switch point and slide the straightedge toward the heel until a gap appears.
+5. Measure wear offset over 24 inches: mark 6-inch, 18-inch, and 30-inch points on straightedge. Move the 18-inch mark to the largest gap. Measure at 6", 18", and 30". Subtract the smaller of the 6" or 30" reading from the gap at 18".
+
+Switch Point Gage Face Wear Limits (Table 8-5):
+Class | Gap Differential | Restrict to 25 MPH* | Restrict to 10 MPH*
+1     | 1/4 (0.250")     | —                   | 0.250"
+2     | 3/16 (0.188")    | 0.188"              | 0.250"
+3     | 3/16 (0.188")    | 0.188"              | 0.250"
+4, 5  | 1/8 (0.125")     | 0.125"              | 0.188" → 0.250"
+*For facing point moves.
+
+Head Wear:
+- Change out switch point when distance from top of stock rail to top of switch point is greater than 7/8 inch at any location starting 1-1/2 inches from the tip of the switch point.
+- If chipping and/or cracking of the switch point on the gage side is 7/8 inch or more below the top of the stock rail, and the length exceeds 3 inches, condemn the switch point.
+
+8.9.11 Causes for Unusual Switch Wear — consider:
+1. Surface
+2. Tie condition
+3. Gage
+4. Alignment
+5. Improper (or lack of) maintenance grinding
+
+Lubricate switches regularly with the appropriate switch lubricant.
+
+8.9.12 Switch Plates — inspect:
+1. Broken, bent or missing plates.
+2. Ensure riser plates are securely seated and all braces are tight.
+3. Gage plates with defective insulation (must be reported to SCRRA and the Signal Maintainer).
+4. Riser slide plates and spring frog plates for proper lubrication.
+
+8.9.13 Heel Blocks — inspect:
+1. Ensure that the heel of the switch point is fully tamped and secure.
+2. Check the heel block assembly to ensure that the bearing of the switch point is correct in relation to the heel block and to the bent joint bar.
+3. Check the block assembly for a broken shoulder bolt.
+
+8.9.14 Frogs — inspect:
+1. Ensure that all bolts and fastenings are of the proper length and diameter and are kept tight.
+2. Keep each switch, frog, and guard rail free of snow, ice, and other obstructions.
+3. Keep frog wear within the limits prescribed in Section 6.5.3.
+5. If the tread portion of the frog casting is worn down 3/8 inch or more below the original contour, the frog should be restricted to 10 MPH until repaired.
+Note: On spring frogs the stops must be maintained to not allow the wing rail to open more than 2" at the point.
+7. If a frog point is chipped, broken, or worn more than 5/8" down and 6 inches back, operating speed over the frog shall not be more than 10 MPH.
+
+8.9.15 Self-Guarded Frog
+Check the wear measurement on raised guards: Urgent limit is 4-1/4"; Critical is 4-3/8".
+
+8.9.16 Guard Rails — inspect:
+3. Flangeway clearance should not be less than 1-5/8 inches for class 2-5 track throughout the guard rail.
+4. Flangeway clearance should not be less than 1-1/2 inches for class 1 track throughout the guard rail.
+
+Guard Rail Gage Table (8-6):
+Class          | Guard Check Gage may not be less than | Guard Face Gage may not be more than
+1              | 54 1/8"                               | 53 1/4"
+2              | 54 1/4"                               | 53 1/8"
+3 and 4        | 54 3/8"                               | 53 1/8"
+5              | 54 1/2"                               | 53"
+HP Frog Cl.5   | 54 3/8"                               | 53 1/8"
+
+8.9.17 Cross Level
+1. Measure cross level throughout the turnout at locations every 4 to 6 ties apart.
+2. Do not allow reverse elevation in the turnback curve.
+
+8.9.18 Alignment
+3. Measure defects by stretching a 62-foot cord along the gage side of the outer rail and measuring the offsets at the center of the cord.
+
+8.9.19 Switch Ties
+2. Good tie condition and surface must be maintained throughout the turnout. Poor surface or cross-level can cause binding of the switch points causing a switch to be hard to throw.
+3. Ensure that there are sufficient amounts of non-defective ties.
+
+8.9.21 Rail Anchors
+Check that track is properly anchored adjacent to and through turnouts. If 3/4 inch or more movement is evident at the switch point, add more anchors to restrain movement.
+
+8.9.22 Ballast — inspect in turnout for loose ballast obstructing operation:
+1. Between the point and stock rail up to the heel block.
+2. Around connecting rods and switch rods.
+3. Spring frog wing rails.
+4. Point rails of moveable point frogs.
+
+8.10 DERAIL INSPECTION
+
+Switch point derails shall be inspected monthly. If any conditions below are substandard, promptly repair, replace, or remove them from service:
+1. Proper size.
+2. Good quality and securely fastened ties.
+3. Derail is not damaged (unusual wear, usage distortion, or fracturing).
+4. The sign is legible and visible.
+
+8.11 RETURN TO SERVICE TRACK INSPECTION
+
+Inspectors and track foreman inspect the track worked by their crew each day to be certain that the work was performed to standards before returning track to service:
+1. Alignment, gage, and surface meet required class of track.
+2. Proper ballast section is restored and that the track is properly dressed.
+3. Ties are up tight against the rail base and fully tamped.
+4. Tie plates are on and centered on the ties.
+5. Rail is properly seated in the tie plates.
+6. Tie fasteners are properly placed.
+7. Joints tightly bolted with at least two bolts in each rail end.
+8. Work and materials properly cleaned up.
+9. Proper speed restriction in place, if required.
+10. Rail anchors properly placed, installed tight against the ties, and in the prescribed pattern.
+
+If rail was added it must be documented and rail adjustment must be made before rail temperatures reach or exceed 40 degrees above laying temperature.
+
+8.12 SPECIAL INSPECTIONS
+
+8.12.1 Storms, Floods, Washouts, Mud/Rock Slides
+
+When conducting a special inspection, check:
+1. Alignment, cross level, and profile of the track.
+2. Bridge piers, abutments, and bulkheads for signs of scouring.
+3. Substructure and superstructure for damage from large objects washed into structures.
+4. Piers, bents, and bridge members for missing components.
+5. Materials fouling the track, such as trees, pole lines, wires, etc.
+6. Volume of excessive drift and debris under bridges and in culverts obstructing water flow.
+
+8.12.2 Right-of-Way Fires
+
+Assess fire damage to track and structures by checking:
+1. Alignment, cross level, and profile of the track.
+2. Cross ties, bridge ties, bridge pier supports, and abutments.
+3. Bridge substructure and superstructure.
+4. Piers, bents, and bridge members.
+5. Signal pole lines.
+6. Slide fences (where applicable).
+
+8.12.3 Earthquakes — Response Protocol (Table 8-7)
+
+[TRAIN STOP AND INSPECTION TRIGGERS]
+Magnitude 0.0–4.9: No inspections required. Proceed at normal speed.
+Magnitude 5.0–5.49: All trains within a 30-mile radius must operate at restricted speed until track, structures, key buildings and signal system have been inspected.
+Magnitude 5.5–5.99: All trains within a 30-mile radius of known epicenter must operate at restricted speed until inspection completed.
+Magnitude 6.0–6.49: All trains within a 50-mile radius of known epicenter must STOP* and not proceed until inspection completed.
+Magnitude 6.5–6.99: All trains within a 70-mile radius of known epicenter must STOP* and not proceed until inspection completed.
+Magnitude 7.0–7.49: All trains within a 100-mile radius of known epicenter must STOP* and not proceed until inspection completed.
+Magnitude 7.5 and above: All trains within a 150-mile radius must STOP* until track, structures and signal system have been inspected and Command Center releases trains.
+Unknown: Field reports ground shaking – trains stop within 50-mile radius of reported shaking. Seek direction from EEC.
+
+*Note: Trains may be moved the minimum distance required not exceeding 5 MPH to avoid an emergency situation (i.e., to clear a bridge, grade crossing, etc.). Upon instruction from the MoW EEC, passenger/commuter trains may proceed to the next station or make a reverse move to a station behind and may not exceed 5 MPH.
+
+Special inspection items after earthquake:
+1. Materials fouling the track.
+2. Alignment, cross level, and profile of the track especially at bridge approaches.
+3. Bridge piers, abutments, and bulkheads for signs of structural damage, shifting and movement.
+4. Substructure and superstructure for damage or movement, spalling, cracks, weld or bolt failures.
+5. Piers, bents, and bridge members for movement or missing components.
+6. Signal outages and malfunctions.
+7. Slide fences for rocks and talus or physical damage.
+8. Slope movements (rocks, talus, slides).
+9. Key Buildings — check for gas, water, sewer, power, fire/life safety alarm, telecommunication damage and then structural damage.
+
+
+9.1 BACKGROUND AND TERMINOLOGY
+
+Key Definitions:
+- CWR: Rail welded into lengths exceeding 400 feet. Rail installed as CWR remains CWR regardless of whether a joint or plug is installed at a later time.
+- PRLT (Preferred Rail Laying Temperature): 110°F on all tracks on all subdivisions (except tunnels: 70°F). The designated temperature for installation or adjustment to balance thermal expansion and contraction forces.
+- RNT (Rail Neutral Temperature / Force Free Temperature): The temperature at which the rail is neither in compression nor tension.
+- Adjusted Rail Temperature (ART): The temperature the rail was adjusted to at time of installation.
+- Disturbed Track: Disturbance of roadbed or ballast section that reduces lateral or longitudinal resistance.
+- Buckling Incident: A lateral misalignment sufficient to constitute a deviation from FRA Class 1 alignment requirements (49 CFR 213.55). Normally occur when rail temperatures are relatively high, caused by high longitudinal compressive forces.
+- Critical Buckling Temperature: The point at which the track buckles without any outside forces. When outside forces are applied, the critical buckling temperature is lowered.
+- Pull-Apart / Stripped Joint: Condition when no bolts are mounted through a joint on the rail end, rendering the joint bar ineffective due to excessive expansive or contractive forces.
+- Tight Rail: CWR which exhibits alignment irregularities indicating the rail is in considerable compression.
+- Mechanical Stabilization: Procedure using dynamic track stabilizers or ballast consolidators as a substitute for stabilization action provided by the passage of trains.
+
+SCRRA Tunnel PRLT Locations (PRLT = 70°F inside tunnels):
+Subdivision | Milepost From | Milepost To | Tunnel #
+Valley      | 26.63         | 27.95       | 25
+Valley      | 44.98         | 45.05       | 19
+Valley      | 45.42         | 45.47       | 18 (partial — continues below)
+Ventura     | 441.20        | 442.59      | 26
+Ventura     | 442.89        | 443.08      | 27
+Ventura     | 443.88        | 443.98      | 28
+
+Lateral Resistance Components:
+Wood ties: bottom of tie (40%), side of tie (35%), end of tie (25%).
+Concrete ties: bottom of tie (40%), side of tie (30%), end of tie (30%).
+
+9.2 CAUSES OF TRACK BUCKLING
+
+A track buckle is a lateral misalignment caused by one or more of:
+1. Variation in the PRLT (equates to longitudinal force in rail). When RNT is reduced, longitudinal force increases, reducing critical buckling temperature.
+2. Weakened track structure due to reduced lateral track resistance (disturbed track).
+3. Dynamic loading of trains (uplift, high axle loads, braking, traction).
+4. Lateral track alignment deviations.
+5. Curvature.
+
+9.2.1 Maintenance Activities and Conditions That Impact Track Buckles:
+1. Lowered Rail Neutral Temperature – rail added during maintenance lowers RNT.
+2. Addition of Rail and Field Welds – corrections to surface/line deviations can cause rail to grow, decreasing neutral temperature.
+3. Loss of Longitudinal Resistance – missing/insufficient anchors allow rail movement; bunching builds compressive forces.
+4. Reduced Lateral Resistance – tie renewals, undercutting, surfacing and lining reduce lateral resistance.
+5. Maintenance on Curves – inward shift during lining reduces curve length, creating excess rail and lowering RNT.
+6. Surface and Alignment Deviations – poor conditions lower lateral resistance; minor defects coupled with lowered neutral temperatures lead to progressive buckling.
+7. Dynamic Train Forces – train uplift reduces lateral resistance between shoulder ballast and tie end.
+8. Poor Train Handling – especially on grades or curves where trackwork was recently performed.
+
+9.2.2 Track Buckle Occurrences (statistical):
+- 75% of track buckles occur in June, July, and August.
+- 88% occur on hot sunny afternoons between 2 PM and 6 PM.
+- 49% occur when ambient temperatures are between 90 and 100 degrees Fahrenheit.
+
+9.3 TRACK BUCKLING PREVENTIVE MAINTENANCE
+
+1. Adjust Rail (CWR) – Destress rail when maintenance work requires adjustment.
+2. Adjust Anchors – Maintain standard anchor pattern. In locations where standard pattern is insufficient or longitudinal movement is evident, additional anchors shall be applied. Best time to perform: when the rail is in tension.
+3. Place Ballast – Full ballast section required to provide lateral resistance.
+4. Adjust Spiking Pattern – Standard spiking pattern helps resist lateral forces.
+5. Line Out Curves – Line out any curve with inward movement of 3 inches or more prior to rail temperatures above or forecasted above designated rail laying temperature.
+
+Note: Excessive thermal forces in curves can be temporarily relieved by lining the track outward, but a traditional adjustment is required to properly restore PRLT +/- 5°F. Over elevating the RNT in the curve will exacerbate the cording problem during the next cold weather event.
+
+9.4 TIE INSTALLATION
+
+[CRITICAL LIMITS]
+Do not replace more than 50 percent of the cross or switch ties in any 39-foot section of track or more than three consecutive cross or switch ties. Make additional passes if necessary.
+
+When making additional passes: ensure all ties installed in the first pass have been fully spiked and anchored and ballast is placed to maintain surface and alignment.
+Tamp all new ties, and any other ties that are hanging or have been obviously disturbed.
+
+All cribs must be completely filled, shoulders restored, and all newly installed ties must have all anchors applied and spikes driven prior to the passage of trains at speeds above 30/20 MPH.
+
+These tie replacement requirements do not apply when installing ties at:
+1. Road crossings.
+2. Open deck bridges.
+3. Station platforms (with destressing).
+4. Confined track areas.
+5. Undercutting operation.
+
+Note: When there is evidence of lateral, vertical, or longitudinal rail movement due to tie renewal or surfacing operations, the rail must be destressed.
+
+9.5 SURFACING OPERATIONS
+
+Surfacing operations include out-of-face surfacing equal to or greater than 19 feet 6 inches that does not involve any tie installation.
+
+When surfacing across ballast deck bridges, do not shift the track from the center of the deck.
+
+More restrictive speed restrictions may be required regardless of temperature when:
+1. Tight rail.
+2. Insufficient ballast.
+3. Unstable sub-grade.
+
+9.6 CWR INSTALLATION PROCEDURES
+
+Rail welded into lengths of 400 feet or more is considered CWR and remains CWR regardless of whether a joint or plug rail is installed. These procedures apply to all installations of rail in CWR territory.
+
+9.6.1 Preferred Rail Laying Temperature
+PRLT = 110°F on all tracks on all subdivisions except tunnels (70°F inside tunnels).
+
+The designated rail neutral temperature safe range is from -5 to +5 degrees F from the PRLT.
+- If rail is found more than 5 degrees F below the PRLT: it shall be adjusted.
+- If rail is installed more than 5 degrees F above the PRLT: document on CWR Disturbance Report and monitor for curve movement and pull-aparts in cold weather.
+- If rail is not adjusted to the PRLT before forecasted temperatures would cause the rail to reach 40 degrees above the rail installation temperature: a speed restriction of 25 MPH must be placed.
+
+9.6.2 Temperature Differential
+The difference between PRLT and actual Rail Temperature (RT) at time of installation.
+
+9.6.3.1 Methods for Determining PRLT Adjustment
+1. Thermal expansion formula: G = L × T × E
+   - G = Growth in rail (inches)
+   - L = Length of adjusted rail (feet)
+   - T = Temperature differential (°F)
+   - E = 0.0000804 inch per foot of rail per degree Fahrenheit
+   - Example: 1,440-foot string at 60°F heated to 120°F → expands ~6.95 inches.
+2. Use of Table 9-2 (CWR Movement Chart – Inches):
+   Temp Diff | 200 ft | 400 ft | 600 ft | 800 ft | 1000 ft | 1200 ft | 1400 ft | 1500 ft | 1600 ft
+   5°        | 1/16   | 1/8    | 1/4    | 3/8    | 3/8     | 1/2     | 5/8     | 5/8     | 5/8
+   10°       | 1/8    | 3/8    | 1/2    | 5/8    | 3/4     | 1       | 1-1/8   | 1-1/4   | 1-1/4
+   15°       | 1/4    | 1/2    | 3/4    | 1      | 1-1/4   | 1-1/2   | 1-3/4   | 1-3/4   | 1-7/8
+   20°       | 3/8    | 5/8    | 1      | 1-1/4  | 1-5/8   | 1-7/8   | 2-1/4   | 2-3/8   | 2-5/8
+   25°       | 3/8    | 3/4    | 1-1/4  | 1-5/8  | 2       | 2-3/8   | 2-7/8   | 3       | 3-1/4
+   30°       | 1/2    | 1      | 1-1/2  | 1-7/8  | 2-3/8   | 2-7/8   | 3-3/8   | 3-5/8   | 3-7/8
+   40°       | 5/8    | 1-1/4  | 1-7/8  | 2-5/8  | 3-1/4   | 3-7/8   | 4-1/2   | 4-7/8   | 5-1/8
+   50°       | 3/4    | 1-5/8  | 2-3/8  | 3-1/4  | 4       | 4-7/8   | 5-5/8   | 6       | 6-3/8
+   60°       | 1      | 1-7/8  | 2-7/8  | 3-7/8  | 4-7/8   | 5-3/4   | 6-3/4   | 7-1/4   | 7-3/4
+   70°       | 1-1/8  | 2-1/4  | 3-3/8  | 4-1/2  | 5-5/8   | 6-3/4   | 7-7/8   | 8-1/2   | 9
+   80°       | 1-1/4  | 2-5/8  | 3-7/8  | 5-1/8  | 6-3/8   | 7-3/4   | 9       | 9-5/8   | 10-1/4
+   90°       | 1-1/2  | 2-7/8  | 4-3/8  | 5-3/4  | 7-1/4   | 8-5/8   | 10-1/8  | 10-7/8  | 11-5/8
+   100°      | 1-5/8  | 3-1/4  | 4-7/8  | 6-3/8  | 8       | 9-5/8   | 11-1/4  | 12      | 12-7/8
+
+9.6.3.2 Installing CWR
+When installing CWR, document required information on the CWR Stress Adjustment/Disturbance Report and submit to TRACK&STRUCTURES@SCRRA.NET.
+1. Refer to PRLT for the subdivision.
+2. Take Rail Temperature and calculate expansion required before making adjustments.
+3. Record the rail laying temperature and rail expansion once installation is complete.
+4. Rail temperature adjustment is not required when actual rail temperature is ±5 degrees of the PRLT.
+5. Rail heaters, rail expanders, or in-track welders may be used to adjust rail.
+6. If rail is installed below PRLT, the RNT must be adjusted to PRLT.
+7. A speed restriction must be placed per Section 9.10.4 prior to any rail traffic.
+
+NOTE: If rail is not adjusted to the PRLT before forecasted temperatures cause rail to reach 40 degrees above rail installation temperature, a speed restriction of 25 MPH must be placed. Rail laid during cold months must be carefully monitored the following summer.
+
+9.6.3.3 Instructions for Taking Rail Temperature (RT)
+1. Measure rail temperature on the web of the shady side of the rail. Take an average of a minimum of four readings: one at each end with two equally spaced in the middle. Record on the Record of Rail Installation Temperatures form and submit to TRACK&STRUCTURES@SCRRA.NET.
+2. If infrared thermometers are used, verify calibration by taking 2 adjacent readings. If they vary by more than 3 degrees, use a different device.
+3. If magnetic thermometers are used, leave on the rail for five minutes before recording.
+
+9.6.3.4 Monitor Rail Movement
+1. Do not remove anchors or fasteners prior to making cuts to CWR. Once CWR is cut, it shall be considered disturbed and will require adjustment 400 feet in each direction from any cut.
+2. Remove anchors or fasteners for 400 feet on rail to remain in place. Place match marks at 100-foot intervals (first mark at 100 feet, last three equally spaced to end of rail).
+   Exception: When installing continuous strings tying into previously newly installed CWR, only 200 feet of existing rail must be re-destressed.
+3. Place spanning reference marks at destress location.
+4. Heat or pull rail to PRLT; ensure required rail expansion is attained at each match mark location. Anchors or fasteners shall be applied once match marks align. Rail is considered destressed once all anchors or fasteners are applied and joint bars or permanent weld is installed.
+
+Note: When welding rail ends together, the required weld gap or rail consumption (Flash-Butt Welding) must be taken into consideration when determining the amount of rail adjustment.
+
+9.6.3.5 Heating Rail
+1. Use minimum amount of heat required to avoid overheating or damaging fastening system.
+2. Position rail crucibles to concentrate heat on the web of the rail.
+3. Do not heat across open deck bridges.
+4. While heating, vibrate rail to encourage movement through the tie plates.
+5. Tap tie plates with a sledgehammer to free rail movement. Do not strike the rail.
+6. If required expansion not accomplished in first pass, make additional passes.
+7. Do not leave gaps between strings of CWR unless the joint will be immediately field welded; do not leave more than what is required for the field weld.
+8. On concrete tie track, avoid excessive heat damage to plastic fastening components.
+
+9.6.3.6 Marking Joints and Field Welds
+Each destress thermite weld or joint location must be marked with a 72" spanning reference mark on the web of the rail BEFORE any adjustment to the PRLT is made.
+Upon completion, mark the weld on the field side within 2 feet of the weld with:
+1. Date
+2. Adjusted Rail Temperature (ART)
+3. Rail Temperature (RT)
+4. Total amount of rail expansion achieved (in inches) — measured between spanning reference marks from both sides
+5. The word "DESTRESS"
+6. Total length of rail adjusted (in feet)
+7. Welder's initials
+
+Example: 12/03/19 RT:110 RT:75 (-9") DESTRESS 3200' RG
+
+If field weld is made with one free end: mark date, the word "FREE," and welder's initials.
+All field weld marks shall be placed on the field side of the rail and marked within 2 feet of the weld.
+If a field weld is made within the destressing range of an older field weld: write "OLD" on web next to the older weld information, and indicate new date with arrow toward new weld.
+
+9.7 RAIL ANCHORING REQUIREMENTS
+
+Existing anchor patterns (Legacy Patterns) on CWR installations completed before September 21, 1998, may remain in place until a rail relay is performed.
+Anchors may not be applied where they will interfere with signal or other track appliances, or on rail opposite a joint.
+
+9.7.1 Anchor Pattern after Repair
+When repairs result in a joint being added to CWR, at least every other tie will be box anchored for a distance of 200 feet in each direction.
+
+When repairs are made to a stripped joint or failed joint bar (Table 9-3):
+Condition: Bolted joint in CWR experiencing service failure (stripped joint) or failed bar(s) with gap present → take one of:
+- Weld joint, OR
+- Remediate joint conditions, replace bolts, and weld joint within 30 days, OR
+- Replace failed bar(s), install 2 additional bolts and adjust anchors, OR
+- Replace failed bars, bolts (if broken or missing) and anchor every tie for 200' in both directions, OR
+- Add rail, documenting provisions for later adjustments, and reapply anchors.
+
+9.7.2 Standard Box Pattern
+When laying CWR, box anchor every other tie except as outlined in 9.7.3.
+Anchor pattern may be varied to avoid placing anchors against deteriorated ties but must be restored when ties are replaced.
+
+9.7.3 Solid Box Pattern — box anchor every sound (effective) tie at (Table 9-4):
+Location                              | Rail Type      | Requirement
+Turnouts                              | CWR or Jointed | All switch ties and 200 feet in both directions
+Diamond Crossings                     | CWR or Jointed | 200 feet in both directions
+Hot Box/Dragging Equipment Detectors  | CWR or Jointed | 200 feet in both directions
+All Permanent and Insulated Joints    | CWR            | 200 feet in both directions
+Expansion Joints                      | CWR or Jointed | 200 feet in both directions
+Open-Deck Bridges                     | CWR or Jointed | Box anchor ties anchored to substructure only, and 200' in both directions from end of bridge
+Road Crossings                        | CWR or Jointed | 200 ft in both directions
+
+9.8 TRACK BUCKLING PREVENTION / DESTRESSING
+
+Destressing: Procedure to reduce high longitudinal stress in CWR, readjusting RNT to specified value. Involves cutting rail out, destressing a minimum of 400 feet in each direction, refastening and welding. Both rails should be destressed unless one is at a fixed location such as a turnout.
+
+[CRITICAL SPEED RESTRICTION]
+At locations where rail movement is occurring and tight rail conditions exist: place at least a 25 MPH speed restriction until rail is destressed.
+
+9.8.1 Destressing Rail Procedure
+1. Cut rail to be destressed.
+2. Remove or reposition anchors or fasteners for a minimum of 400 feet in each direction (total 800 feet) from the cut or up to a restriction that prevents rail movement.
+3. Wait until rails stop moving. Rail ends may need to be trimmed more than once.
+4. Allow rail to expand and take the rail temperature.
+5. Compare rail temperature with PRLT and obtain temperature differential.
+6. If actual rail temperature is lower than PRLT, use Section 9.6.3 to adjust rail to PRLT.
+7. If rail is within PRLT safe range, no additional adjustments needed. If rail is more than 5 degrees above PRLT, document and plan to adjust before cold weather months.
+8. Rail will be anchored or fastened at PRLT. Replace any worn or ineffective anchors or fasteners.
+9. Weld the joint or apply joint bars.
+10. Fill out CWR Stress Adjustment/Disturbance Report and submit to TRACK&STRUCTURES@SCRRA.NET.
+
+Note: If rail temperature is above PRLT, place spanning reference marks BEFORE CUTTING THE RAIL.
+
+9.8.2 Maintaining Desired Rail Installation Temperature Range
+If rail is installed below PRLT safe range (emergency repairs, pull-apart, etc.), the RNT at that location is now the rail installation temperature. Permanent repairs MUST be made per 9.6.3, adjusting rail 400 feet in each direction.
+
+When rail temperature is expected or forecasted to be 40 degrees above rail installation temperature: protect track with 25 MPH speed restriction until rail is destressed to PRLT.
+
+9.8.3 Destressing CWR After a Track Buckle
+When track buckles occur, cut rail at least 100 feet from the buckled area. Do not attempt to work directly on the track buckle until rail is cut and destressed — large forces in the rails will result in violent movement if rail is cut.
+
+1. Do not remove anchors and spikes before the cut is made.
+2. Using a torch, first cut approximately 4 inches of the head of the rail, then cut same amount of base, leaving only the web.
+3. Cut slices through the web, letting rail expand as web is removed. Repeat until there is a gap.
+4. Begin removing anchors or elastic fasteners and lining in the buckle; anchors removed for a minimum of 200 feet in each direction.
+5. Line the track and pull spikes to enable one rail end to be lined toward center allowing rail ends to pass each other.
+6. Remove all anchors for a minimum of 400 feet in each direction (total not less than 800 feet).
+7. Cut excess from end of rail that had been lined toward center of track with rail saw.
+8. Replace lined-out rail back into plates.
+9. Check rail temperature. Follow procedures in 9.6.3 to adjust to PRLT.
+10. Surface and line track and place appropriate speed restriction per Section 9.10.4.
+11. Fill out CWR Stress Adjustment/Disturbance Report and submit to TRACK&STRUCTURES@SCRRA.NET.
+
+9.9 MONITORING CURVE MOVEMENT FOLLOWING TRACK SURFACING AND LINING
+
+9.9.1 Staking Curves
+Before surfacing and lining a curve on main tracks Class 2 and above, stake curve if:
+- Degree of curvature is more than 3° AND
+- Rail temperature is more than 50°F below the designated rail laying temperature (or is expected to be in the next 24 hours).
+
+Place at least 3 reference stakes uniformly spaced around the curve with the middle stake near the middle of the curve.
+
+9.9.2 Inspecting for Curve Movement
+[CRITICAL SPEED RESTRICTION]
+Where curve has been staked and full body of the curve has shifted inward more than 3 inches, the curve must be lined out prior to rail temperature reaching the PRLT. If curve is not lined out or destressed, a speed restriction of 40 MPH or less for passenger and freight trains must be placed.
+
+9.10 PLACING TEMPORARY SPEED RESTRICTIONS FOR TRACKWORK
+
+Place speed restriction at least 1/4 mile in each direction from the outside limits of the affected track. For heavy grades, sharp curves, or substandard track conditions, extend farther.
+
+9.10.1.1 Ambient temperature 80°F or above or Rail Temperature above PRLT
+Avoid disturbing the track when ambient temperature is above or forecasted to be above 80°F.
+
+9.10.3 Responsibility
+Before returning track to service, supervisor or foreman must ensure:
+1. Proper gage, surface, and alignment established for the class of track.
+2. Cribs filled to top of tie with ballast; ballast shoulders minimum 9 inches wide for wood tie track and 12 inches wide for concrete tie track.
+3. Rail anchored per Section 9.7.
+4. Appropriate speed restriction per Section 9.10.4 placed.
+
+If performing more than one type of work on the same segment, place the most restrictive speed.
+
+9.10.4 Speed Restrictions for Trackwork (Table 9-5):
+
+SPECIAL TRACKWORK:
+Work Type                                                              | First Train | Min 24 hrs & 16 Trains | After 24 hrs
+Newly installed SW/TO/crossing/panels — not surfaced, not destressed   | 10/10 MPH   | 10/10 MPH              | Not Applicable
+Newly installed — surfaced, destressed, not stabilized                 | 10/10 MPH   | 30/20 MPH              | Timetable
+Newly installed — surfaced, stabilized, and destressed                 | 10/10 MPH   | 40/30 MPH              | Timetable
+Newly installed — surfaced and stabilized, not destressed (4)          | 10/10 MPH   | 30/20 MPH              | 40/30 MPH
+
+ALL TIE INSTALLATION:
+Tie Installation — surfaced, with/without stabilizing — above/forecast above 80°F or rail temp above PRLT | 15/10 MPH | 15/10 MPH | 30/20 MPH (3)
+Tie Installation — surfaced, not stabilized — below 80°F ambient      | 15/10 MPH   | 30/20 MPH              | Timetable
+Tie Installation — surfaced and stabilized — below 80°F ambient       | 30/20 MPH   | Timetable              | Timetable
+
+CWR INSTALLATION:
+CWR Installation, surfaced, destressed, not stabilized                 | 10/10 MPH   | 30/20 MPH              | Timetable
+CWR Installation, surfaced, destressed, and stabilized                 | 10/10 MPH   | 40/30 MPH              | Timetable
+CWR Installation, destressed and no surfacing required                 | 10/10 MPH   | 40/30 MPH              | Timetable
+CWR Installation, not destressed (4)                                   | 10/10 MPH   | 30/20 MPH              | 40/30 MPH
+
+SURFACING:
+Track Surfacing without stabilizing (2)                                | 15/10 MPH   | 30/20 MPH              | Timetable
+Track Surfacing with dynamic stabilizing (2)                           | 50/40 MPH   | Timetable              | Timetable
+Track Surfacing with/without stabilizing — above/forecast above 80°F or rail temp above PRLT (2) | 15/10 MPH | 15/10 MPH | 30/20 MPH (3)
+
+Notes:
+(1) Speed restrictions must remain for a minimum of 24 hours AND passage of minimum 16 trains.
+(2) Track surfacing with up to maximum 2 inches of track raise. If raised more than 2 inches, use Special Trackwork Speed Restrictions.
+(3) Due to nature of sub-grade disturbance, an additional 24 hours is required for track to consolidate. Track must be inspected prior to removal of speed restriction.
+(4) If rail is not adjusted to PRLT before forecasted temperatures would cause rail to reach 40 degrees above rail installation temperature, a speed restriction of 25 MPH must be placed.
+
+Pass/Frt = Passenger/Freight.
+
+9.11 RAIL JOINT INSPECTION
+
+All joints in CWR track must be inspected on foot and recorded on the prescribed form.
+
+9.11.1 CWR Joint Inspection Frequency (Table 9-6):
+[Same structure as Table 8-1 / Section 8.8.8 — reproduced here for CWR-specific compliance]
+Freight (< 40 mgt): Class 5: 2x | Class 4: 2x | Class 3: 1x | Class 2: 0 | Class 1: 0 | Excepted: 0
+Freight (40-60 mgt): Class 5: 3x* | Class 4: 3x* | Class 3: 2x | Class 2: 0 | Class 1: 0 | Excepted: 0
+Freight (>60 mgt): Class 5: 4x* | Class 4: 4x* | Class 3: 2x | Class 2: 0 | Class 1: 0 | Excepted: 0
+Passenger (<20 mgt): Class 5: 3x* | Class 4: 3x* | Class 3: 2x | Class 2: 1x | Class 1: 0 | Excepted: n/a
+Passenger (≥20 mgt): Class 5: 4x* | Class 4: 3x* | Class 3: 2x | Class 2: 0 | Class 1: 0 | Excepted: n/a
+(*extreme weather extension: up to 30 calendar days from last day weather prevented inspection)
+More frequent interval applies when both freight and passenger trains operate.
+
+9.11.1.1 Switches and Track Crossings
+Joints within or adjacent to switches and track crossings are exempt from periodic joint inspection requirements provided they are inspected monthly during the required monthly walking inspection.
+At switches: all joints from and including insulated joints at signals governing movement entering/leaving the control point. If no signals, minimum all joints from point of switch to heel of frog.
+At crossovers: all joints in track between switches.
+At track crossings: all joints including insulated joints at signals. If no signals, all joints between or connected to crossing frogs.
+
+9.11.2 Identification of Joints
+Each rail joint requiring remedial action shall be identified in the field with a highly visible marking, and by subdivision, milepost to nearest 100th, track number, and rail designation.
+
+9.11.3 Rail Joint Conditions and Remedial Actions (Table 9-7):
+
+Condition                                  | Remedial Action
+Visible cracks in joint bar                | Replace bar
+Loose bolt                                 | Tighten bolt
+Bent bolt                                  | Replace bolt OR Inspect weekly
+Missing bolt (min 2 per rail required)     | Replace bolt
+Tie(s) not effectively supporting joint    | Tamp tie(s); Replace/repair tie(s) OR Follow-up inspections every other week until repaired
+Broken or missing tie plate(s)             | Replace tie plate(s) OR Follow-up inspections every other week until repaired
+Deteriorated insulated joint               | Replace/repair joint OR Follow-up inspections every other week
+Rail end batter (>3/8" depth and >6" length measured with 24" straight-edge) | Repair by welding joint or removing rail OR Inspect weekly
+Rail end mismatch exceeding 1/8"           | Weld or grind
+Longitudinal rail movement greater than 2.5" | Add or adjust rail anchors, tighten bolts, add or remove rail at appropriate time OR Inspect weekly
+Wide rail gap greater than 1"              | Adjust rail gap and secure joint OR Inspect weekly
+Joint vertical movement (profile) exceeds 75% of allowable threshold | Surface joint OR Follow-up inspections every other week
+Joint lateral movement (in curve or spiral) reaching 3/4" | Correct lateral movement OR Follow-up inspections every other week
+
+Note: Remedial action may also consist of placing a speed restriction or removing the track from service.
+
+9.11.3.1 Pull-Aparts
+1. If pull-apart is 4 inches or less and rail ends not damaged: close using hydraulic rail expander or by applying heat.
+2. If unable to close, or pull-apart is more than 4 inches, or rail end damage is apparent: install a rail that is 19'6" or longer using match marks and record the rail adjustment.
+3. When repairing pull-aparts: visually inspect each joint bar, install all new bolts and adjust rail anchors tightly against the ties per CWR adjustment requirements.
+
+9.11.4 Joints Added to CWR
+Whenever a joint is added to CWR: weld within 30 days. If cannot be welded within 30 days: fully bolt with 6 bolts and fully box anchor every tie for 200 feet.
+
+9.11.6 Report Documentation (on-foot periodic and follow-up inspections):
+1. Date
+2. Limits of the inspection
+3. Location and nature of CWR joint conditions
+4. Corrective or remedial action taken
+5. Name and signature of inspector on prescribed form.
+
+9.12 EXTREME WEATHER INSPECTIONS
+
+Rail temperature conversions:
+- Sunny weather: rail temperature ≈ ambient temperature + 30°F.
+- Overcast weather or at night: rail temperature ≈ ambient temperature.
+
+9.12.1 Heat Inspections
+[MANDATORY INSPECTION TRIGGERS]
+Heat inspections must be performed on all main tracks and sidings when:
+1. Ambient temperature is, or is forecast to be, over 100°F.
+2. Rail temperature is above 130°F.
+3. Ambient temperature is, or is forecast to be, over 90°F for the first time in 60 or more days.
+4. Rail temperature is above 120°F for the first time in 60 days.
+
+Continuous inspections during heat of day — primarily between 11:00 AM and 7:00 PM — until rail temperature cools below 130°F.
+
+Signs of tight rail conditions to watch for:
+1. Tight, wavy, or nervous rail.
+2. Rail canting or lifting out of tie plates.
+3. Shiny marks on base of rail indicating rail is running through anchors and fasteners.
+4. Gaps in ballast at ends of ties.
+5. Churning ballast in tie cribs.
+
+Locations requiring special attention:
+1. Recently disturbed track.
+2. On grades, at bottom of grades and vertical curves.
+3. Locations where heavy braking occurs.
+4. Fixed track structures (turnouts, bridges, road crossings).
+5. Horizontal curves, especially high degree curves.
+6. Where train traffic is predominantly one direction.
+7. In advance of speed restrictions.
+8. Locations where rail has been repaired or welds installed.
+
+[SPEED RESTRICTION TRIGGER]
+At locations where rail movement is occurring and tight rail conditions exist: place at least a 25 MPH speed restriction until rail is destressed.
+
+9.12.2 Cold Weather Inspections
+[MANDATORY INSPECTION TRIGGER]
+Cold weather inspections must be performed when ambient temperature is forecasted to be 32°F or lower.
+
+Inspect for:
+1. Broken rails
+2. Pull-aparts
+3. Curve movement
+4. Wide gap between rail ends
+5. Bent bolts
+6. Cracked or broken joint bars
+7. Canted rail
+
+9.12.3 Placing Temperature Restrictions
+
+9.12.3.1 Blanket Heat Restrictions
+Issued as Form C bulletin. May be placed during various times of the day, not less than 12-hour increments. Removal time: 10:00 PM (or earlier if ambient temperature cools below threshold).
+
+Level 1 Heat Restrictions required when (Table 9-8):
+1. Ambient temperature is to be over 90°F for the first time in 60 or more days.
+2. Rail temperature is above 130°F.
+3. Ambient temperature is to be over 100°F.
+Effect: Speed on curves ≤ 50 MPH; no reduction on turnouts.
+
+Level 2 Heat Restrictions required when:
+1. Ambient temperature is to be over 100°F for the first time in 60 or more days.
+2. Rail temperature is above 140°F.
+3. Ambient temperature is to be over 110°F.
+(Inspector may place Level 2 at any time conditions warrant greater caution.)
+Effect: Passenger — 10 MPH reduction on curves, 5 MPH reduction on turnouts; Freight — 5 MPH reduction on curves and turnouts.
+
+Heat Restrictions Table (9-8):
+Level | Passenger Speed Curves | Passenger Speed Turnouts | Freight Speed Curves | Freight Speed Turnouts
+1     | Do Not Exceed 50 MPH   | No Reduction             | Do Not Exceed 50 MPH | No Reduction
+2     | 10 MPH Reduction       | 5 MPH Reduction          | 5 MPH Reduction      | 5 MPH Reduction
+
+9.13 TRAINING
+
+All employees responsible for the inspection, installation, adjustment, or maintenance of CWR track must complete training on CWR procedures every calendar year.
+SCRRA and SCRRA contractors will maintain lists of qualified employees. Lists will be made available to the FRA upon request.
+
+CWR Training programs address:
+1. CWR installation procedures.
+2. Rail anchoring requirements when installing CWR.
+3. Preventive maintenance on existing CWR track.
+4. Monitoring curve movement following track surfacing and lining.
+5. Placing temporary speed restrictions for trackwork.
+6. Rail joint inspections.
+7. Insufficient ballast.
+8. Extreme weather inspections.
+9. Recordkeeping.
+
+9.14 RECORDKEEPING
+
+9.14.1 Report of CWR Installations
+Records must be maintained for at least one year and include: date of installation, location, rail and length, initial rail temperature, designated RNT, expansion, and adjusted RNT.
+Submit on Record of Rail Installation Temperatures and CWR Stress Adjustment/Disturbance Report to TRACK&STRUCTURES@SCRRA.NET.
+Forms must be retained for at least one year after installation and will be provided by SCRRA upon request.
+
+9.14.2 Report Maintenance Work in CWR
+A CWR Stress Adjustment/Disturbance Report shall be filled out by the qualified person-in-charge when work is performed that has the potential for disturbing the preferred rail temperature or lateral resistance of the track.
+If "Corrective Action Required" is checked, a second report shall be submitted to TRACK&STRUCTURES@SCRRA.NET within 30 days indicating the corrective action, referring to the original report by date and milepost location.
+SCRRA will examine these reports quarterly to confirm corrective actions have been accomplished.
+
+Records of the following must be kept until corrections or adjustments are made:
+1. Record of each designated cut or break location on the CWR Stress Adjustment/Disturbance Report. In areas where rail was added, the RNT must be adjusted and documented within 30 days. Records must be retained for 365 days after final corrections are made.

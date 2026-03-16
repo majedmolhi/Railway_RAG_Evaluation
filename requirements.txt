@@ -1,0 +1,32 @@
+# urban_metro_rag/requirements.txt
+# ─────────────────────────────────────────────────────────────────────────────
+# Core pipeline
+# ─────────────────────────────────────────────────────────────────────────────
+chromadb>=0.4.22             # vector store with persistent HNSW index
+sentence-transformers>=2.7   # BGE embedding model + cross-encoder reranker
+rank-bm25>=0.2.2             # BM25 sparse retrieval
+numpy>=1.26
+
+# ─────────────────────────────────────────────────────────────────────────────
+# LLM generation & faithfulness judge
+# ─────────────────────────────────────────────────────────────────────────────
+openai>=1.0                  # GPT-4o-mini generation + LLM-as-judge
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Evaluation metrics
+# ─────────────────────────────────────────────────────────────────────────────
+rouge-score>=0.1.2           # ROUGE-L
+bert-score>=0.3.13           # BERTScore F1 (semantic similarity)
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Data & figures
+# ─────────────────────────────────────────────────────────────────────────────
+pandas>=2.0
+matplotlib>=3.7
+seaborn>=0.13
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Utilities
+# ─────────────────────────────────────────────────────────────────────────────
+python-dotenv                # load .env file (OPENAI_API_KEY)
+tqdm                         # progress bars during indexing and evaluation

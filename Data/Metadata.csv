@@ -1,0 +1,17 @@
+document_id,title,domain,organization,year,pages,source_url
+
+RSSB_M1_2023,Train Accident and Evacuation Procedures,emergency,RSSB,2023,28,https://consultations.rssb.co.uk/_entity/sharepointdocumentlocation/aec4ffc2-bff3-ed11-8849-000d3aba3d81/2ab10dab-d681-4911-b881-cc99413f07b6?file=05.+GERT8000_M1_compressed_SC_post-con.pdf
+
+FRA_PassTrainEP_1998,Passenger Train Emergency Preparedness Regulations, regulations,Federal Railroad Administration,1998,54,https://www.govinfo.gov/content/pkg/FR-1998-05-04/pdf/98-11393.pdf
+
+FRA_LERT_2021,Locomotive Emergency Response Training, emergency_training,Federal Railroad Administration,2021,31,https://railroads.dot.gov/sites/fra.dot.gov/files/2021-03/Loco%20Emergency%20Response%20Training-A.pdf
+
+NR_ESG_2025,Emergency Services Guidance Action Cards, access_control,Network Rail / JESIP,2025,12,https://safety.networkrail.co.uk/wp-content/uploads/2025/07/Emergency-Services-Guidance-Action-Cards-Ver-1.0-300626-Combined.pdf
+
+ERA_ERTMSFRS_2007,ERTMS Functional Requirements Specification, control_system,European Railway Agency,2007,98,https://www.era.europa.eu/system/files/2023-01/sos1_index001_-_era_ertms_003204_v500.pdf
+
+ERA_ERTMS033281_2023,Train Detection System Compatibility, signaling,ERA,2023,58,https://www.era.europa.eu/system/files/2023-09/index077_-_ERA_ERTMS_033281_v5.pdf
+
+SCRRA_TRACKMAINT_2020,SCRRA Track Maintenance Manual, maintenance,Southern California Regional Rail Authority (SCRRA),2020,335, https://metrolinktrains.com/globalassets/about/engineering/scrra-track-maintenance-manual-2020-01-27-rev.02---corrected-forms-mowgo04.pdf
+
+JICA_OM_URBAN_RAILWAYS_HB_2023,Operations and Maintenance of Urban Railways Handbook,operational,JICA,2023,31,https://www.jica.go.jp/english/activities/issues/transport/__icsFiles/afieldfile/2025/03/26/handbook_en_01.pdf

@@ -1,0 +1,111 @@
+1.4 Extrication Experiments
+One of the challenges involved in developing this program was the lack of knowledge with respect to the tools and techniques that should be utilized in locomotive rescue operations. In discussions with first responders, one of the most significant topics raised was the lack of technical information regarding the ability of rescue tools to create egress points in the superstructure. The research team asked: Which rescue tools should be used? Where should they be used? What was the easiest point to gain access? Would a hydraulic cutter be able to cut through the cross beams in the roof?
+To provide comprehensive information for the training, these and similar questions needed to be answered. Initially, rescue tool manufacturers and locomotive experts were contacted to obtain information regarding rescue tool capabilities and their potential efficacy on locomotive cabs. Conflicting responses were obtained and as inquires progressed; it became increasingly evident that concrete information was not available. In addition, several concepts, such as the supposed inability of a Halligan bar to break a locomotive windshield, were commonly held but not validated or substantiated. To gain clarity on the subject using empirical information, researchers conducted experiments with rescue tools on actual locomotives.
+For this, QNA conducted structural analysis of locomotive cabs and experiments with rescue tools on locomotives. The locomotives were two older, 1960s GP-35s donated by Pan Am Railways, tested over 2 days at Pan Am's Waterville, Maine, yard. The experiments involved fire rescue personnel and rescue tool manufacturers. Tools ranging from a standard Halligan bar to specialized tools such as hydraulic cutters were tested for effectiveness, speed, and safety. Researchers contacted the four rescue tool manufacturers listed in Table 2. Based on the popularity of the tool and the willingness of the tool manufacturer to participate, AMKUS was selected as a partner for the extrication experiments.
+Table 2: Rescue Tool Manufactures
+Tool Manufacturer
+Halmatro
+Hurst
+Genesis
+AMKUS
+
+First-day experiments involved an upright locomotive, as shown in Figure 2, and exploratory activities to determine the "rescue combination" of tool, technique, and location on the cab that provided the best options for egress. Rescue combinations were judged by the following criteria:
+
+Speed of entry: The time required from when rescue personnel begin the operation until the time they gain access to the cab interior. A highly successful combination will take less than 5 minutes.
+Number of personnel required: The number of individuals required to successfully and safely execute the operation. This includes individuals in supporting roles. The fewer number of personnel required the better.
+Portability: A portable combination is one in which a small number of personnel can carry all of the required equipment by hand to the incident scene. Less portable combinations would require vehicular support.
+Size of egress port: The size of the opening made in the structure. Previous research has indicated that the minimum size of the egress port should be 2 feet by 2 feet. This size allows enough room for a body board to pass through, with additional space for the rescue personnel.
+Risk to victims and rescue personnel: Ideally, no further harm should come to the victims and at the very minimum, the method should be survivable.
+Risk to rescue personnel: This criterion is more difficult to define because all rescue operations present risk and hazards to rescue personnel. However, any rescue combination that presents an obviously unacceptable level of risk to rescue personnel will not be considered as viable.
+
+
+Researchers developed a testing plan with input from fire rescue professionals and rescue tool manufacturers for this first day. The plan covered various tools and egress locations on the locomotive cab. In terms of egress points, the roof, back door (behind the engineer), side windows, and windshield were all considered viable egress locations. The tests listed below provide an overview of the testing plan:
+
+Gain access through roof using reciprocating saw, hydraulic cutter (see Figure 3) and/or hydraulic spreader (see Figure 4).
+Gain access through roof, using K-12 saw.
+Gain access through front windshield using Halligan tool (see Figure 5), pick head ax, circular saw with carbide tip blade.
+Cut out window frame with reciprocating saw, air chisel, and rotary saw.
+Remove gasket around windshield using knife, screwdriver, and hammer.
+Use hydraulic spreader (see Figure 4) to enlarge door opening and remove door.
+Use hydraulic cutter to cut door hinges to remove door (Figure 3).
+Remove side windows with Halligan tool/axe and use hydraulic ram (see Figure 6) to enlarge opening.
+
+
+One the second day of testing, the knowledge gained during day one was utilized to record instructional video for the training. On day two the locomotive was positioned on its side, with the conductor's side down, to simulate a more realistic post-accident position (see Figure 7).
+
+These two GP-35 locomotives represent an older generation of locomotive; their usage was largely restricted to smaller regional railroads or serve as yard pushers. Newer locomotives with stronger build materials and more resistant internal structures are used for mainline travel by Class I railroads. It is important to conduct extrication testing on these locomotive cabs to obtain more comprehensive and realistic information to inform rescue efforts. Unfortunately, researchers were unable to obtain donated, new locomotives in this effort. However, they were able to conduct some initial testing, as outlined in Table 3, on an SD-70 cab shell located at QNA's Fitchburg, Massachusetts, facility. The outcomes and lessons learned in all of the extrication training are discussed in Section 3.
+Table 3: Experiments on SD-70 Cab Shell
+Task # / Task / Description / Tools
+1 / Door Removal / Cut door hinges. / Cutter
+2 / Windshield Access / Attempt to break windshield. / Halligan, Axe
+3 / Roof Opening / Cut roof cross bracing. / Cutter, Spreaders
+4 / Enlarge Side Window / Cut the side paneling on locomotive and enlarge using ram. / Cutter, Ram
+5 / Enlarge Rear Door Opening / Enlarge the opening to allow for backboard removal. / Spreaders, Ram
+
+1.5 Knowledge Base and Learning Requirements
+Three high-level learning objectives were formed at the start of this effort. They are:
+
+Locate and access incident scene: The first responders should be able to locate the incident scene and develop safe and effective strategies to access the incident.
+Access interior of locomotive to rescue personnel: Once gaining access to the incident, the first responders should be able to extricate any trapped crew members from the locomotive.
+Maintain scene safety: The first responders should be well-versed with the hazards present at the incident scene and be able to maintain the safety of themselves, any victims, and the general public.
+
+Based on the research conducted as described in section 1.4 specific learning objectives were developed to address the aforementioned high-level learning objectives. Table 4 lists and relates these specific learning objectives to the high level learning objectives.
+Table 4: Specific Learning Objectives
+Specific Learning Objective / Locate Scene / Rescue Crew / Scene Safety
+Explain the importance of knowing about locomotive accidents and rescue techniques. / X / X / X
+Discuss why preplanning for such incidents is essential. / X / X / X
+Visually classify a locomotive, i.e., passenger, freight, diesel, electric, etc. / / X / X
+Identify the differences between rail locomotives and passenger vehicles. / X / X / X
+Recognize and recall basic rail infrastructure such as switch, main track, siding, etc. / X / / X
+Identify possible points of failure and locations where rail accidents are most likely to occur. / X / / X
+Predict the locations in their territory where locomotive accidents are most likely to occur. / X / /
+Discuss basic locomotive structural components in terms of their location, layouts, and characteristics, such as:
+Engine
+Cab
+Fuel tank
+Electric wiring conduits
+Body construction materials and thicknesses
+Windshield thickness and glazing characteristics / / X / X
+Predict the number of crew and their locations within a locomotive cab based on the type of locomotive. / / X /
+Describe the basics of rail operations and control, e.g., short lines, track classes, etc. / X / /
+Recognize that dispatch/rail right-of-way control authority and the locomotive operator may be different entities. / X / /
+Identify the rail right-of-way owner and operating railroads in their territory. / X / X /
+Locate emergency contact information for and communicate with dispatch and railway officials to determine and/or report incident location and access. / X / X /
+Interpret railroad reference points and railway maps. / X / /
+Demonstrate the ability to gain access to the interior of the locomotive, including:
+Understanding the structure of a locomotive
+Identifying possible access points
+Identifying the difficulties involved in accessing interior of locomotive
+Recalling methods to overcome difficulties
+Analyzing alternatives to determine action plan with likelihood of greatest success
+Selecting the proper tools and methods for gaining access / / X / X
+Demonstrate the ability to extricate and rescue survivors from the interior of the locomotive by applying previous knowledge of extrication and rescue methods to rail rescue operations. / / X /
+Communicate with rail authority to confirm that all rail operations have ceased on right of way. / / / X
+Demonstrate proper flagging techniques and flagger positioning relative to incident scene / / / X
+Identify and avoid sources of potential electric shock hazards such as third rail, electrical catenaries, and electrical conduits. / / / X
+Implement tools or steps required to negate any electrical hazards. / / / X
+Predict and avoid potential scene destabilization hazards, such as mud slides and locomotive destabilization. / / / X
+Assess scene for additional safety hazards such as hazardous materials, spilled fuel, and fire threats. / / / X
+Demonstrate ability to determine when and how control of incident scene will be transitioned to operating railroad or other authorized entity. / / / X
+
+1.6 Locomotive Experiments
+Testing was conducted on two GP-35 locomotives donated by Pan Am Railways (Figure 10). Two fire rescue crews from Waterville Fire Rescue (WFR) participated in the testing. WFR also supplied a tower truck, a rescue Vehicle, and all standard fire rescue tools utilized by firefighters, with the exception of hydraulic tools. AMKUS Rescue Systems supplied hydraulic tools, along with personnel to operate them. The hydraulic tools included a cutter, spreader, push-pull ram, and associated peripherals such as a hydraulic pump, hoses, etc.
+The experiments revealed the following:
+
+The roof provided a viable option of egress. The reciprocating saw, equipped with regular metal cutting blade, could cut through the roof material with relative ease. However, items such as compressed air pipes or support beams slowed down the process. These obstacles also presented potentials hazards, i.e., compressed air or live electricity, so caution must be exercised in cutting through the roof. After several trials and different combinations of tools and techniques, a method was developed that allowed access within 5 minutes. The method is included in the training video. Figures 11–15 below depict this method.
+The K-12 blade was the quickest and easiest way to get through the roof. However, its use is strongly discouraged because when cutting the insulation material inside the cab structure (see Figure 16), the amount of smoke generated would likely not be survivable for the cab occupants. Also, the many sparks produced by the K-12 may ignite any spilled fuel or other flammable materials that may have been released during the accident. The use of a torch or plasma cutter is not recommended for the same reasons.
+The Halligan tool and axe could break through the windshield of the locomotive within 1 minute. This was surprising, as the commonly held belief among railroad professionals is that the FRA Type II locomotive windshields cannot be easily broken.
+Both the reciprocating saw and air chisel could remove the gasket around the windshield. However, the process was slower than breaking through the windshield using a Halligan tool.
+It was possible to remove the gasket holding the windshield in place using a knife, screwdriver, and hammer. Even though the process did not take more than 5 minutes, it was very labor-intensive and required much energy by the rescuer. Again the preferred method was to break through the windshield.
+The hydraulic spreader could enlarge the door opening; however, it was not very adept at removing the door. If the doorway is crushed in an accident, it can be enlarged using the spreader or hydraulic ram.
+The hydraulic cutter could cut through the door hinges very quickly and easily. However, the position of the rescuer to complete this operation may prove to be too hazardous for practical use.
+The side windows were easily removed using the Halligan tool or axe. While the opening produced by the removal of the window panes was sufficient, a hydraulic ram could easily enlarge the opening if needed. Due to the height of the locomotive, the side windows, while easy to remove, may be difficult to reach. This method applies if the locomotive is upright or overturned.
+
+
+1.7 Training Materials
+The final training materials developed include a 2½-hour PowerPoint presentation, entitled Locomotive Emergency Response Training, instructor's notes, and a test. The test can be utilized by fire departments for post-training evaluation if they desire. Three animations and 15 extrication videos were also developed for the PowerPoint presentation. Most firefighters are visual learners, so an effort was made to present as much material as possible in a visual rather than auditory format.
+
+
+Conclusion
+
+While the training program has been systematically developed and is based on empirical and experiential data, its success in educating emergency responders will depend on the subsequent deployment strategy. Without a well-developed and effective deployment strategy, the training impact will fall short of achieving the target. An added challenge is the fact that the content provided in the training is unique and highly specialized, and may be difficult to comprehend without first-hand experience. To properly conduct the training, a trainer (at the fire department level) must be trained by a knowledgeable and properly versed master trainer. The goal of the deployment strategy is to reach as many fire departments as possible in a cost-effective manner while transmitting the information faithfully and comprehensively. This video is a version of the training program.

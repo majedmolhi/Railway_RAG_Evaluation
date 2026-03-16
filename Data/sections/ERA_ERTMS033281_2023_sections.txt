@@ -1,0 +1,970 @@
+ 
+2. SCOPE
+
+Train detection systems, which are part of the Control-Command and Signalling Trackside,
+shall be designed in such a way that they are able to detect a vehicle or consist under the
+conditions specified by the parameters in this specification.
+
+Unless otherwise indicated, the values of the parameters specified in this document apply for
+networks with the following nominal track gauges: 1435 mm, 1520 mm, 1524 mm, 1600 mm,
+and 1668 mm.
+
+If, for a certain parameter, different values apply according to the track gauge, this is explicitly
+indicated in the corresponding section.
+
+Train detection systems which are compliant with the requirements of this interface document
+are called TSI compliant train detection systems.
+
+Any existing train detection system being not compliant with the requirements of this interface
+document is called non-TSI compliant train detection system.
+
+Table 1 – Subsystem involved per parameter:
+
+Parameter                                                          | CCS onboard | Rolling Stock | Energy | Infrastructure | Operation and Traffic Management
+3.1.2.1. Maximum distance between following axles                  | X           | X (train composition)
+3.1.2.2. Minimum distance between following axles                  | X           | X (train composition)
+3.1.2.3. Minimum distance between first and last axle              | X           | X (train composition)
+3.1.2.4. Maximum distance between front/rear end of train and      | X           | X (train composition)
+          first/last axle for trains running exclusively on High
+          Speed lines
+3.1.2.5. Maximum distance between front/rear end of train and      | X           | X (train composition)
+          first/last axle for trains running on other lines
+3.1.3.1. Geometric dimension of the rim width                      |             | X
+3.1.3.2. Minimum wheel diameter                                    |             | X
+3.1.3.3. Geometric dimension of flange thickness                   |             | X
+3.1.3.4. Geometric dimension of the flange height                  |             | X
+3.1.3.5. Metal and inductive component-free space between wheels   |             | X
+3.1.3.6. Wheel material                                            |             | X
+3.1.4.1. Maximum amount of sand                                    |             | X (technical characteristics of sanding devices) | | | X (use of sanding devices)
+3.1.4.2. Sand characteristics                                      |             | X
+3.1.5. On-board flange lubrication                                 |             | X             |        |                | X (activation of lubrication)
+3.1.6. Use of composite brake blocks                               |             | X
+3.1.7. Vehicle axle load and metal construction                    |             | X
+3.1.8. Shunting behaviour and shunting assisting devices           |             |
+3.1.9. Impedance between wheels                                    |             | X             | X
+3.2.1. Electromagnetic fields                                      | X (emissions of Eurobalise antenna) | X
+3.2.2.1. Vehicle impedance                                         | X           | X
+3.2.2.4. to 3.2.2.8. Conducted electromagnetic interference        | X           | X             | X      |                | X (number of trains running in the same power section)
+          limits for traction current
+3.2.3. Use of magnetic/eddy current brakes                         |             | X (technical characteristics of brakes) | | | X (operation of brakes)
+
+Note 1: such devices are not required by CCS TSI, so no impact for subsystems compliant with
+TSIs; specific cases or NNTR exist.
+
+---
+
+3. INTERFACE CHARACTERISTICS
+
+3.1. VEHICLE DESIGN AND OPERATION
+
+3.1.1. Definitions
+
+The values quoted in the following paragraphs are absolute limit values including any
+measurement tolerances.
+
+The term wheelset applies to any pair of opposite wheels, even those not connected by a
+common axle. Except where stated, wheelset assemblies are assumed to have continuous
+wheel centres and not have spoke wheels. Any references to wheel sets concern centre of
+wheels.
+
+If more vehicles are connected in a consist, the characteristics stated in the following part of
+this section 3.1 and related to ai apply to the relevant distance of the axles belonging to each
+vehicle individually, while the characteristics related to bi only apply to the two ends of the
+complete consist.
+
+3.1.2. Axle distances
+
+3.1.2.1. Maximum distance between following axles
+
+Harmonised parameter for 1435 mm, 1600 mm and 1668 mm track gauge:
+The distance ai (Figure 1) shall not exceed 20 000 mm.
+
+Harmonised parameter for 1520 mm and 1524 mm track gauge:
+The distance ai (Figure 1) shall not exceed 19 000 mm.
+
+Explanation:
+Detection zones with a shorter range may be bridged by a vehicle or a consist with a longer
+distance between following axles.
+
+3.1.2.2. Minimum distance between following axles
+
+Harmonised parameter:
+The minimum axle distances (ai) shall be dependent to the speed of the vehicle v [km/h] as
+follows:
+
+Table 2
+Maximum Speed v [km/h]    | Minimum axle distances ai [mm]
+v ≤ 100                   | 720
+100 < v ≤ 300             | v × 7.2
+300 < v ≤ 400             | 2160
+
+Explanation:
+Axle counter systems shall be able to distinguish the detection of an axle by 2 subsequent
+counters with sufficient resolution; otherwise the result will be a count-error.
+
+3.1.2.3. Minimum distance between first and last axle
+
+Harmonised parameter:
+The distance between first and last axle L - (b1 + b2) (Figure 1) shall be at least 3 000 mm.
+
+Explanation:
+The electrical joints between adjacent track circuits may have an area where the detection of
+an axle of a vehicle is not ensured.
+
+3.1.2.4. Maximum distance between front/rear end of train and first/last axle for trains
+running exclusively on High Speed lines
+
+Harmonised parameter:
+The distance bx (Figure 1) shall not exceed 5 000 mm.
+
+Explanation:
+Signalling systems for High Speed lines may have areas where the distance between a
+detected first / last axle and the nose / tail of the train is of relevance. High Speed lines are
+lines with line speeds equal or higher than 250 km/h (traffic code P1).
+
+3.1.2.5. Maximum distance between front/rear end of train and first/last axle for trains
+running on other lines
+
+Harmonised parameter for 1435 mm, 1524 mm, 1600 mm and 1668 mm track gauge:
+The distance bx (Figure 1) shall not exceed 4 200 mm.
+
+Harmonised parameter for 1520 mm track gauge:
+The distance bx (Figure 1) shall not exceed 3 500 mm.
+
+Explanation:
+Signalling systems may have areas where the distance between a detected first / last axle and
+the nose / tail of the train is of relevance.
+
+3.1.3. Wheel geometry
+
+3.1.3.1. Geometric dimension of the rim width
+
+Harmonised parameter:
+The dimension BR + Burr (Figure 2) is (this value is in line with the values specified for
+geometrical characteristics of wheels in "Locomotives and Passenger rolling stock" and in the
+"Freight wagons" TSIs):
+
+Table 3 – Rim width as a function of the wheel diameter D
+Track gauge [mm] | Wheel diameter D [mm]  | Rim width BR + Burr [mm]
+1435             | D ≥ 330                 | 133 to 145
+1520             | 400 ≤ D ≤ 1220          | 130 to 146
+1524             | D ≥ 400                 | 133 to 145
+1600             | 690 ≤ D ≤ 1016          | 137 to 139
+1668             | D ≥ 330                 | 133 to 145
+
+Explanation:
+The detection field of the axle counter is influenced by the wheel passing. The rim width is big
+enough to influence the field sufficiently in order to ensure appropriate detection.
+
+3.1.3.2. Minimum wheel diameter
+
+Harmonised parameter:
+For the maximum speed v, the dimension D (Figure 2) shall be at least:
+
+Table 4
+v [km/h]          | D [mm] Hooped and Massive Wheels | D [mm] Spoke Wheels
+v ≤ 100           | 330                               | 600
+100 < v ≤ 250     | 150 + 1.8 x v                     | 600
+250 < v ≤ 350     | 50 + 2.2 x v                      | 50 + 2.2 x v
+350 < v ≤ 400     | 750 + 0.2 x v                     | 750 + 0.2 x v
+
+The requirements for hooped and massive wheels are mandatory, the requirements for spoke
+wheels are informative.
+
+Explanation:
+The length of the influence of the detection field of the axle counter is related to the wheel
+diameter.
+
+Note: EN13979-1:2020 does not cover spoke wheels. It only covers massive (monoblock) and
+hooped wheels and it can be applied to forged and rolled wheels. For this reason, rolling stock
+equipped with spoke wheels is not compliant with LOC&PAS TSI. The mandatory scope of
+assessment of axle counters only includes hooped and massive wheels.
+
+3.1.3.3. Geometric dimension of flange thickness
+
+Harmonised parameter:
+The dimension Sd (Figure 2) shall be (this value is in line with what specified for geometrical
+characteristics of wheels in "Locomotives and Passenger rolling stock" and in the "Freight
+wagons" TSIs):
+
+Table 5 – Flange thickness as a function of the wheel diameter D
+Track gauge [mm] | Wheel diameter D [mm]  | Flange thickness Sd [mm]
+1435             | 330 ≤ D ≤ 760           | 27.5 to 33
+                 | 760 < D ≤ 840           | 25.0 to 33
+                 | D > 840                 | 22.0 to 33
+1520             | 400 ≤ D ≤ 1220          | 25 to 33
+1524             | 400 ≤ D ≤ 760           | 27.5 to 33
+                 | 760 < D ≤ 840           | 25.0 to 33
+                 | D > 840                 | 22.0 to 33
+1600             | 690 ≤ D ≤ 1016          | 26 to 33
+1668             | 330 ≤ D < 840           | 27.5 to 33
+                 | D ≥ 840                 | 25 to 33
+
+Explanation:
+The detection field of the axle counter is influenced by the wheel which passes. The flange
+thickness has to be big enough to influence the field sufficiently to ensure appropriate
+detection.
+
+3.1.3.4. Geometric dimension of the flange height
+
+Harmonised parameter:
+The dimension Sh (Figure 2) shall be (this value is in line with what specified for geometrical
+characteristics of wheels in "Locomotives and Passenger rolling stock" and in the "Freight
+wagons" TSIs):
+
+Table 6 – Flange height as a function of the wheel diameter D
+Track gauge [mm] | Wheel diameter D [mm]  | Flange height Sh [mm]
+1435             | 330 ≤ D ≤ 630           | 31.5 to 36
+                 | 630 < D ≤ 760           | 29.5 to 36
+                 | D > 760                 | 27.5 to 36
+1520             | 400 ≤ D ≤ 1220          | 28 to 37
+1524             | 400 ≤ D ≤ 630           | 31.5 to 36
+                 | 630 < D ≤ 760           | 29.5 to 36
+                 | D > 760                 | 27.5 to 36
+1600             | 690 ≤ D ≤ 1016          | 28 to 38
+1668             | 330 ≤ D ≤ 630           | 31.5 to 36
+                 | 630 < D ≤ 760           | 29.5 to 36
+                 | D > 760                 | 27.5 to 36
+
+Explanation:
+The detection field of the axle counter is influenced by the wheel which passes. The flange
+height has to be big enough to influence the field sufficiently to ensure appropriate detection.
+
+3.1.3.5. Metal and inductive-components-free space between wheels
+
+Harmonised parameter:
+Only wheels and their parts (gearboxes, brake parts) or non-metallic and non-inductive
+components are permitted to be mounted in the sensitive area of Figure 5.
+
+Sanding pipes of sanding devices and rail guards are allowed to be mounted in a vertical (z-)
+distance ≥30 mm above the top of the rail. For sanding pipes below 40 mm to the top of the
+rail a maximum diameter of 60 mm is allowed.
+
+Other metal parts (e.g. sanding pipe support, heating elements, magnetic track brakes or eddy
+current brakes in rest position) are allowed to be mounted in a vertical distance ≥40 mm above
+the top of the rail. Inside of the shaded area in Figure 5, a metal part with the lateral dimension
+of maximum 130 mm and maximum of 140 mm for magnetic track brakes, based on the
+dimensions of magnetic track brakes defined in EN 16207:2014+A1:2019, is allowed.
+
+For magnetic track brakes or eddy current brakes in rest position, the vertical distance
+requirement (≥40 mm above the top of the rail) shall be met:
+- Taking into account static vertical deflection of the running gear at maximum load
+- With fully allowed wear of the wheel or the maximum wear of the wheel between two
+  readjustments.
+
+For metal parts excluding magnetic track and eddy current brakes the vertical distance
+requirement shall be met:
+- under all operational conditions (running in a curve, over switch, ...)
+- for the maximum allowed wear of the wheel or the maximum wear of the wheel between
+  two re-adjustments
+- for the maximum spring compression of the primary and the secondary vehicle
+  suspensions, considering:
+  a. static load
+  b. additional dynamic stimulation
+  c. tolerances of the stiffness
+- for air springs the totally evacuation of the air-suspension bellow ("emergency
+  suspension").
+
+Requirements on steel springs and rubber springs:
+Locomotive: Spring compression for an overload of 30% of the suspended mass
+Freight wagon: Complete spring compression (till touchdown)
+Passenger wagon, baggage wagon, special freight wagon and train set: Spring compression
+for an overload of 30% of the suspended mass (maximum load).
+
+[Figure 5 reference dimensions:]
+Influencing zone: h = 80 mm, lateral extent: 58 mm (inner) + 130 mm (outer)
+Minimum vertical clearance above top of rail: ≥ 40 mm
+Sensitive area lateral dimensions: a = 250 mm, b = 200 mm
+
+Explanation:
+The principle of axle counters is based on the distortion of an electromagnetic field. The
+distortion should occur only with the passage of the wheel and not with the passage of
+surrounding parts of rolling stock, like other ferromagnetic components or inductive coils.
+
+3.1.3.6. Wheel material
+
+Harmonised parameter:
+The wheels shall have ferromagnetic characteristics and shall be electrically conducting.
+
+Explanation:
+This characteristic is necessary to generate the distortion of the electromagnetic field of axle
+counters, to ensure appropriate detection.
+
+3.1.4. Use of sanding equipment
+
+3.1.4.1. Maximum amount of sand
+
+Harmonised parameter for 1435 mm, 1524 mm, 1600 mm and 1668 mm track gauge:
+In case where an automatic sanding function is provided, it shall be possible for the driver to
+suspend its use.
+
+The maximum amount of sand per rail per sanding device (sand at the rail head) shall be 5,0
+g/m as measures against wheels being not detected (corresponding with 500g/30s at speed =
+12 km/h).
+
+If this value is exceeded at speeds ≤12 km/h then the maximum amount of sand per sanding
+device shall be ≤ 500g/30s.
+
+The number of active sanding devices shall not exceed the following:
+
+1. For multiple units with distributed sanding devices:
+   - with more than 8 wheelsets:
+     in the direction of travel one active sanding device in front of a minimum of 7
+     consecutive wheels without active sanding devices or the maximum amount of sand -
+     regardless of the number of active sanding devices - shall be applied as if there is only
+     one sanding device
+   - with less than 8 wheelsets:
+     in the direction of travel one active sanding device or the maximum amount of sand -
+     regardless of the number of active sanding devices - shall be applied as if there is only
+     one sanding device,
+   - It is permissible to couple such multiple units and to operate all sanding devices at the
+     coupled ends.
+
+2. For loco-hauled trains:
+   a. For braking and for traction: a maximum of 1 active sanding device per bogie per rail
+   b. For locomotives without bogies, this requirement applies to two wheelsets at a time.
+
+Note: The parameters on amount of sand do not apply in case of a coordinated application of
+an adhesion improving product (which may contain sand) on the rail - on specific lines or
+entire infrastructure - by assigned rolling stock vehicles, agreed by the infrastructure
+manager(s) and railway undertaking(s). Requirements in Specific Cases could mandate
+specific amount of sand for certain networks.
+
+Harmonised parameter for 1520 mm track gauge:
+In case where an automatic sanding function is provided, it shall be possible for the driver to
+suspend its use.
+
+The allowed amount of sand per sanding device within 60 s shall be:
+- 1.2 to 1.5 kg for the front wheelsets
+- 0.7 to 1.2 kg for all other wheelsets for passenger and freight locomotives respectively
+
+This parameter shall be taken into account jointly with 3.1.4.2 (Sand Characteristics).
+
+3.1.4.2. Sand characteristics
+
+Harmonised parameter for 1435 mm, 1520 mm, 1524 mm, 1600 mm and 1668 mm track
+gauge:
+The characteristics of sand applied to the tracks shall be:
+- quartz-rich natural sand with a minimum quartz weight of 90%
+- the grain shall be sharp-edged and penetrating and – at the very minimum – irregularly
+  shaped with a rough surface
+- the sand shall not contain more than 2% of other parts such as humic, clay-like or binding
+  components of foreign substances of any kind such as synthetic plastics
+- no pollution material shall be allowed
+- the mineral mixture of sand shall not have any metallic compounds or salt.
+
+Note: The parameters on sand characteristics do not apply in case of a coordinated application
+of an adhesion improving product (which may contain sand) on the rail - on specific lines or
+entire infrastructure - by assigned rolling stock vehicles, agreed by the infrastructure
+manager(s) and the railway undertaker(s). Requirements in Specific Cases could mandate
+specific granularity for the sand for certain networks.
+
+3.1.5. On-board flange lubrication
+
+Harmonised parameter:
+If the vehicle is equipped with flange lubricators, it shall be possible to activate/deactivate
+them.
+
+The lubricant shall be biodegradable and shall be compliant with chapter 4 of EN15427-2-1
+(2022).
+
+Such conditions shall be reported in the operational documentation of the vehicle (type).
+
+3.1.6. Use of composite brake blocks
+
+Harmonised parameter:
+In case composite brake blocks are used, they shall be assessed for effects on the contact
+electrical resistance between wheel and rail.
+
+Note: The composite brake blocks suitable for train detection system based on track circuits
+are those listed in Appendix G of Regulation 321/2013 and those fulfilling the chapter 7 of
+ERA/TD/2013-02/INT. The application of EN 16452:2015+A1:2019 provides presumption of
+conformity to this requirement.
+
+3.1.7. Vehicle axle load and metal construction
+
+3.1.7.1. Vehicle axle load
+
+Harmonised parameter for 1435 mm, 1524 mm, 1600 mm and 1668 mm track gauge:
+The axle load shall be:
+1. at least 3,5 t for vehicles with more than 4 axles and wheel tread brakes,
+2. at least 4 t for vehicles with 4 axles and wheel tread brakes,
+3. at least 5 t for other vehicles (that is, vehicles that do not fall into categories 1 or 2).
+
+In case the minimum axle load is not achieved by the mass of the vehicle in tare condition,
+conditions for use shall be applied to the wagon requiring to operate it always with a minimum
+payload or a ballast (for example with an empty loading device). This shall be reported in the
+Technical file as a condition for use.
+
+Harmonised parameter for 1520 mm track gauge:
+The axle load shall be at least 11 t for all vehicles.
+
+3.1.7.2. Vehicle metal construction
+
+Harmonised parameter for 1435 mm track gauge:
+Compatibility with loops shall be shown by analysis of the vehicle metal construction according
+to the requirements defined in Annex A.1 or by field tests demonstration that the passing
+vehicle creates sufficient change of inductance of trackside loops according Annex A.2.
+
+Harmonised parameter for 1520 mm, 1524 mm, 1600 mm and 1668 mm track gauge:
+No requirement on vehicle metal construction exists.
+
+3.1.8. Shunting behaviour and shunting assisting devices
+
+Harmonised parameter for 1435 mm, 1524 mm, 1600 mm and 1668 mm track gauge:
+The use of shunting assisting devices is not required.
+
+Harmonised parameter for 1520 mm track gauge:
+The use of shunting assisting devices is required if the axle load is less than 11 t.
+
+Note: Specific Cases could mandate requirements for demonstrating the shunting behaviour
+and/or improving the shunting behaviour between wheel and rail for certain networks.
+
+3.1.9. Impedance between wheels
+
+Harmonised parameter:
+The electrical resistance between the running surfaces of the opposite wheels of a wheelset
+shall not exceed 0.05 Ohm, measured by a voltage between 1.8 VDC and 2.0 VDC (open
+circuit).
+
+Remark: operational rules may apply to ensure that a sufficiently low value of the contact
+resistance is maintained during service: see 3.1.4 (Use of sanding equipment), 3.1.5 (On
+board flange lubrication) and 3.1.6 (Use of composite brake blocks).
+
+
+3.2. Electromagnetic compatibility
+
+The requirements defined in chapter 3.2 are per Influencing Unit.
+
+The Influencing Unit covers the complete train composition (traction units + wagons/coaches)
+producing maximum interference (current, magnetic field). The maximum interference of
+combinations of traction units including coaches and freight wagons, traction subsystems and
+auxiliary systems can be assessed by using summation rules.
+
+3.2.1. Electromagnetic fields
+
+3.2.1.1. Frequency management
+
+The compatibility requirements specified in this section shall apply for 1435 mm, 1600 mm,
+1520 mm, 1524 mm and 1668 mm track gauge network.
+
+The frequency management defines three frequency bands:
+1. 27 kHz – 52 kHz for band 1
+2. 234 kHz – 363 kHz for band 2
+3. 740 kHz – 1250 kHz for band 3
+
+3.2.1.2. Vehicle emission limits and evaluation parameters
+
+For in-band evaluation with band-pass filters a 20 % overlap of the 3 dB-bandwidth and a
+time overlapping of 75 % shall be required.
+
+Compatibility with in-band limits can also be demonstrated by broadband evaluation using
+Fast Fourier Transformation with Hanning window, 75% of time overlapping and time windows
+of 1 ms for Band 1 and 0.5 ms for Band 2 and Band 3.
+
+Table 7 – Vehicle magnetic field emission limits and evaluation parameters:
+
+Band            | Frequency range     | Emission limit X Axis [dBμA/m] (RMS) | Emission limit Y Axis [dBμA/m] (RMS) | Emission limit Z Axis [dBμA/m] (RMS) | Evaluation method** | Filter order (Butterworth) and 3dB bandwidth | Evaluation parameters
+Out of band     | 10 to 27 kHz        | straight line from 135 to 130 in dB/log(f) | straight line from 135 to 130 in dB/log(f) | straight line from 135 to 130 in dB/log(f) | FFT | — | Record time 1 ms, Hanning window, 50% overlap, max hold
+Band 1          | 27 to 41.2 and 44.8 to 52 kHz | 93 | 93 | 98 | BP | 4th order, 300 Hz | 20% overlap (3dB points), integration time: 1ms
+Band 1          | 41.2 to 44.8 kHz    | 93 | 83*/90* | 98 | BP | 4th order, 320 Hz | 20% overlap (3dB points), integration time: 1ms
+Out of band     | 52 to 234 kHz       | 130 | 130 | 130 | FFT | — | Record time 1ms, Hanning window, 50% overlap, max hold
+Band 2          | 234 to 287 kHz      | 120 | 99 | 100 | BP | 4th order; 7500 Hz | 20% overlap (3dB points), integration time: 1.5 ms
+Band 2          | 287 to 363 kHz      | 109 | 99 | 91 | BP | 4th order; 7500 Hz | 20% overlap (3dB points), integration time 1.5 ms
+Band 2          | 287 to 363 kHz      | — | — | 87 | BP | 4th order; 4000 Hz | 20% overlap (3dB points), integration time: 1.5 ms
+Out of band     | 363 to 740 kHz      | 125 | 125 | 125 | FFT | — | record time 1ms, Hanning window, 50% overlap, max hold
+Band 3          | 740 to 1026 kHz     | 106 | 85 | 101 | BP | 4th order; 10 kHz | 20% overlap (3dB points), integration time: 1.5 ms
+Band 3          | 1026 to 1250 kHz    | 119 | 113 | 113 | BP | 4th order; 10 kHz | 20% overlap (3dB points), integration time 1.5 ms
+
+* 90 dBµA/m for emissions under the train, defined by the distance between the middle of
+the first and the last axle of the train + 0.5m on both sides, independently of the radius of
+the wheels.
+83 dBµA/m for emissions measured before the first axle and after the last axle of the train
+has passed over the measurement sensor.
+
+** FFT= Fast Fourier Transformation; BP= Band-pass Filtering.
+
+The uncertainty of the whole measurement chain shall be no more than +/- 3 dB of the
+defined magnetic field limit.
+
+3.2.1.3. Evaluation of exceedances of limits defined in Table 7
+
+In case there are exceedances of the limits specified in Table 7 shorter than the integration
+time and the Minimum time interval between two exceedances is greater than the integration
+time Tint specified in Table 7, further evaluation can be done using shorter integration time as
+defined in Table 8.
+
+Table 8 – Increasing of magnetic field limits for reduced integration times:
+
+Frequency range  | Field direction | Increasing of magnetic field limits for a reduced integration time of 0,5 x Tint [dB] | Increasing of magnetic field limits for a reduced integration time of 0,25 x Tint [dB]
+27 to 52 kHz     | X               | 2  | 6
+27 to 52 kHz     | Y, Z            | 6  | 12
+234 to 287 kHz   | X, Y, Z         | 6  | 12
+287 to 363 kHz   | X, Y, Z         | 3  | 6
+740 to 1026 kHz  | X, Y, Z         | 6  | 12
+1026 to 1260 kHz | X, Y, Z         | 0  | 0
+
+3.2.1.4. Measurement, test and evaluation specification
+
+The magnetic field limits specified in table 7 and additional table 8 shall be measured using
+the antennas defined below (figure 10).
+
+A rectangular 3-dimensional magnetic loop antenna with a common centre point with the
+following geometrical dimensions shall be used:
+1. 5 cm x 5 cm (X-direction)
+2. 5 cm x 15 cm (Y- and Z- direction). The longest arm is always in X-direction.
+
+The following table shall be used to define the mounting position of the measurement
+antennas MA for the frequency range considered.
+
+Table 9 – Measurement antenna centre position:
+
+                                    | Y1 (tolerances) [mm] | Z1 (tolerances) [mm]
+MA centre position (10 kHz to 1.3 MHz) | 96 (-3; +3)       | 73 (-5; +5)
+
+EN 50592:2016 provides presumption of conformity to this requirement.
+
+3.2.2. Conducted interference
+
+The compatibility requirements specified in the following section shall apply for 1435 mm,
+1600 mm, 1520 mm, 1524 mm and 1668 mm track gauge network.
+
+3.2.2.1. Vehicle impedance
+
+For AC systems the absolute value of the minimum input impedance (|Z|) of the influencing
+unit shall be as follows:
+
+Table 10 – Minimum input impedance for AC systems:
+
+Applicable for Track Circuit Bands with frequency f | Supply voltage | Impedance |Z(f)|
+f ≤ 300 Hz                                          | 15 kV AC       | 7 mH * 2πf
+f ≤ 300 Hz                                          | 25 kV AC       | 10 mH * 2πf
+
+The input impedance of the influencing unit is defined by the input impedance of the main
+transformer alone as a passive component (e.g all traction and auxiliary windings of main
+transformers in short circuit, excluding secondary filter windings) or the input impedance of
+the passive input filter for architectures without a passive transformer (e.g. multi-level
+converter).
+
+If the input impedance based on passive components is not sufficient to meet the impedance
+requirements, the verification can be done including active control for increasing the input
+impedance.
+
+For AC systems the maximum input capacitance (Cin), including roof cables and parasitic
+input capacitances of transformers, between pantograph and wheels of the influencing unit
+shall be as follows:
+
+Table 11 – Maximum input capacitance for AC systems:
+
+Applicable for Track Circuit Bands with frequency f         | Supply voltage | Cin
+4.5 kHz ≤ f ≤ 6.5 kHz and 9 kHz ≤ f ≤ 17 kHz              | 15 kV AC       | 200 nF
+1.5 kHz ≤ f ≤ 17 kHz                                        | 25 kV AC       | 200 nF
+
+Resulting capacitances of damping devices shall not be included.
+
+For DC systems, the minimum input impedance Z = |Z|e^jα for an Influencing Unit shall be:
+
+Table 12 – Minimum input impedance for DC systems:
+
+                         | 1500 V DC                              | 3000 V DC
+1.5 kHz ≤ f ≤ 3 kHz     | |Z(f)| = 10 Ω * f [kHz] / 1.8 kHz     | |Z(f)| = 20 Ω * f [kHz] / 1.8 kHz
+                         | Phase: 0 ≤ α ≤ 90°                    | Phase: 0 ≤ α ≤ 90°
+
+Note: For frequencies above 3kHz, values for minimum impedance are not yet defined.
+
+For DC the input impedance of the influencing unit is defined by the input impedance of the
+passive input filter.
+
+If the input impedance based on passive components is not sufficient to meet the impedance
+requirements, the verification can be done including active control for increasing the input
+impedance.
+
+3.2.2.2. Intentionally deleted
+
+3.2.2.3. Traction current at fundamental power supply frequency
+
+There is no need for harmonised requirements related to train detection.
+
+---
+
+3.2.2.4. 25 kV AC, 50 Hz Electromagnetic interference limits for traction current
+
+Table 13 – 25 kV AC, 50 Hz interference current limits and evaluation parameters:
+
+Band | Frequency range         | Interference current limit [rms value] | Evaluation method | Evaluation parameters
+A1   | 70.5 – 79.5 Hz          | 1,9 A    | Band-Pass Filter | BP filter: Centre frequencies: 73, 75, 77 Hz; 3dB-Bandwidth: 5 Hz; Butterworth, order 2*4; RMS integration time: 0.5 s; Time overlap: min. 75%; Max time of exceedance: 1s; Min time between two exceedances: 2s
+A2   | 205.5 – 245.4 Hz        | 4 A      | Band-Pass Filter | BP filter: Centre frequencies: 208.75, 225.45, 242.15 Hz; 3dB-Bandwidth: 6,5 Hz; Butterworth, 6th order (2 x 3rd order); RMS integration time: 0,5s; Time overlap: min. 50%; Max time of exceedance: 0,2s; Min time between two exceedances: 2s
+A3   | 270.5 – 279.5 Hz        | 1,9 A    | Band-Pass Filter | BP filter: Centre frequencies: 273, 275, 277 Hz; 3dB-Bandwidth: 5 Hz; Butterworth, order 2*4; RMS integration time: 0.5 s; Time overlap: min. 75%; Max time of exceedance: 1s; Min time between two exceedances: 2s
+A4   | 1500 – 3200 Hz          | 0,3 A (except in bands (30+n)x50±5 Hz (n=1,3,5,…,33) where limit is 3 A) | FFT | Time window 1s, Hanning window, min. 80% overlap; Max time of exceedance: 0.3s
+A5   | 1900 – 2700 Hz          | 2,2 A    | Band-Pass Filter | BP filter: Centre frequencies: 2100, 2500 Hz; 3dB-Bandwidth: 400 Hz; Chebyshev, BP ripple 0.01dB, 10th order (2 x 5th order); RMS integration time: 1s; Time overlap: min. 90%; Max time of exceedance: 1s; Min time between two exceedances: 1,5s
+A6   | 2700 – 5100 Hz          | 1,5 A    | Band-Pass Filter | BP filter: Centre frequencies: 2900, 3300, 3700, 4100, 4500, 4900 Hz; 3dB-Bandwidth: 400 Hz; Chebyshev, BP ripple 0.01dB, 10th order (2 x 5th order); RMS integration time: 1s; Time overlap: min. 90%; Max time of exceedance: 1s; Min time between two exceedances: 1,5s
+A7   | 3450 – 7550 Hz          | 1,5 A    | Band-Pass Filter | BP filter: Centre frequencies: 3750, 4250, 4750, 5250, 5750, 6250, 6750, 7250 Hz; 3dB-Bandwidth: 600 Hz; Chebyshev, BP ripple 0.01dB, 10th order (2 x 5th order); RMS integration time: 1s; Time overlap: min. 90%; Max time of exceedance: 1s; Min time between two exceedances: 1,5s
+A8   | 4650 – 6360 Hz          | 1 A      | Band-Pass Filter | BP filter: Centre frequencies: 4750, 5250, 5750, 6250 Hz; 3dB-Bandwidths: 200, 206, 214, 220 Hz; Butterworth, 6th order (2 x 3rd order); RMS integration time: 40ms; Time overlap: min. 50%; Max time of exceedance: 40ms; Min time between two exceedances: 80ms
+A9   | 9436 – 9564 Hz          | 0,3 A    | FFT | Time window 1s, Hanning window, min. 80% overlap; Max time of exceedance: 0.3s
+A10  | 9200 – 16800 Hz         | 0,5 A    | Band-Pass Filter | BP filter: Centre frequencies: 9500, 10500, 11500, 12500, 13500, 14500, 15500, 16500 Hz; 3dB-Bandwidth: 600 Hz; Chebyshev, BP ripple 0.01dB, 10th order (2 x 5th order); RMS integration time: 1s; Time overlap: min. 90%; Max time of exceedance: 1s; Min time between two exceedances: 1,5s
+A11  | 9320 – 16755 Hz         | 0,33 A   | Band-Pass Filter | BP filter: Centre frequencies: 9500, 10500, 11500, 12500, 13500, 14500, 15500, 16500 Hz; 3dB-Bandwidths: 360, 380, 400, 425, 445, 470, 490, 510 Hz; Butterworth, 6th order (2 x 3rd order); RMS integration time: 40ms; Time overlap: min. 50%; Max time of exceedance: 40ms; Min time between two exceedances: 80ms
+
+The contribution of substations is included in the margin taken into account in the limits of
+frequency management.
+
+3.2.2.5. 15 kV AC, 16,7 Hz Electromagnetic interference limits for traction current
+
+Table 14 – 15 kV AC, 16,7 Hz interference current limits and evaluation parameters:
+
+Band | Frequency range         | Interference current limit [rms value] | Evaluation method | Evaluation parameters
+B1   | 205.5 – 245.4 Hz        | 4 A      | Band-Pass Filter | BP filter: Centre frequencies: 208.75, 225.45, 242.15 Hz; 3dB-Bandwidth: 6,5 Hz; Butterworth, 6th order (2 x 3rd order); RMS integration time: 0,5s; Time overlap: min. 50%; Max time of exceedance: 0,2s; Min time between two exceedances: 2s
+B2   | 4650 – 6360 Hz          | 1 A      | Band-Pass Filter | BP filter: Centre frequencies: 4750, 5250, 5750, 6250 Hz; 3dB-Bandwidths: 200, 206, 214, 220 Hz; Butterworth, 6th order (2 x 3rd order); RMS integration time: 40ms; Time overlap: min. 50%; Max time of exceedance: 40ms; Min time between two exceedances: 80ms
+B3   | 9320 – 16755 Hz         | 0,33 A   | Band-Pass Filter | BP filter: Centre frequencies: 9500, 10500, 11500, 12500, 13500, 14500, 15500, 16500 Hz; 3dB-Bandwidths: 360, 380, 400, 425, 445, 470, 490, 510 Hz; Butterworth, 6th order (2 x 3rd order); RMS integration time: 40ms; Time overlap: min. 50%; Max time of exceedance: 40ms; Min time between two exceedances: 80ms
+
+The contribution of substations is included in the margin taken into account in the limits of
+frequency management.
+
+3.2.2.6. DC (3kV, 1.5kV) Electromagnetic interference limits for traction current
+
+Table 15 – DC interference current limits and evaluation parameters:
+
+Band | Frequency range         | Interference current limit [rms value] | Evaluation method | Evaluation parameters
+C1   | 70.5 – 79.5 Hz          | 1,9 A    | Band-Pass Filter | BP filter: Centre frequencies: 73, 75, 77 Hz; 3dB-Bandwidth: 5 Hz; Butterworth, order 2*4; RMS integration time: 0.5 s; Time overlap: min 75%; Max time of exceedance: 1s; Min time between two exceedances: 2s
+C2   | 205.5 – 245.4 Hz        | 4 A      | Band-Pass Filter | BP filter: Centre frequencies: 208.75, 225.45, 242.15 Hz; 3dB-Bandwidth: 6,5 Hz; Butterworth, 6th order (2 x 3rd order); RMS integration time: 0,5s; Time overlap: min. 50%; Max time of exceedance: 0,2s; Min time between two exceedances: 2s
+C3   | 270.5 – 279.5 Hz        | 1,9 A    | Band-Pass Filter | BP filter: Centre frequencies: 273, 275, 277 Hz; 3dB-Bandwidth: 5 Hz; Butterworth, order 2*4; RMS integration time: 0.5 s; Time overlap: min. 75%; Max time of exceedance: 1s; Min time between two exceedances: 2s
+C4   | 1500 – 2700 Hz          | 0,3 A (except in bands 6xnx50±55 Hz (n=5,6,7,8,9) where limit is 3 A) | FFT | Time window 1s, Hanning window, min. 80% overlap; Max time of exceedance: 0.3s
+C5   | 1900 – 2700 Hz          | 2,2 A    | Band-Pass Filter | BP filter: Centre frequencies: 2100, 2500 Hz; 3dB-Bandwidth: 400 Hz; BP ripple 0.01dB, 10th order (2 x 5th order); RMS integration time: 1s; Time overlap: min. 90%; Max time of exceedance: 1s; Min time between two exceedances: 1,5s
+C6   | 2700 – 5100 Hz          | 1,5 A    | Band-Pass Filter | BP filter: Centre frequencies: 2900, 3300, 3700, 4100, 4500, 4900 Hz; 3dB-Bandwidth: 400 Hz; Chebyshev, BP ripple 0.01dB, 10th order (2 x 5th order); RMS integration time: 1s; Time overlap: min. 90%; Max time of exceedance: 1s; Min time between two exceedances: 1,5s
+C7   | 3450 – 7550 Hz          | 1,5 A    | Band-Pass Filter | BP filter: Centre frequencies: 3750, 4250, 4750, 5250, 5750, 6250, 6750, 7250 Hz; 3dB-Bandwidth: 600 Hz; Chebyshev, BP ripple 0.01dB, 10th order (2 x 5th order); RMS integration time: 1s; Time overlap: min. 90%; Max time of exceedance: 1s; Min time between two exceedances: 1,5s
+C8   | 4650 – 6360 Hz          | 1 A      | Band-Pass Filter | BP filter: Centre frequencies: 4750, 5250, 5750, 6250 Hz; 3dB-Bandwidths: 200, 206, 214, 220 Hz; Butterworth, 6th order (2 x 3rd order); RMS integration time: 40ms; Time overlap: min. 50%; Max time of exceedance: 40ms; Min time between two exceedances: 80ms
+C9   | 9436 – 9564 Hz          | 0,3 A    | FFT | Time window 1s, Hanning window, min. 80% overlap; Max time of exceedance: 0.3s
+C10  | 9200 – 16800 Hz         | 0,5 A    | Band-Pass Filter | BP filter: Centre frequencies: 9500, 10500, 11500, 12500, 13500, 14500, 15500, 16500 Hz; 3dB-Bandwidth: 600 Hz; Chebyshev, BP ripple 0.01dB, 10th order (2 x 5th order); RMS integration time: 1s; Time overlap: min. 90%; Max time of exceedance: 1s; Min time between two exceedances: 1,5s
+C11  | 9320 – 19755 Hz         | 0,33 A   | Band-Pass Filter | BP filter: Centre frequencies: 9500, 10500, 11500, 12500, 13500, 14500, 15500, 16500, 17500, 18500, 19500 Hz; 3dB-Bandwidths: 360, 380, 400, 425, 445, 470, 490, 510, 510, 510, 510 Hz; Butterworth, 6th order (2 x 3rd order); RMS integration time: 40ms; Time overlap: min. 50%; Max time of exceedance: 40ms; Min time between two exceedances: 80ms
+
+3.2.2.7. Measurement, test and evaluation specification
+
+Compliance of rolling stock with the frequency management for track circuits shall be
+demonstrated by measurements on a suitable infrastructure and for all relevant rolling stock
+configurations and operation points. Such measurements are required once per power supply
+system. Parameters for evaluation are defined in 3.2.2.4, 3.2.2.5 and 3.2.2.6. During
+evaluation, especially summation of sources and influence of power supply resonances shall
+be taken into account properly.
+
+Note: EN 50728, once it is published, will provide presumption of conformity to this
+requirement.
+
+3.2.2.8. Partial Application of the Frequency Management for vehicles
+
+It is permissible that vehicles are only partly compliant to the Frequency Management as
+specified in sections 3.2.2.1 to 3.2.2.6. The Notified Body shall provide the information in
+the technical file referenced in the certificate of verification, to which frequency bands the
+vehicle is compliant including the conditions of use and restrictions.
+
+The vehicle shall be compliant with the bands published on the ERA webpage for the area of
+the use of the vehicle. If no specific bands are published for a network within a Member State,
+the vehicle shall be compliant with all bands, if the area of use of the vehicle includes such
+network.
+
+Note: The vehicle can be a part of the influencing unit, to which the requirements in sections
+3.2.2.1 to 3.2.2.6 apply. In this case, conditions of use for the vehicle need to be specified.
+
+
+3.2.3. Use of magnetic / eddy current brakes
+
+Harmonised parameter:
+If the vehicle is equipped with magnetic or eddy current brakes, it shall be possible to
+activate and deactivate them.
+
+3.3. Design of train detection systems
+
+3.3.1. Wrong Side Failures
+
+Dealing with wrong side failures is part of the safety verification of the train detection system
+and is not an evaluation criterion for the vehicle-infrastructure interface addressed in this
+document.
+
+Explanation:
+If vehicles meet all requirements as defined in chapters 3.1 and 3.2, interoperability of the
+railway system is assured, which is the aim of this document.
+
+Safety against harmful interferences is guaranteed by intrinsic properties of the train
+detection systems which are out of scope of the interface document.
+
+4. CONFORMITY ASSESSMENT
+
+For the different kinds of train detection systems, the following parameters shall be assessed
+either for the IC (Interoperability Constituent) certification or at subsystem level:
+
+Table 16 – Conformity assessment allocation per train detection system:
+
+Train Detection System | Parameters | Relevant for IC certification | Relevant for application engineering (assessed at subsystem level)
+
+Axle counters:
+3.1.2.1. Maximum distance between following axles                           | X (**) | X (*)
+3.1.2.2. Minimum distance between following axles                           | X      |
+3.1.2.3. Minimum distance between first and last axle                       | X      |
+3.1.2.4. Maximum distance between front/rear end of train and first/last    | X (**) | X (*)
+          axle for trains running exclusively on High Speed lines
+3.1.2.5. Maximum distance between front/rear end of train and first/last    | X (**) | X (*)
+          axle for trains running on other lines
+3.1.3.1. Geometric dimension of the rim width                               | X      |
+3.1.3.2. Minimum wheel diameter                                             | X (***) | X (***)
+3.1.3.3. Geometric dimension of flange thickness                            | X      |
+3.1.3.4. Geometric dimension of the flange height                           | X      |
+3.1.3.5. Metal and inductive components-free space between wheels           | X      |
+3.1.3.6. Wheel material                                                     | X      |
+3.2.1. Electromagnetic fields                                               | X      |
+
+Track Circuits:
+3.1.2.1. Maximum distance between following axles                           |        | X (*)
+3.1.2.3. Minimum distance between first and last axle                       |        | X (*) (**)
+3.1.2.4. Maximum distance between front/rear end of train and first/last    |        | X (*)
+          axle for trains running exclusively on High Speed lines
+3.1.2.5. Maximum distance between front/rear end of train and first/last    |        | X (*)
+          axle for trains running on other lines
+3.2.2. Conducted Interference                                               |        | X (*)
+
+Loops (LX):
+Check if the system does not impose any additional requirements at vehicle side as those
+specified in chapter 3.1.7.2 in the interface document | Assessed at subsystem level
+
+Other train detection systems:
+Check if the system does not impose any additional requirements at vehicle side as those
+specified in the interface document (3.1/3.2) | Assessed at subsystem level
+
+The parameters which are not listed above, are not relevant for the conformity assessment of
+the trackside train detection system.
+
+Train detection systems, which are part of the Control-Command and Signalling Trackside,
+shall be designed in such a way that they are able to detect a vehicle or consist under the
+conditions specified by the parameters in this specification (see scope).
+
+The applicant shall demonstrate that the train detection system is implemented in a way that
+interoperability is guaranteed.
+
+This shall be done by applying one of the modules specified in the TSI CCS chapter 6.3.2.2.
+All modules for 'EC' Verification require evidence on (and assessment of) design and
+implementation.
+
+Independently from the chosen module, the applicant for the trackside subsystem shall provide
+evidence for assessment.
+
+(*) The assessment of axle counters or track circuits at subsystem level bases on the following
+evidence provided by the applicant for subsystem assessment:
+
+1) Design evidence on:
+   a. the detection of vehicles with a maximum axle distance (see 3.1.2.1) by axle counters
+      or track circuits integrated in the infrastructure (possible information may be the distance
+      between those axle counters/track circuits) which define the begin and the end of a
+      signalling section)
+   b. the detection of vehicles with a minimum axle distance between first and last axle (L -
+      (b1 + b2, see 3.1.2.3) by track circuits integrated in the infrastructure (possible
+      information may be the distance of the electrical joints between adjacent track circuits)
+   c. the detection of vehicles with a maximum distance between the first/last axle and the
+      nose/tail of the vehicle (see 3.1.2.4 and 3.1.2.5) in relation to relevant infrastructure
+      side points by axle counters or track circuits integrated in the infrastructure (possible
+      information may be the distance between relevant infrastructure side point and axle
+      counter/track circuit). Information about the relevant infrastructure side points shall be
+      provided by the applicant.
+
+Note: The applicant may deviate from the distances relating on a), b) and c) if it can be
+demonstrated that this will not have a negative impact on safety and interoperability of a
+vehicle defined according 3.1.2.1, 3.1.2.3, 3.1.2.4 or 3.1.2.5.
+
+2) Implementation evidence on / results of tests / on-site measurements on:
+   a. the proof that the conditions and limits of use (including installation rules) of track
+      circuits or the IC axle counter have been fulfilled
+   b. the proof that the track circuits or IC axle counters have been installed according to
+      the requirements and criteria defined in 1) - design evidence.
+
+Note: The applicant may deviate from the distances mentioned in 1) a), b) and c) if it can be
+demonstrated that this will not have a negative impact on safety and interoperability of the
+vehicle defined in 3.1.2.1, 3.1.2.3, 3.1.2.4 or 3.1.2.5.
+
+(**) At IC level, it shall be checked that the installation documentation (e.g. manuals,
+installation procedures) shall take into account this requirement.
+
+(***) The axle counter shall meet the speed requirements respect to the maximum line speed
+where it is installed.
+
+A condition for use in the certificate of conformity shall indicate the maximum speed for which
+the axle counter is validated.
+
+
+4.1. Interoperability Constituent Axle Counter
+
+The EC declaration of conformity for axle counter products shall cover all parameters
+applicable for IC certification of axle counters (see Table 16).
+
+For the frequency management defined in chapter 3.2.1 for the immunity level of axle counter
+(magnetic field), a margin of at least +9dB inband and +3dB outband shall be observed.
+
+If the architecture of the axle counter product does not allow the declaration of conformity for
+all parameters applicable for axle counters, the EC declaration for conformity shall explicitly
+mention these parameters. These parameters have to be checked at subsystem level according
+to chapter 6.3 of the CCS TSI.
+
+
+5. Non TSI Compliant Train Detection Systems
+
+5.1. Technical characteristics of non TSI compliant train detection systems
+
+Harmonised parameter:
+The requirements to ensure compatibility of vehicles with non TSI compliant train detection
+systems are either specified as Specific Cases in TSI CCS or specified in an ERA technical
+document, with the structure and format as specified in Annex B.1.
+
+5.2. Compliance with non TSI compliant train detection systems
+
+Harmonised Parameter:
+Compatibility of a vehicle with non TSI compliant train detection systems is based on
+compliance with the requirements of technical documents as specified in section 5.1 or with
+specific cases.
+
+The Notified Body of the assessment of the rolling stock subsystem shall include in his
+technical file the information about the technical documents and specific cases for which
+compliance was positively checked.
+
+6. ANNEX A.1 Vehicle metal construction – requirements on the construction
+
+The parameter is respected when the design of the vehicle is such that at least one of the
+conditions 1, 2 or 3 is fulfilled in section (a) and section (b) and condition 4 (or alternatively
+at least one of the conditions 1, 2 or 3) is fulfilled in the sections of bogies or single wheel
+sets (in case of vehicles without bogies):
+
+1. The distance (c) between rail level and vehicle floor (bottom side) is less than 1.06 m
+   and the vehicle has a metal floor over its full length (excluding the coupling systems)
+   with a minimum width of 2 m and with a conductivity greater than 1 m/(Ω mm2).
+
+2. The vehicle has constructive structures at least inside section (a) and (b) consisting of
+   longitudinal frame beams symmetrically on both sides with a minimum distance (e) of
+   1.0 m. These are electrically connected with conducting cross connections in a distance
+   (d) less than or equal to 3 m to form short circuit rings (electrically conducting loops) as
+   illustrated in Figure A1.1B, showing an example for section (a). The electrical DC
+   resistance of the resulting short circuit rings is lower than 1 Ω.
+   The distance (o) between adjacent short circuit rings does not exceed 3 m. The distance
+   (p) between a short circuit ring and an adjacent wheel set of a bogie does not exceed 3
+   m, the distance to a single wheel set does not exceed 1.5 m.
+   The distance between rail level and short circuit rings on the bottom side of vehicle floor
+   is less than 1.06 m.
+
+3. The vehicle has electrically conducting constituents (X) mounted below the floor at least
+   inside section (a) and (b). These are electrically connected to form short circuit rings
+   (electrically conducting loops) as illustrated in Figure A1.1C, showing an example for
+   section (a). The dimensions of the constituents fulfil at least one of the following
+   conditions:
+   a) minimum width (g) of 2 m and minimum longitudinal length (f) of 1 m,
+   b) minimum width (h) of 1 m and minimum longitudinal length (f) of 1 m on both long
+      sides of the vehicle.
+   The electrical connection is done in a way that short circuit rings with a length (k) equal
+   or more than 2.5 m but less or equal than 3 m and a minimum width (i) of 2 m result.
+   The conductivity of the conducting constituents is greater than 1 m/(Ω mm2). The
+   electrical DC resistance of the resulting short circuit rings is lower than 1 Ω.
+   The distance (o) between adjacent short circuit rings does not exceed 3 m. The distance
+   (p) between a short circuit ring and an adjacent wheel set of a bogie does not exceed 3
+   m, the distance to a single wheel set does not exceed 1.5 m.
+   The distance between rail level and short circuit rings on the bottom side of vehicle floor
+   is less than 1.06 m.
+
+4. Bogies consist of metal parts with a conductivity greater than 1 m/(Ω mm2).
+   Constructive supporting metal parts of a bogie frame are electrically connected with an
+   electrical DC resistance lower than 1 Ω. The distance between rail level and the bottom
+   side of the bogie frame is less than 1.06 m.
+   Alternatively, if these requirements are not fulfilled at least condition 1, 2 or 3 shall be
+   fulfilled in the section of the bogie.
+
+7. ANNEX A.2 Verification of Vehicle metal construction - Change of inductivity of
+trackside loops
+
+Alternatively to the method defined in Annex A.1 compatibility of a vehicle with loops can be
+shown by the measurement and evaluation of the change of the inductivity of a reference loop
+by passing of the vehicle (the definitions below are related on loops, used for level crossing
+with a track gauge of 1435mm).
+
+Measurement arrangement:
+- The reference loop is installed in the form of an "8" (see Figure A.2.1)
+- The loop is formed by an insulated copper cable 3 * 1,5 mm2 (like H07RN-F) and is
+  located at the rail base between the running rails above the sleepers (wood or concrete
+  sleepers, no steel sleepers). The distance of the cable from the rail shall be 10 – 20mm
+  (see Figure A.2.2).
+- The reference loop shall have three turns (windings) including a connection wire of 3,5 m.
+- The length of a half-loop is 3.0m +0m/-0.05m
+- The distance between both half-loops is 0.1m ± 0,05 m at the middle of the loop
+  (see Figure A.2.1)
+
+Measurement process:
+- The passing vehicle is electrically passive while passing the reference loop. All electrical
+  equipment/consumers are – as far as possible - switched off.
+- The running speed of the vehicle is less than 30 km/h while passing the reference loop
+  (based on the required detection period, defined below)
+- Tests shall be carried out twice in both running directions. Tests with the vehicle and
+  without the vehicle shall be carried out in short time distance.
+
+Measurement and evaluation:
+- The inductivity of the reference loop shall be measured with the passing vehicle and
+  without the vehicle; The relevant parameter is the relative reduction of the inductivity of
+  the loop defined by (L0 – L) / L0 in percent, when the vehicle runs over the loop, where:
+  o L0: is the inductivity of the loop without vehicle and
+  o L:  is the inductivity of the loop with vehicle.
+- The inductivity shall be measured:
+  o without the vehicle and
+  o while the vehicle is passing over the loop.
+- It is sufficient to perform the measurement at a frequency of 60 kHz only (measurements
+  done at 60 kHz are valid for loops working in frequency ranges from 20 kHz up to 110
+  kHz).
+- The determination of the relative inductivity change shall have an accuracy of 0.1%
+  (concerning only the results of the delta measurement).
+- Measurement window (detection period) shall be maximum 10ms (overlap 50%)
+- The relative reduction of inductivity of the loop shall be:
+  a) equal or greater than 3.5 % at the beginning of the vehicle (when the first axle is more
+     than 3 m within the loop)
+  b) equal or greater than 0.8 % between the first and the last axle of a vehicle or train
+  c) less than 0.5 % when the vehicle has completely passed the loop.
+
+ANNEX B.1 – ERA Technical Document for Non TSI Compliant Train Detection Systems
+(Template ERA-TDC-MS-XX, Version 1.0, Date: 08/02/2023)
+
+3.2.1.2. Vehicle emission limits and evaluation parameters
+
+The uncertainty of the whole measurement chain shall be no more than +/- 3 dB of the
+defined magnetic field limit.
+
+3.2.1.3. Evaluation of exceedances of limits defined in Table 7
+
+In case there are exceedances of the limits specified in Table 7 shorter than the integration
+time and the minimum time interval between two exceedances is greater than the integration
+time Tint specified in Table 7, further evaluation can be done using shorter integration time as
+defined in Table 8.
+
+Table 8 (Annex B.1 – same values as main document):
+
+Frequency range  | Field direction | Increasing of magnetic field limits for a reduced integration time of 0,5 x Tint [dB] | Increasing of magnetic field limits for a reduced integration time of 0,25 x Tint [dB]
+27 to 52 kHz     | X               | 2  | 6
+27 to 52 kHz     | Y, Z            | 6  | 12
+234 to 287 kHz   | X, Y, Z         | 6  | 12
+287 to 363 kHz   | X, Y, Z         | 3  | 6
+740 to 1026 kHz  | X, Y, Z         | 6  | 12
+1026 to 1260 kHz | X, Y, Z         | 0  | 0
+
+3.2.1.4. Measurement, test and evaluation specification
+
+EN 50592:2016 provides presumption of conformity to this requirement. If it is not the case,
+the deviations to this method have to be described and explained.
+
+3.2.2.7. Measurement, test and evaluation specification
+
+EN 50728 will provide presumption of conformity to this requirement. If it is not the case, the
+deviations to this method have to be described and explained.
+
+3.2.2.4. 25 kV AC, 50 Hz Electromagnetic interference limits for traction current
+
+If it is possible, refer to TS 50238-2:2020 Annex A.
+If TS 50238-2 does not include "evaluation parameters", the parameters for TSI compliant
+train detection apply.
+
+3.2.2.5. 15 kV AC, 16,7 Hz Electromagnetic interference limits for traction current
+
+If it is possible, refer to TS 50238-2:2020 Annex A.
+If TS 50238-2 does not include "evaluation parameters", the parameters for TSI compliant
+train detection apply.
+
+3.2.2.6. DC (3kV, 1.5kV) Electromagnetic interference limits for traction current
+
+If it is possible, refer to TS 50238-2:2020 Annex A.
+If TS 50238-2 does not include "evaluation parameters", the parameters for TSI compliant
+train detection apply.

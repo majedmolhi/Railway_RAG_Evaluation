@@ -1,0 +1,27 @@
+# Environment variables (contains API keys)
+.env
+
+# Vector database (rebuilt from source)
+chroma_db/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Raw PDFs (copyright restricted)
+data/raw_pdfs/
+
+# Chunk cache (rebuilt by pipeline)
+chunk_cache.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/

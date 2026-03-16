@@ -1,0 +1,224 @@
+question_id,document_id,question,answer,section
+
+Q001,RSSB_M1_2023,"After a train accident, what must the driver do immediately?","You must immediately switch on the hazard warning indication where provided.
+
+If you cannot do this, you must display a red light forward.
+
+You must tell the signaller about the accident, and whether the electric traction current needs to be switched off, in the quickest way possible.",Section 2 — What to do after a train accident
+Q002,RSSB_M1_2023,"When carrying out emergency protection alone after a train accident, in what order must the driver protect the lines?","If you are carrying out emergency protection alone, you must first protect other lines, then protect the line on which your train had been travelling, if necessary. You must decide which direction to protect first.",Section 2 — What to do after a train accident
+Q003,RSSB_M1_2023,"What are the detonator placement requirements when protecting a double-track line during emergency protection?","You must place three detonators 20 metres (approximately 20 yards) apart on the other obstructed line 2 kilometres (1¼ miles) from the obstruction.",Section 3 — Emergency protection
+Q004,RSSB_M1_2023,"What must a driver do if a train approaches before reaching the full protection distance of 2 kilometres?","If a train approaches before you reach the full protection distance of 2 kilometres (1¼ miles), you must place three detonators immediately and show a hand danger signal to the approaching train.",Section 3 — Emergency protection
+Q005,RSSB_M1_2023,"What must a driver do when reaching a diverging junction before the full protection distance during emergency protection?","If you reach a diverging junction before reaching the full protection distance, you must:
+• place three detonators before you reach the junction, and then
+• decide the order in which you protect each line.",Section 3 — Emergency protection
+Q006,RSSB_M1_2023,"Where must a train NOT be stopped or allowed to remain when there is a fire on board?","Where possible you must not stop the train or allow it to remain:
+• in a tunnel
+• on a viaduct, or
+• at any other unsuitable place.",Section 4 — Fire on a train
+Q007,RSSB_M1_2023,"What must the signaller do when alerted to a train accident?","If you are alerted to a train accident, you must:
+• immediately protect each obstructed line or arrange for this to be done
+• take any other action needed to prevent trains approaching the accident as shown in the appropriate Train Signalling Regulations
+• make an emergency broadcast to trains in the area concerned, or arrange for this to be done
+• if possible, tell the person involved that you have provided protection
+• arrange for the emergency services to be called if they are needed.",Section 2 — What to do after a train accident
+Q008,RSSB_M1_2023,"What must the guard do regarding passenger safety during an accidental train division?","You must:
+• find out whether anybody might have fallen from the train
+• secure gangway end doors, if you can do this
+• make sure passengers are in a safe position on the train.",Section 5 — Accidental train division
+Q009,RSSB_M1_2023,"What is the maximum speed permitted for an assisting train entering a section to remove the rear portion of a divided train?","You must:
+• proceed at caution
+• not exceed a speed of 25 mph (40 km/h).",Section 5 — Accidental train division
+Q010,RSSB_M1_2023,"What must a driver do if a fire is out but the train cannot proceed?","If the fire is out but the train cannot proceed, you must:
+• tell the signaller
+• carry out any necessary protection.",Section 4 — Fire on a train
+Q011,RSSB_M1_2023,"What must a driver do if they reach a tunnel entrance before completing the full protection distance during emergency protection?","If you reach a tunnel entrance before reaching the full protection distance, you must place three detonators at the tunnel entrance.
+
+If the full protection distance is inside the tunnel, you must continue through the tunnel to the far end and place three detonators there.",Section 3 — Emergency protection
+Q012,RSSB_M1_2023,"What must a driver request from the signaller before a controlled evacuation of a train can proceed?","You must tell the signaller that the train is to be evacuated and ask the signaller to provide signal protection on all lines that may be affected. If necessary, you must also ask for the electric traction current to be switched off.",Section 6 — Evacuating a train
+
+Q013,FRA_PassTrainEP_1998,"What is the purpose of the federal requirements for passenger train emergency preparedness?","The purpose of this part is to reduce the magnitude and severity of casualties in railroad operations by ensuring that railroads involved in passenger train operations can effectively and efficiently manage passenger train emergencies.",§ 239.1 Purpose and scope
+Q014,FRA_PassTrainEP_1998,"Which types of operations are excluded from the federal passenger train emergency preparedness requirements?","This part does not apply to:
+(1) Rapid transit operations in an urban area that are not connected with the general railroad system of transportation;
+(2) Operation of private cars, including business/office cars and circus trains; or
+(3) Tourist, scenic, historic, or excursion operations, whether on or off the general railroad system.",§ 239.3 Application
+Q015,FRA_PassTrainEP_1998,"What minimum emergency equipment must be carried on board each passenger car?","This equipment shall include, at a minimum:
+(A) One fire extinguisher per passenger car;
+(B) One pry bar per passenger car; and
+(C) One flashlight per on-board crewmember.",§ 239.101(a)(6) On-board emergency equipment
+Q016,FRA_PassTrainEP_1998,"What topics must be covered at minimum in the initial and periodic training for on-board personnel under an emergency preparedness plan?","As a minimum, the initial and periodic training shall include:
+(A) Rail equipment familiarization;
+(B) Situational awareness;
+(C) Passenger evacuation;
+(D) Coordination of functions; and
+(E) ""Hands-on"" instruction concerning the location, function, and operation of on-board emergency equipment.",§ 239.101(a)(2) Employee training and qualification
+Q017,FRA_PassTrainEP_1998,"How often must periodic training be provided to on-board and control center personnel under an emergency preparedness plan?","The railroad's emergency preparedness plan shall address individual employee responsibilities and provide for initial training, as well as periodic training at least once every two calendar years thereafter, on the applicable plan provisions.",§ 239.101(a)(2) Employee training and qualification
+Q018,FRA_PassTrainEP_1998,"What must the on-board crewmember do first during a passenger train emergency regarding communication?","An on-board crewmember shall quickly and accurately assess the passenger train emergency situation and then notify the control center as soon as practicable by the quickest available means. As appropriate, an on-board crewmember shall inform the passengers about the nature of the emergency and indicate what corrective countermeasures are in progress.",§ 239.101(a)(1) Communication
+Q019,FRA_PassTrainEP_1998,"How often must a railroad providing intercity passenger train service conduct full-scale emergency simulations?","Each railroad that provides intercity passenger train service, shall conduct a minimum of one full-scale emergency simulation during each calendar year, regardless of the number of route miles or passenger miles.",§ 239.103 Passenger train emergency simulations
+Q020,FRA_PassTrainEP_1998,"Can activation of the emergency preparedness plan during an actual emergency count toward the required number of full-scale simulations?","Neither a tabletop exercise nor the activation of its emergency preparedness plan during an actual emergency situation may be credited toward the minimum number of full-scale emergency simulations required under paragraph (b) of this section.",§ 239.103 Passenger train emergency simulations
+Q021,FRA_PassTrainEP_1998,"What minimum items must be included in a first-aid kit on intercity passenger trains?","Each railroad that provides intercity passenger train service shall also equip each passenger train that is in service with at least one first-aid kit accessible to crewmembers that contains, at a minimum:
+(A) Two small gauze pads (at least 4x4 inches);
+(B) Two large gauze pads (at least 8x10 inches);
+(C) Two adhesive bandages;
+(D) Two triangular bandages;
+(E) One package of gauge roller bandage that is at least two inches wide;
+(F) Wound cleaning agent, such as sealed moistened towelettes;
+(G) One pair of scissors;
+(H) One set of tweezers;
+(I) One roll of adhesive tape;
+(J) Two pairs of latex gloves; and
+(K) One resuscitation mask.",§ 239.101(a)(6) On-board emergency equipment
+Q022,FRA_PassTrainEP_1998,"What minimum aspects must a railroad's emergency preparedness plan address for emergencies occurring in tunnels?","The railroad's emergency preparedness plan shall address, as a minimum, availability of emergency lighting, access to emergency evacuation exits, benchwall readiness, ladders for detraining, effective radio or other communication between on-board crewmembers and the control center, and options for assistance from other trains.",§ 239.101(a)(4) Special circumstances
+Q023,FRA_PassTrainEP_1998,"Within what timeframe must a debriefing and critique session be conducted after a passenger train emergency or full-scale simulation?","The debriefing and critique session shall be conducted within 60 days of the date of the passenger train emergency situation or full-scale simulation.",§ 239.105 Debriefing and critique
+Q024,FRA_PassTrainEP_1998,"What are the minimum requirements a railroad must fulfill to maintain a liaison with emergency responders?","Each railroad to which this part applies shall establish and maintain a working relationship with the on-line emergency responders by, as a minimum:
+(i) Developing and making available a training program for all on-line emergency responders who could reasonably be expected to respond during an emergency situation. The training program shall include an emphasis on access to railroad equipment, location of railroad facilities, and communications interface, and provide information to emergency responders who may not have the opportunity to participate in an emergency simulation. Each affected railroad shall either offer the training directly or provide the program information and materials to state training institutes, firefighter organizations, or police academies;
+(ii) Inviting emergency responders to participate in emergency simulations; and
+(iii) Distributing applicable portions of its current emergency preparedness plan at least once every three years, or whenever the railroad materially changes its plan in a manner that could reasonably be expected to affect the railroad's interface with the on-line emergency responders, whichever occurs earlier, including documentation concerning the railroad's equipment and the physical characteristics of its line, necessary maps, and the position titles and telephone numbers of relevant railroad officers to contact.",§ 239.101(a)(5) Liaison with emergency responders
+
+Q025,FRA_LERT_2021,"What minimum size should the egress opening be to allow a body board to pass through during a locomotive rescue?","Previous research has indicated that the minimum size of the egress port should be 2 feet by 2 feet. This size allows enough room for a body board to pass through, with additional space for the rescue personnel.",1.4 Extrication Experiments
+Q026,FRA_LERT_2021,"Why is the use of a K-12 saw strongly discouraged when cutting through a locomotive roof during rescue operations?","Its use is strongly discouraged because when cutting the insulation material inside the cab structure (see Figure 16), the amount of smoke generated would likely not be survivable for the cab occupants. Also, the many sparks produced by the K-12 may ignite any spilled fuel or other flammable materials that may have been released during the accident.",1.6 Locomotive Experiments
+Q027,FRA_LERT_2021,"What criteria are used to evaluate rescue tool and technique combinations for locomotive cab access?","Rescue combinations were judged by the following criteria:
+
+Speed of entry: The time required from when rescue personnel begin the operation until the time they gain access to the cab interior. A highly successful combination will take less than 5 minutes.
+Number of personnel required: The number of individuals required to successfully and safely execute the operation. This includes individuals in supporting roles. The fewer number of personnel required the better.
+Portability: A portable combination is one in which a small number of personnel can carry all of the required equipment by hand to the incident scene. Less portable combinations would require vehicular support.
+Size of egress port: The size of the opening made in the structure. Previous research has indicated that the minimum size of the egress port should be 2 feet by 2 feet. This size allows enough room for a body board to pass through, with additional space for the rescue personnel.
+Risk to victims and rescue personnel: Ideally, no further harm should come to the victims and at the very minimum, the method should be survivable.
+Risk to rescue personnel: This criterion is more difficult to define because all rescue operations present risk and hazards to rescue personnel. However, any rescue combination that presents an obviously unacceptable level of risk to rescue personnel will not be considered as viable.",1.4 Extrication Experiments
+Q028,FRA_LERT_2021,"Can a Halligan tool break through a locomotive windshield, and how long does it take?","The Halligan tool and axe could break through the windshield of the locomotive within 1 minute. This was surprising, as the commonly held belief among railroad professionals is that the FRA Type II locomotive windshields cannot be easily broken.",1.6 Locomotive Experiments
+Q029,FRA_LERT_2021,"What are the three high-level learning objectives for locomotive emergency response training?","Locate and access incident scene: The first responders should be able to locate the incident scene and develop safe and effective strategies to access the incident.
+Access interior of locomotive to rescue personnel: Once gaining access to the incident, the first responders should be able to extricate any trapped crew members from the locomotive.
+Maintain scene safety: The first responders should be well-versed with the hazards present at the incident scene and be able to maintain the safety of themselves, any victims, and the general public.",1.5 Knowledge Base and Learning Requirements
+Q030,FRA_LERT_2021,"What egress locations on the locomotive cab were considered viable during extrication testing?","In terms of egress points, the roof, back door (behind the engineer), side windows, and windshield were all considered viable egress locations.",1.4 Extrication Experiments
+Q031,FRA_LERT_2021,"What hydraulic tools were supplied for the locomotive extrication experiments?","AMKUS Rescue Systems supplied hydraulic tools, along with personnel to operate them. The hydraulic tools included a cutter, spreader, push-pull ram, and associated peripherals such as a hydraulic pump, hoses, etc.",1.6 Locomotive Experiments
+Q032,FRA_LERT_2021,"What challenges were found when using a reciprocating saw to cut through a locomotive roof?","The reciprocating saw, equipped with regular metal cutting blade, could cut through the roof material with relative ease. However, items such as compressed air pipes or support beams slowed down the process. These obstacles also presented potentials hazards, i.e., compressed air or live electricity, so caution must be exercised in cutting through the roof.",1.6 Locomotive Experiments
+Q033,FRA_LERT_2021,"What electrical hazards must first responders identify and avoid at a locomotive accident scene?","Identify and avoid sources of potential electric shock hazards such as third rail, electrical catenaries, and electrical conduits.",1.5 Knowledge Base and Learning Requirements
+Q034,FRA_LERT_2021,"What types of locomotives were used in the extrication experiments, and who donated them?","The locomotives were two older, 1960s GP-35s donated by Pan Am Railways, tested over 2 days at Pan Am's Waterville, Maine, yard.",1.4 Extrication Experiments
+Q035,FRA_LERT_2021,"What was the finding regarding the use of a hydraulic cutter to remove locomotive doors?","The hydraulic cutter could cut through the door hinges very quickly and easily. However, the position of the rescuer to complete this operation may prove to be too hazardous for practical use.",1.6 Locomotive Experiments
+Q036,FRA_LERT_2021,"What materials were included in the final training package developed for locomotive emergency response?","The final training materials developed include a 2½-hour PowerPoint presentation, entitled Locomotive Emergency Response Training, instructor's notes, and a test. The test can be utilized by fire departments for post-training evaluation if they desire. Three animations and 15 extrication videos were also developed for the PowerPoint presentation.",1.7 Training Materials
+
+Q037,NR_ESG_2025,"Under what conditions are emergency responders allowed to access railway infrastructure without waiting for a Rail Incident Officer?","Considered where a RIO is unavailable or there is insufficient time for a RIO to attend.
+NR Route Control will manage safety mitigation relating to train movements, traction power off (where required) and access.
+The NR Route Control will provide a reference number when access is authorised.",Railway Infrastructure Safety & Access Processes — Co-ordinated Safety / Access without a RIO
+Q038,NR_ESG_2025,"What circumstances justify emergency responders entering railway infrastructure before informing Network Rail Route Control?","Considered where there is insufficient time to inform NR Route Control due to:
+
+an immediate risk of harm to an individual (in order to preserve of life), and/or
+an immediate risk to the safe movement of trains.",Railway Infrastructure Safety & Access Processes — EXTREME CIRCUMSTANCES Safety/Access
+Q039,NR_ESG_2025,"What is the minimum safe distance to maintain from Overhead Line Equipment when traction power is on?","When working on NR railway infrastructure, stay at least 2.75 metres from OLE when traction power is on.",Typical Overhead Line Equipment (OLE) Construction
+Q040,NR_ESG_2025,"What voltage does the Overhead Line Equipment supply on Network Rail infrastructure?","The Overhead Line Equipment (OLE), shown in the diagram below, supplies electricity at 25,000 volts AC.",Typical Overhead Line Equipment (OLE) Construction
+Q041,NR_ESG_2025,"What assumptions must emergency responders make about train movements and traction power when arriving at a railway incident?","Consider that TRAINS ARE RUNNING and TRACTION POWER IS ON until advised otherwise by the NR Route Control or RIO. Upon arrival of Emergency Service's Responders, the Emergency Service's Control should re-confirm the status of train running and traction power, as conditions might have changed. Unless EXTREME CIRCUMSTANCES apply, responders should NOT enter railway infrastructure until authorised and confirmed by NR Route Control or the RIO that trains have stopped, and traction power has been switched off (where required).",SAFETY FIRST
+Q042,NR_ESG_2025,"What are the effects on the human body of contact with electrified OLE or third rail?","the heat passing through the human body causes severe damage to internal organs.
+tissue burns beneath the skin cause scarring and black marks on the surface.
+the muscles in the heart fail – stopping the flow of blood and oxygen.
+lungs and respiratory system are paralysed.
+the body's nervous system – which relies on tiny electrical impulses to function – is disrupted, causing paralysis and affects a person's ability to think, respond and remember.",The Effect of Touching OLE / Third Rail
+Q043,NR_ESG_2025,"What role does the Rail Incident Officer assume when arriving on site at a railway incident?","Once on-site the NR RIO will assume command responsibility (from NR Route Control) for on-site safety management and authorisation of access to the railway infrastructure for all Emergency Services personnel. The RIO will work utilising JESIP principles.",Network Rail Response
+Q044,NR_ESG_2025,"Where is the safest place to be if going trackside under the extreme circumstances process?","If going trackside under the EXTREME CIRCUMSTANCES process, the cess is normally the safest place to be. Stay out of the four-foot, six-foot and ten-foot areas as much as possible. If you have to walk on the railway, walk on ballast, and never on rails, sleepers or cable troughing.",Track Layout
+Q045,NR_ESG_2025,"Why should emergency responders not rely on trains being cautioned as sufficient protection when accessing railway infrastructure?","Note that even if trains are being cautioned and are travelling at a reduced speed, it might not be possible to stop where the track is seen to be clear by the driver, and then someone moves onto the track/into the path of the train with insufficient time for the driver to stop. Responders should not access the railway infrastructure whilst trains are running at caution, unless the responders need to access due to EXTREME CIRCUMSTANCES that apply to the incident, and the risks posed should be considered.",Train Speeds, Noise and Air Movement
+Q046,NR_ESG_2025,"What Personal Protective Equipment must emergency services personnel wear on Network Rail railway infrastructure?","Emergency Services personnel should wear appropriate Personal Protective Equipment (PPE) on NR's railway infrastructure. This includes high visibility vest, boots and a hard hat (Emergency Service's helmets / hats are acceptable).",Personal Protective Equipment
+
+Q047,ERA_ERTMSFRS_2007,"What is the maximum train speed for which ETCS is required to be functional?","ETCS is required to be functional to a maximum train speed of 500 km/h.",3.1 Basic functioning
+Q048,ERA_ERTMSFRS_2007,"What ETCS application levels must a train equipped for Level 3 be able to run on?","Trains equipped for ERTMS/ETCS application level 3 shall be able to run on lines equipped with ERTMS/ETCS application level 3, 2, 1 and 0.",3.2 Application levels
+Q049,ERA_ERTMSFRS_2007,"What happens if an ETCS equipped train passes a level transition to one or more levels for which it is not equipped?","If an ETCS equipped train passes a level transition to one or more levels for which it is not equipped, ETCS shall initiate a brake application.",3.9 Operational states
+Q050,ERA_ERTMSFRS_2007,"What minimum retention periods apply for data recorded by the ETCS onboard equipment?","The retention period for the recorded data will be different and two levels are foreseen:
+1. Data to enable investigation of accidents need only be stored for at least 24 hours, and shall be very detailed.
+2. Operational data to enable assessment of driver performance shall be stored for at least one week.",4.3.10 Recording the ETCS information
+Q051,ERA_ERTMSFRS_2007,"What train data must be sent from the ETCS onboard equipment to the trackside?","The following train data shall be sent from the on board to the trackside:
+
+Train running number
+STM ready for use
+train gauge
+Max. axle load
+status of air tight system
+type of el. power accepted
+international train category
+max. train speed
+train length.",4.9.9 Train Data to be sent to trackside
+Q052,ERA_ERTMSFRS_2007,"What happens if a train cannot stop at the new target location proposed by the RBC during a cooperative revocation of a movement authority?","If a train cannot stop at the proposed new target location it shall reject the request and keep the old target location.",4.9.10 Revocation of a Movement Authority
+Q053,ERA_ERTMSFRS_2007,"What are the possible reactions of the ETCS trainborne equipment in the event of a transmission failure?","In the event of a Transmission Failure the following reactions, shall be capable of being applied in accordance with a National Value:
+Option 1. The ETCS trainborne equipment shall immediately command the emergency brake. The failure shall be shown on the DMI.
+Option 2. The ETCS trainborne equipment shall immediately command the full service brake. The failure shall be shown on the DMI.
+Option 3. The train may proceed unrestricted to the end of its movement authority. The indication on the DMI shall remain, and the driver shall be informed about the loss of transmission.",5.1.3 Transmission Failures
+Q054,ERA_ERTMSFRS_2007,"How far in advance must a warning be given to the driver within the braking curve area before ETCS intervention?","Within the braking curve area, a warning shall be given to the driver to enable him to react and avoid intervention from ETCS equipment at least 5 sec. before the intervention.",4.3.7 Supervision of movement authorities and speed limits
+
+Q055,ERA_ERTMS033281_2023,"What is the maximum permitted distance between following axles for vehicles on 1435 mm track gauge?","The distance ai (Figure 1) shall not exceed 20 000 mm.",3.1.2.1. Maximum distance between following axles
+Q056,ERA_ERTMS033281_2023,"What is the minimum wheel diameter for hooped and massive wheels on vehicles travelling at speeds up to 100 km/h?","v ≤ 100 | 330 | 600",3.1.3.2. Minimum wheel diameter
+Q057,ERA_ERTMS033281_2023,"What is the maximum allowable electrical resistance between the running surfaces of opposite wheels of a wheelset?","The electrical resistance between the running surfaces of the opposite wheels of a wheelset shall not exceed 0.05 Ohm, measured by a voltage between 1.8 VDC and 2.0 VDC (open circuit).",3.1.9. Impedance between wheels
+Q058,ERA_ERTMS033281_2023,"What is the maximum amount of sand per rail per sanding device allowed on 1435 mm track gauge networks?","The maximum amount of sand per rail per sanding device (sand at the rail head) shall be 5,0 g/m as measures against wheels being not detected (corresponding with 500g/30s at speed = 12 km/h).",3.1.4.1. Maximum amount of sand
+Q059,ERA_ERTMS033281_2023,"What material characteristics must railway vehicle wheels have for compatibility with axle counter train detection systems?","The wheels shall have ferromagnetic characteristics and shall be electrically conducting.",3.1.3.6. Wheel material
+Q060,ERA_ERTMS033281_2023,"What are the three frequency bands defined for frequency management of electromagnetic fields in train detection compatibility?","The frequency management defines three frequency bands:
+1. 27 kHz – 52 kHz for band 1
+2. 234 kHz – 363 kHz for band 2
+3. 740 kHz – 1250 kHz for band 3",3.2.1.1. Frequency management
+Q061,ERA_ERTMS033281_2023,"What minimum axle load is required for vehicles with more than 4 axles and wheel tread brakes on 1435 mm track gauge?","at least 3,5 t for vehicles with more than 4 axles and wheel tread brakes",3.1.7.1. Vehicle axle load
+Q062,ERA_ERTMS033281_2023,"What is the minimum distance required between the first and last axle of a vehicle or consist for train detection compatibility?","The distance between first and last axle L - (b1 + b2) (Figure 1) shall be at least 3 000 mm.",3.1.2.3. Minimum distance between first and last axle
+Q063,ERA_ERTMS033281_2023,"What margin must be observed for the immunity level of axle counters regarding in-band and out-of-band magnetic field frequency management?","For the frequency management defined in chapter 3.2.1 for the immunity level of axle counter (magnetic field), a margin of at least +9dB inband and +3dB outband shall be observed.",4.1. Interoperability Constituent Axle Counter
+
+
+Q064,SCRRA_TRACKMAINT_2020,"What is the standard track gage on SCRRA track?","Standard track gage is 56-1/2 inches.",3.3.2 Standard Gage
+Q065,SCRRA_TRACKMAINT_2020,"What is the minimum track gage allowed on any class of track on SCRRA?","Minimum track gage shall not be less than 56 inches on any class of track.",3.3.4 Gage Limits
+Q066,SCRRA_TRACKMAINT_2020,"What immediate action must be taken if track gage measures more than 58 inches?","If track gage measures more than 58 inches, immediately remove the track from service until repairs are made.",3.3.4 Gage Limits
+Q067,SCRRA_TRACKMAINT_2020,"How often must geometry cars operate over passenger routes on SCRRA?","Passenger Routes: Three times per year, with at least four months, but no more than six months, between tests.",3.1.3 Geometry Car Testing Program
+Q068,SCRRA_TRACKMAINT_2020,"What is the timeframe for verifying Critical track geometry defects found by the Track Geometry Car?","Critical defects shall be verified within 24 hours, and immediate corrective action shall be taken to repair or protect the defect with the appropriate slow order.",3.0 Track Geometry
+Q069,SCRRA_TRACKMAINT_2020,"What corrective action timeframe applies to Urgent track geometry conditions on SCRRA?","Corrective action must be taken within 60 days or a remedial action is required restricting the track speed to the next lower class that complies with SCRRA urgent requirements.",3.1 Geometry Measurements
+Q070,SCRRA_TRACKMAINT_2020,"What is the standard size for new wood ties installed on all main tracks and sidings?","Install new standard 8'-6"" x 7"" x 9"" wood ties on all main tracks and sidings.",4.1 Wood Ties
+Q071,SCRRA_TRACKMAINT_2020,"What is the maximum number of consecutive cross ties that can be replaced in one pass?","Do not replace more than three consecutive cross ties in one pass. Make an additional pass to install ties as necessary.",4.7 Installation and Spacing
+Q072,SCRRA_TRACKMAINT_2020,"What percentage of ties may be replaced in a 39-foot section of track in a single pass?","Do not replace more than 50% of the ties in a 39-foot section of track in a single pass of the tie renewal operation.",4.7 Installation and Spacing
+Q073,SCRRA_TRACKMAINT_2020,"What is the maximum speed allowed for hi-rail vehicle track inspections on SCRRA?","Perform inspections on foot or by traversing over the track with a hi-rail vehicle at a speed that allows sufficient visual inspection of the track structure at a maximum speed of 15 MPH or less.",8.5 Inspection Methods
+Q074,SCRRA_TRACKMAINT_2020,"At what speed must turnouts and track crossing diamonds be inspected?","Turnouts and track crossing diamonds shall be inspected at a speed not exceeding 5 MPH.",8.5 Inspection Methods
+Q075,SCRRA_TRACKMAINT_2020,"How often must main tracks be inspected on SCRRA?","Inspect all main tracks at least twice weekly with at least 1 calendar day interval between inspections.",8.6.1 Track Inspection Frequencies
+Q076,SCRRA_TRACKMAINT_2020,"How often must turnouts be inspected on foot?","Inspect each turnout on foot at least monthly.",8.6.1 Track Inspection Frequencies
+Q077,SCRRA_TRACKMAINT_2020,"What is the Preferred Rail Laying Temperature for CWR on all SCRRA subdivisions?","PRLT = 110°F on all tracks on all subdivisions except tunnels (70°F inside tunnels).",9.6.1 Preferred Rail Laying Temperature
+Q078,SCRRA_TRACKMAINT_2020,"What is the designated rail neutral temperature safe range from the PRLT?","The designated rail neutral temperature safe range is from -5 to +5 degrees F from the PRLT.",9.6.1 Preferred Rail Laying Temperature
+Q079,SCRRA_TRACKMAINT_2020,"What speed restriction must be placed if rail is not adjusted to PRLT before forecasted temperatures would cause rail to reach 40 degrees above the rail installation temperature?","If rail is not adjusted to the PRLT before forecasted temperatures would cause the rail to reach 40 degrees above the rail installation temperature: a speed restriction of 25 MPH must be placed.",9.6.1 Preferred Rail Laying Temperature
+Q080,SCRRA_TRACKMAINT_2020,"When must heat inspections be performed on SCRRA main tracks and sidings?","Heat inspections must be performed on all main tracks and sidings when:
+1. Ambient temperature is, or is forecast to be, over 100°F.
+2. Rail temperature is above 130°F.
+3. Ambient temperature is, or is forecast to be, over 90°F for the first time in 60 or more days.
+4. Rail temperature is above 120°F for the first time in 60 days.",9.12.1 Heat Inspections
+Q081,SCRRA_TRACKMAINT_2020,"When must cold weather inspections be performed on SCRRA track?","Cold weather inspections must be performed when ambient temperature is forecasted to be 32°F or lower.",9.12.2 Cold Weather Inspections
+Q082,SCRRA_TRACKMAINT_2020,"What minimum distance must destressing cover in each direction from a cut in CWR?","Remove or reposition anchors or fasteners for a minimum of 400 feet in each direction (total 800 feet) from the cut or up to a restriction that prevents rail movement.",9.8.1 Destressing Rail Procedure
+Q083,SCRRA_TRACKMAINT_2020,"What is the minimum length of rail that can be field welded in main track?","Rail less than 19'-6"" shall not be welded in main track, except where designated in SCRRA Standards for special trackwork or approved by Manager, Track and Structures Maintenance.",5.15 Location and Preparation for Thermite Welds
+Q084,SCRRA_TRACKMAINT_2020,"Under what conditions is thermite welding prohibited?","Thermite welding shall not be performed when:
+2.1. Air temperature is below 32 degrees F.
+2.2. It is raining.
+2.3. Rail cannot be properly adjusted.
+2.4. Insufficient time exists to allow weld to cool to less than 600 degrees F before next passing train.",5.16 Thermite Welding
+Q085,SCRRA_TRACKMAINT_2020,"What is the minimum stagger between consecutive rail joints on opposite rails?","The minimum stagger between consecutive rail joints on opposite rails is 12 feet.",5.10.3 Rail Joint Stagger
+Q086,SCRRA_TRACKMAINT_2020,"What earthquake magnitude triggers a full stop for all trains within a 100-mile radius of the epicenter?","Magnitude 7.0–7.49: All trains within a 100-mile radius of known epicenter must STOP* and not proceed until inspection completed.",8.12.3 Earthquakes — Response Protocol
+Q087,SCRRA_TRACKMAINT_2020,"What speed restriction must be applied when torch cut rail ends are found in main track?","If torch cut rail ends are found in main track place a 15 MPH speed restriction and change out rail within 24 hours. ALL train movements must be supervised.",8.8.12 Torch Cut Rail
+Q088,SCRRA_TRACKMAINT_2020,"What are the frog wear limits that trigger a 10 MPH speed restriction?","If the tread portion of a frog casting is worn down more than 3/8 inch below the original contour, restrict the operating speed over that frog to 10 MPH.
+
+If a frog point is chipped, broken, or worn more than 5/8 inches down and 6 inches back, restrict the operating speed over that the frog to 10 MPH.",6.5.3 Frog Wear — Non-Conformal Frogs
+
+Q089,JICA_OM_URBAN_RAILWAYS_HB_2023,"What is the inspection cycle for general overhaul inspections of rolling stock in Japan?","General overhaul inspection — Inspection Venue: Workshop — Inspection Cycle: 8 years",Rolling Stock Department
+Q090,JICA_OM_URBAN_RAILWAYS_HB_2023,"What is the inspection cycle for critical part overhaul inspections of rolling stock?","Critical part overhaul inspection — Inspection Venue: Workshop — Inspection Cycle: 4 years or 600,000 km",Rolling Stock Department
+Q091,JICA_OM_URBAN_RAILWAYS_HB_2023,"What are the two broad categories of rolling stock maintenance?","Rolling stock maintenance can be divided into two (2) broad categories: (1) preventive maintenance, wherein regular inspections are performed according to a schedule; and (2) corrective maintenance, wherein repairs are performed in the event of an accident or failure.",Rolling Stock Department
+Q092,JICA_OM_URBAN_RAILWAYS_HB_2023,"What is the Farebox Recovery Ratio and what does it indicate when it is below 1.0?","It is the ratio of fare revenue to O&M costs.
+
+FBR below 1.0 — Fare revenue cannot cover O&M costs; and subsidies are needed for operation, replacement, and reinvestment of the railway system.",Revenues and Expenditures
+Q093,JICA_OM_URBAN_RAILWAYS_HB_2023,"What was the Farebox Recovery Ratio of Hong Kong MTR in 2018?","Hong Kong MTR: 1.72 (2018)",Revenues and Expenditures
+Q094,JICA_OM_URBAN_RAILWAYS_HB_2023,"What is the formula used to calculate the reliability KPI for train operations?","Reliability (Train Operation Rate) = (actual number of running trains) / (planned number of running trains) x 100",Key Performance Indicators
+Q095,JICA_OM_URBAN_RAILWAYS_HB_2023,"How is punctuality defined as a KPI formula for railway operations?","Punctuality = (number of passengers when train arrival is delayed within given lead time) / (total number of passengers) x 100",Key Performance Indicators
+Q096,JICA_OM_URBAN_RAILWAYS_HB_2023,"What are the three broad categories covered by the Electrical Facilities Department?","The Electrical Facilities Department covers a wide range of subsystems that are broadly divided into three (3) categories: (1) power supply and transmission to the entire railway system; (2) signaling and communications that ensure safe train operations; and (3) station facilities that passengers can use comfortably and safely (e.g., electro-mechanical facilities and automatic fare collection).",Electrical Facilities Department
+Q097,JICA_OM_URBAN_RAILWAYS_HB_2023,"What licenses and qualifications are required for electrical facilities department personnel?","Licenses/qualifications required: chief electrical engineer, radio use, EV/ES, handling dangerous materials, ordinary driving license, occupational safety and health.",Electrical Facilities Department
+Q098,JICA_OM_URBAN_RAILWAYS_HB_2023,"What percentage of personnel planning details should be organized by the DD stage?","At this point, it is desirable that 80-90% of the necessary details (including the number of personnel based on equipment quantity and specifications) have been organized.",Personnel Planning And Organization
+Q099,JICA_OM_URBAN_RAILWAYS_HB_2023,"How far in advance of handover should the operating entity be established?","Operating entity establishment: 2-3 years before handover",Personnel Planning And Organization
+Q100,JICA_OM_URBAN_RAILWAYS_HB_2023,"What are the fundamental departments required for urban railway O&M?","Fundamental departments required for urban railway O&M: General Management, Train Operation, and Maintenance Departments.",Personnel Planning And Organization
+Q101,JICA_OM_URBAN_RAILWAYS_HB_2023,"What is the definition of asset management in the context of railway operations?","This pertains to the maintenance of the condition of assets at a specified level, consisting of a series of work cycles, such as planning, implementation, evaluation, and improvement.",Asset Management
+Q102,JICA_OM_URBAN_RAILWAYS_HB_2023,"What international standard for asset management systems is referenced for railway industry use?","ISO 55000 (ISO55k), the international standard for asset management system, may be applied, as it is used in the railway industry.",Asset Management
+Q103,JICA_OM_URBAN_RAILWAYS_HB_2023,"What asset management information system does Metro Trains Melbourne use?","Asset management information systems: ABB Ability Ellipse EAM",Asset Management: Examples from Different Countries
+
+Q104,JICA_OM_URBAN_RAILWAYS_HB_2023,"What is the capital shortfall risk cycle that affects railway operations?","Capital shortfall risk cycle: Service degradation → Decrease in ridership and fare revenue → Lack of funds → Maintenance budget reduction → Service degradation",Basic Profitability Assessment
+Q105,JICA_OM_URBAN_RAILWAYS_HB_2023,"What types of KPIs are related to railway O&M?","There is a wide range of KPIs related to O&M, which include those related to operations (e.g., safety, punctuality), customer satisfaction, assets (e.g., rolling stock, station facilities), personnel, and social impact (e.g., environment, corporate social responsibility).",Key Performance Indicators
+Q106,JICA_OM_URBAN_RAILWAYS_HB_2023,"What is the difference between net cost scheme and gross cost scheme regarding demand risk?","Net cost scheme: The operating entity shoulders the risk. The operation consignment fee is set in advance as the difference between the estimated fare revenue and O&M costs. The profit is generated as a result of increasing fare revenue while reducing O&M costs.
+
+Gross Cost Scheme: The operating entity does not bear the risk. The operation consignment fee is a fixed amount that is set by adding a reasonable profit amount to the operating entity's estimated O&M costs.",Project Scheme Framework
+Q107,JICA_OM_URBAN_RAILWAYS_HB_2023,"What was the actual daily ridership of Jakarta MRT in its opening year compared to the demand forecast?","Rail line patronage in the opening year was about 80,000 passengers a day, which is significantly lower than the demand forecast of 150,000 daily ridership.",Project Schemes: Examples from Different Countries
+Q108,JICA_OM_URBAN_RAILWAYS_HB_2023,"What activities are included in station operation services?","These include activities such as ticket selling, security inspections, safety confirmation on platforms, customer information, and lost property handling.",Station Operation Department
+Q109,JICA_OM_URBAN_RAILWAYS_HB_2023,"What is the most important rule in station operations regarding passenger transport contracts?","One of the most important rules in station operations is ""Conditions of Carriage,"" which is a transport contract with the passengers.",Station Operation Department
+Q110,JICA_OM_URBAN_RAILWAYS_HB_2023,"Why is it important to regularly inspect railway tracks more frequently than civil structures?","Railway structures made of steel and concrete cannot easily be demolished and rebuilt, so timely repairs and reinforcements need to be carried out so that they can maintain their functions. On the other hand, wears, failures, and irregularities on railway tracks directly affect the safety and comfort of passengers; as such, it is very important to regularly inspect the tracks more frequently than civil structures.",Tracks and Infrastructure Department
+Q111,JICA_OM_URBAN_RAILWAYS_HB_2023,"What continuous improvement cycle is essential for reliable train operation across all departments?","It is therefore essential to have a system that continuously implements the Plan-Do-Check-Act (PDCA) cycle involving all concerned departments of the operating entity for reliable train operation.",Train Operation Department
+Q112,JICA_OM_URBAN_RAILWAYS_HB_2023,"What percentage of fare revenue does fare revenue from passengers account for in Melbourne's Metro Trains operator?","Fare revenue from passengers account for only 24% of the entire revenue of the operator, and the remainder is covered by government subsidies.",Project Schemes: Public Sector Investment/Private Sector Operator Scheme
+Q113,JICA_OM_URBAN_RAILWAYS_HB_2023,"What is the contract period for the Manila MRT Line 3 BLT contract?","The contract is a 25-year BLT contract.",Project Schemes: Public Operator Scheme
+Q114,JICA_OM_URBAN_RAILWAYS_HB_2023,"What regulatory requirement was issued in Vietnam in 2016 regarding urban railway safety?","Issued in 2016, a ministerial ordinance entitled ""Regulations on Assessment and Certification of Urban Railway System Safety"" requires measures based on risk assessments to be carried out in relation to the railway system and its operation. Furthermore, it requires that the response is appropriately assessed by a certification body.",European Authorization and Certification System
+Q115,JICA_OM_URBAN_RAILWAYS_HB_2023,"What is the purpose of a department for cross-departmental integration in railway O&M?","Therefore, it is ideal to have a special department that is responsible for cross-departmental cooperation by establishing goals and rules that integrate the different O&M departments.",Department for Cross-Departmental Integration

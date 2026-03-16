@@ -1,0 +1,142 @@
+[
+  {
+    "question_id": "Q007",
+    "document_id": "RSSB_M1_2023",
+    "question": "What must the signaller do when alerted to a train accident?",
+    "gold_answer": "If you are alerted to a train accident, you must:\r\n\u2022 immediately protect each obstructed line or arrange for this to be done\r\n\u2022 take any other action needed to prevent trains approaching the accident as shown in the appropriate Train Signalling Regulations\r\n\u2022 make an emergency broadcast to trains in",
+    "failed_strategies": [
+      "BM25"
+    ],
+    "passed_strategies": [
+      "Dense",
+      "Hybrid_RRF",
+      "Hybrid_RRF_Reranked"
+    ],
+    "top1_per_strategy": {
+      "BM25": "RSSB_M1_2023 | SECTION 2 \u2014 What to do after a train accident",
+      "Dense": "RSSB_M1_2023 | 2.3 Signaller's actions",
+      "Hybrid_RRF": "RSSB_M1_2023 | 2.1 Driver's actions",
+      "Hybrid_RRF_Reranked": "RSSB_M1_2023 | 2.3 Signaller's actions"
+    }
+  },
+  {
+    "question_id": "Q008",
+    "document_id": "RSSB_M1_2023",
+    "question": "What must the guard do regarding passenger safety during an accidental train division?",
+    "gold_answer": "You must:\r\n\u2022 find out whether anybody might have fallen from the train\r\n\u2022 secure gangway end doors, if you can do this\r\n\u2022 make sure passengers are in a safe position on the train.",
+    "failed_strategies": [
+      "BM25"
+    ],
+    "passed_strategies": [
+      "Dense",
+      "Hybrid_RRF",
+      "Hybrid_RRF_Reranked"
+    ],
+    "top1_per_strategy": {
+      "BM25": "RSSB_M1_2023 | 5.2 Securing the divided train",
+      "Dense": "RSSB_M1_2023 | SECTION 5 \u2014 Accidental train division",
+      "Hybrid_RRF": "RSSB_M1_2023 | 5.2 Securing the divided train",
+      "Hybrid_RRF_Reranked": "RSSB_M1_2023 | 5.1 Passenger train - safety of passengers"
+    }
+  },
+  {
+    "question_id": "Q037",
+    "document_id": "NR_ESG_2025",
+    "question": "Under what conditions are emergency responders allowed to access railway infrastructure without waiting for a Rail Incident Officer?",
+    "gold_answer": "Considered where a RIO is unavailable or there is insufficient time for a RIO to attend.\r\nNR Route Control will manage safety mitigation relating to train movements, traction power off (where required) and access.\r\nThe NR Route Control will provide a reference number when access is authorised.",
+    "failed_strategies": [
+      "BM25"
+    ],
+    "passed_strategies": [
+      "Dense",
+      "Hybrid_RRF",
+      "Hybrid_RRF_Reranked"
+    ],
+    "top1_per_strategy": {
+      "BM25": "NR_ESG_2025 | SAFETY FIRST",
+      "Dense": "NR_ESG_2025 | Preamble",
+      "Hybrid_RRF": "NR_ESG_2025 | SAFETY FIRST",
+      "Hybrid_RRF_Reranked": "NR_ESG_2025 | SAFETY FIRST"
+    }
+  },
+  {
+    "question_id": "Q042",
+    "document_id": "NR_ESG_2025",
+    "question": "What are the effects on the human body of contact with electrified OLE or third rail?",
+    "gold_answer": "the heat passing through the human body causes severe damage to internal organs.\r\ntissue burns beneath the skin cause scarring and black marks on the surface.\r\nthe muscles in the heart fail \u2013 stopping the flow of blood and oxygen.\r\nlungs and respiratory system are paralysed.\r\nthe body's nervous syst",
+    "failed_strategies": [
+      "Dense"
+    ],
+    "passed_strategies": [
+      "BM25",
+      "Hybrid_RRF",
+      "Hybrid_RRF_Reranked"
+    ],
+    "top1_per_strategy": {
+      "BM25": "NR_ESG_2025 | SAFETY FIRST",
+      "Dense": "NR_ESG_2025 | SAFETY FIRST",
+      "Hybrid_RRF": "NR_ESG_2025 | SAFETY FIRST",
+      "Hybrid_RRF_Reranked": "NR_ESG_2025 | SAFETY FIRST"
+    }
+  },
+  {
+    "question_id": "Q081",
+    "document_id": "SCRRA_TRACKMAINT_2020",
+    "question": "When must cold weather inspections be performed on SCRRA track?",
+    "gold_answer": "Cold weather inspections must be performed when ambient temperature is forecasted to be 32\u00b0F or lower.",
+    "failed_strategies": [
+      "Dense"
+    ],
+    "passed_strategies": [
+      "BM25",
+      "Hybrid_RRF",
+      "Hybrid_RRF_Reranked"
+    ],
+    "top1_per_strategy": {
+      "BM25": "SCRRA_TRACKMAINT_2020 | 9.12.2 Cold Weather Inspections",
+      "Dense": "SCRRA_TRACKMAINT_2020 | 8.2.1 FRA 213.7 Qualification (Class of Track 1-5)",
+      "Hybrid_RRF": "SCRRA_TRACKMAINT_2020 | 8.1 STANDARDS AND REGULATIONS",
+      "Hybrid_RRF_Reranked": "SCRRA_TRACKMAINT_2020 | 9.12.2 Cold Weather Inspections"
+    }
+  },
+  {
+    "question_id": "Q098",
+    "document_id": "JICA_OM_URBAN_RAILWAYS_HB_2023",
+    "question": "What percentage of personnel planning details should be organized by the DD stage?",
+    "gold_answer": "At this point, it is desirable that 80-90% of the necessary details (including the number of personnel based on equipment quantity and specifications) have been organized.",
+    "failed_strategies": [
+      "Dense"
+    ],
+    "passed_strategies": [
+      "BM25",
+      "Hybrid_RRF",
+      "Hybrid_RRF_Reranked"
+    ],
+    "top1_per_strategy": {
+      "BM25": "JICA_OM_URBAN_RAILWAYS_HB_2023 | Preamble",
+      "Dense": "JICA_OM_URBAN_RAILWAYS_HB_2023 | Preamble",
+      "Hybrid_RRF": "JICA_OM_URBAN_RAILWAYS_HB_2023 | Preamble",
+      "Hybrid_RRF_Reranked": "JICA_OM_URBAN_RAILWAYS_HB_2023 | Preamble"
+    }
+  },
+  {
+    "question_id": "Q099",
+    "document_id": "JICA_OM_URBAN_RAILWAYS_HB_2023",
+    "question": "How far in advance of handover should the operating entity be established?",
+    "gold_answer": "Operating entity establishment: 2-3 years before handover",
+    "failed_strategies": [
+      "BM25"
+    ],
+    "passed_strategies": [
+      "Dense",
+      "Hybrid_RRF",
+      "Hybrid_RRF_Reranked"
+    ],
+    "top1_per_strategy": {
+      "BM25": "JICA_OM_URBAN_RAILWAYS_HB_2023 | Preamble",
+      "Dense": "JICA_OM_URBAN_RAILWAYS_HB_2023 | Preamble",
+      "Hybrid_RRF": "JICA_OM_URBAN_RAILWAYS_HB_2023 | Preamble",
+      "Hybrid_RRF_Reranked": "JICA_OM_URBAN_RAILWAYS_HB_2023 | Preamble"
+    }
+  }
+]

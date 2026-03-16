@@ -1,0 +1,24 @@
+[
+  {
+    "question_id": "Q005",
+    "question": "What must a driver do when reaching a diverging junction before the full protection distance during emergency protection?",
+    "gold_answer": "If you reach a diverging junction before reaching the full protection distance, you must:\r\n\u2022 place three detonators before you reach the junction, and then\r\n\u2022 decide the order in which you protect each line.",
+    "rag_answer": "Not found in context.",
+    "faithfulness": 0.0,
+    "retrieved_texts": [
+      "3.7 Reaching a diverging junction\n\n[driver]\n\nIf you reach a diverging junction before reaching the full protection distance, you must:\n\u2022 place three detonators before you reach the junction, and then\n\u2022 decide the order in which you protect each line.",
+      "3.1 Providing emergency protection\n\n[driver]\n\nYou must:\n\u2022 place a track-circuit operating clip on every line that is obstructed\n\u2022 show a hand danger signal to any train that is approaching the obstruction\n\u2022 protect with detonators as described in sections 3.2 to 3.8.\n\nIf the whole train is derailed, you must also place a track-circuit operating clip on the line on which your train was travelling before you carry out emergency protection on other affected lines. You must also carry out emergency protection on the line on which your train was travelling if emergency special working or temporary block working is in operation.\n\nWhen you have completed emergency protection, you must:\n\u2022 continue as far as necessary, if you still need to contact the signaller, or\n\u2022 return to your train."
+    ]
+  },
+  {
+    "question_id": "Q072",
+    "question": "What percentage of ties may be replaced in a 39-foot section of track in a single pass?",
+    "gold_answer": "Do not replace more than 50% of the ties in a 39-foot section of track in a single pass of the tie renewal operation.",
+    "rag_answer": "Not found in context.",
+    "faithfulness": 0.0,
+    "retrieved_texts": [
+      "9.4 TIE INSTALLATION\n\n[CRITICAL LIMITS]\nDo not replace more than 50 percent of the cross or switch ties in any 39-foot section of track or more than three consecutive cross or switch ties. Make additional passes if necessary.\n\nWhen making additional passes: ensure all ties installed in the first pass have been fully spiked and anchored and ballast is placed to maintain surface and alignment.\nTamp all new ties, and any other ties that are hanging or have been obviously disturbed.\n\nAll cribs must be completely filled, shoulders restored, and all newly installed ties must have all anchors applied and spikes driven prior to the passage of trains at speeds above 30/20 MPH.\n\nThese tie replacement requirements do not apply when installing ties at:\n1. Road crossings.\n2. Open deck bridges.\n3. Station platforms (with destressing).\n4. Confined track areas.\n5. Undercutting operation.\n\nNote: When there is evidence of lateral, vertical, or longitudinal rail movement due to tie renewal or surfacing operations, the rail must be destressed.",
+      "4.7  Installation and Spacing\n\n1. Curve superelevations shall be restored to the specifications noted in the SCRRA Track Charts.\n\n2. Do not replace more than three consecutive cross ties in one pass. Make an additional pass to install ties as necessary.\n\n3. Do not replace more than 50% of the ties in a 39-foot section of track in a single pass of the tie renewal operation.\n\n4. If the rail temperature is forecasted to be above the Preferred Rail Laying Temperature (PRLT), SCRRA may suspend tie installation operations.\n\n5. Install ties at a right angle to the track's running rails and check gage for accuracy.\n\n6. New ties shall be installed per the standard for the type of tie. Standard ballast section and track geometry shall be restored before the passage of trains at speeds above 30/20 MPH. Shifting of track line and out of cross level conditions shall be avoided to the extent possible and shall be corrected immediately. Refer to Appendix B \u2013 Summary of Speed Restrictions for Trackwork.\n\n7. Report tie gang activity on the CWR Stress Adjustment/ Disturbance Report form in Appendix C.\n\n8. When establishing proper tie spacing, mark the inner rail of curves with appropriate tie spacing.\n\n9. Where tracks come together behind turnouts:\n\na. Do not interlace ties unless approved by SCRRA. When maintenance on interlaced ties is taking place, every effort should be made to replace the interlaced ties with the appropriate sized long tie.\n\nb. Maintain at least 3 inches between the ends of ties.\n\n10. Install ties with \"sap side\" kerf marks (1/8-inch grooves cut into the top of the tie) facing up. This places the ties' harder heartwood down on the ballast as shown in Figure 4-1."
+    ]
+  }
+]

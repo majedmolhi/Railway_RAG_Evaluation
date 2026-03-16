@@ -1,0 +1,5 @@
+strategy,n,doc_hit_at_1,doc_hit_at_3,doc_hit_at_5,doc_hit_at_10,doc_mrr,doc_ndcg_at_10,answer_in_top_1,answer_in_top_3,answer_in_top_5,answer_in_top_10,answer_mrr,answer_ndcg_at_10,answer_precision_at_5,answer_precision_at_10,answer_rank_mean,answer_rank_std,answer_not_found_rate
+Dense,115,1.0,1.0,1.0,1.0,1.0,4.039,0.7739,0.9565,0.9739,1.0,0.866,1.2075,0.2852,0.1661,1.4261,1.0472,0.0
+BM25,115,0.9913,1.0,1.0,1.0,0.9957,3.8605,0.7826,0.9304,0.9652,0.9913,0.8561,1.1953,0.2835,0.1652,1.5088,1.2513,0.0087
+Hybrid_RRF,115,1.0,1.0,1.0,1.0,1.0,4.0647,0.7913,0.9652,1.0,1.0,0.8764,1.2311,0.2991,0.1678,1.3478,0.7807,0.0
+Hybrid_RRF_Reranked,115,1.0,1.0,1.0,1.0,1.0,4.2323,0.8348,0.9739,1.0,1.0,0.9042,1.2597,0.3026,0.1722,1.2696,0.7262,0.0
