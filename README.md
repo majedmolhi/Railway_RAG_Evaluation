@@ -80,7 +80,7 @@ urban_metro_rag/
 ## Installation
 
 ```bash
-git clone https://github.com/majedmolhi/urban-metro-rag.git
+git clone https://github.com/majedmolhi/Railway_RAG_Evaluation.git
 cd urban-metro-rag
 pip install -r requirements.txt
 ```
