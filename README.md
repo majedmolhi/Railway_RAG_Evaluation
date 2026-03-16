@@ -192,3 +192,6 @@ This project is licensed under the MIT License. The gold benchmark dataset (`dat
 ## Acknowledgements
 
 Source documents are official publications from RSSB, FRA, Network Rail, ERA, SCRRA, and JICA. Full URLs available in `data/Metadata.csv`.
+
+## Contact
+Majed Molhi — majedmolhi@gmail.com
